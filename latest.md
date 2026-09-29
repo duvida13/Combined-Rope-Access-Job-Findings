@@ -38,7 +38,6 @@ This is a source snapshot, not a fresh check that applications remain open. Open
 ## Germany
 
 - [Industriekletterer / Höhenarbeiter](https://www.arbeitsagentur.de/jobsuche/jobdetail/13103-3134107_4061579-S) — ChatGPT
-- [Industriekletterer Level 1–3](https://www.industrie-kletterer-hamburg.de/ueber-uns/jobs-bei-ikh/) — ChatGPT, Claude, Grok Bot
 - [Konstruktionsmechaniker / Industriekletterer](https://www.arbeitsagentur.de/jobsuche/jobdetail/15160-SNXRTQFCO121QT7R-S) — ChatGPT
 - [Wind Turbine Rope Access Technician – Rotor Blades m/f/d](https://spie.de/karriere/stellenangebote/Wind-Turbine-Rope-Access-Technician--Rotor-Blades-m-f-d-2026-1495) — ChatGPT, Grok Bot
 
@@ -84,10 +83,8 @@ This is a source snapshot, not a fresh check that applications remain open. Open
 - [CORDISTES TP](https://emploi-batiment.ch/job/cordistes-tp/3254596d59) — ChatGPT
 - [Installer / Monteur (80–100%)](https://www.jobs.ch/en/vacancies/detail/e04a8e89-f655-4b12-8be7-3c4624c6e30f/) — Grok Bot
 - [Rope Access Technician / Cordiste (Geneva)](https://www.jobs.ch/en/vacancies/detail/66120639-fea2-4240-8d83-d7c46c07fa82/) — Grok Bot
-- [Seilzugangstechniker](https://www.vertic.ch/Hoehenarbeiten/) — Grok Bot
 
 ## United Kingdom
 
 - [Rope Access Plater (offshore)](https://www.morson.com/jobs/oil-and-gas/contract/aberdeenshire/rope-access-plater) — Grok Bot
-- [Rope Access Technicians (Norway projects)](https://stsgroupuk.co.uk/work-us) — Grok Bot
 
