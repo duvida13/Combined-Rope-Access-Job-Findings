@@ -1,53 +1,248 @@
 position,country,job_url,link_type,reported_by,source_statuses,latest_source_date
-Rope Access Technicians,Norway,https://www.7ocean.no/all-vacancies/rope-access-technicians,individual link (source claim),Grok Bot,Grok Bot: Live; Grok Bot: Live (re-verified); Grok Bot: unverified,2026-09-29
-Industriekletterer Level 1 (+ Level 2),Austria,https://www.allessauber.at/job-weinviertel-marchfeld-niederoesterreich-wien/,individual link (source claim),Grok Bot,Grok Bot: unverified,2026-09-29
-Operario Trabajos Verticales,Spain,https://www.anetva.org/oferta-de-empleo/operario-trabajos-verticales-3/,individual link (source claim),ChatGPT / Grok Bot / Grok Search,ChatGPT: live; Grok Bot: Live (ANETVA **15 Sep 2026**); Grok Bot: Live (ANETVA **16 Sep 2026**); Grok Bot: Live (ANETVA card dated **14 Sep 2026**); Grok Bot: Live (card dated **11 Sep 2026**); Grok Bot: unverified; Grok Search: Live on ANETVA (Barcelona card still on the Sep 2026 index),2026-09-29
-Técnicos en trabajos verticales,Spain,https://www.anetva.org/oferta-de-empleo/tecnicos-en-trabajos-verticales-35/,individual link (source claim),ChatGPT / Claude / Grok Bot / Grok Search,ChatGPT: live; Claude: unverified; Grok Bot: Live (ANETVA **11 Sep 2026** — re-verified); Grok Bot: Live (ANETVA **16 Sep 2026**); Grok Bot: Live (ANETVA card dated **14 Sep 2026**); Grok Bot: Live (ANETVA card dated **15 Sep 2026**); Grok Bot: unverified; Grok Search: Live on ANETVA (card date 11 Sep 2026),2026-09-29
+Rope Access Technicians,Norway,https://www.7ocean.no/all-vacancies/rope-access-technicians,individual link (source claim),Grok Bot,Grok Bot: Live; Grok Bot: Live (re-verified); Grok Bot: unverified,2026-10-01
+Operario Trabajos Verticales,Spain,https://www.anetva.org/oferta-de-empleo/operario-trabajos-verticales-3/,individual link (source claim),ChatGPT / Grok Bot / Grok Search,ChatGPT: live; Grok Bot: Live (ANETVA **15 Sep 2026**); Grok Bot: Live (ANETVA **16 Sep 2026**); Grok Bot: Live (ANETVA card dated **14 Sep 2026**); Grok Bot: Live (card dated **11 Sep 2026**); Grok Bot: unverified; Grok Search: Live on ANETVA (Barcelona card still on the Sep 2026 index),2026-10-01
+Técnicos en trabajos verticales,Spain,https://www.anetva.org/oferta-de-empleo/tecnicos-en-trabajos-verticales-35/,individual link (source claim),ChatGPT / Claude / Grok Bot / Grok Search,ChatGPT: live; Claude: unverified; Grok Bot: Live (ANETVA **11 Sep 2026** — re-verified); Grok Bot: Live (ANETVA **16 Sep 2026**); Grok Bot: Live (ANETVA card dated **14 Sep 2026**); Grok Bot: Live (ANETVA card dated **15 Sep 2026**); Grok Bot: unverified; Grok Search: Live on ANETVA (card date 11 Sep 2026),2026-10-01
+Rope access technicians with welding or NDT skills,Norway,https://bebee.com/no/jobs/rope-access-technicians-with-welding-or-ndt-skills-nor-operation-as--ss-no-1fep4f8,individual link (source claim),ChatGPT,ChatGPT: live,2026-10-01
+Uitvoerder Rope Access,Netherlands,https://bnlaltradservices.recruitee.com/o/uitvoerder-rope-access-drachten,individual link (source claim),ChatGPT / Grok Bot,ChatGPT: live; Grok Bot: unverified,2026-10-01
+Cordiste (mécanique industrielle) Cléon,France,https://candidat.francetravail.fr/offres/recherche/detail/214HWNR,individual link (source claim),ChatGPT / Grok Bot,ChatGPT: live; Grok Bot: unverified,2026-10-01
+Cordiste TP Propriano,France,https://candidat.francetravail.fr/offres/recherche/detail/214JZNJ,individual link (source claim),Grok Bot,Grok Bot: unverified,2026-10-01
+Couvreur / Futur Cordiste CDI Eschau,France,https://candidat.francetravail.fr/offres/recherche/detail/214LQLT,individual link (source claim),Grok Bot,Grok Bot: unverified,2026-10-01
+Cordiste confirmé Le Havre,France,https://candidat.francetravail.fr/offres/recherche/detail/214MRVB,individual link (source claim),Grok Bot,Grok Bot: unverified,2026-10-01
+Cordiste Paris,France,https://candidat.francetravail.fr/offres/recherche/detail/214MRVZ,individual link (source claim),Grok Bot,Grok Bot: unverified,2026-10-01
+CORDISTE CQP2 Clans,France,https://candidat.francetravail.fr/offres/recherche/detail/214NRFG,individual link (source claim),Grok Bot,Grok Bot: unverified,2026-10-01
+CORDISTE H/F (Le Havre),France,https://candidat.francetravail.fr/offres/recherche/detail/214NSGJ,individual link (source claim),Grok Bot,Grok Bot: unverified,2026-10-01
+Cordiste nacelliste Tours,France,https://candidat.francetravail.fr/offres/recherche/detail/214NVCK,individual link (source claim),Grok Bot,Grok Bot: unverified,2026-10-01
+Cordiste Châtellerault,France,https://candidat.francetravail.fr/offres/recherche/detail/214NVDS,individual link (source claim),Grok Bot,Grok Bot: unverified,2026-10-01
+Cordiste (PROMAN / Cordial multi-site),France,https://candidat.francetravail.fr/offres/recherche/detail/214NVGH,individual link (source claim),Grok Bot,Grok Bot: unverified,2026-10-01
+Cordiste Loches,France,https://candidat.francetravail.fr/offres/recherche/detail/214PKKQ,individual link (source claim),Grok Bot,Grok Bot: unverified,2026-10-01
+Chef d'équipe cordiste Maçon (Toulouse),France,https://candidat.francetravail.fr/offres/recherche/detail/214PXNF,individual link (source claim),Grok Bot,Grok Bot: unverified,2026-10-01
+Blade Repair Technicians 2026,Sweden,https://career.ropeaccess.se/jobs/6921840-blade-repair-technicians-2026,individual link (source claim),ChatGPT / Claude / Grok Bot,ChatGPT: live; Claude: unverified; Grok Bot: Live; Grok Bot: Live (re-verified); Grok Bot: unverified,2026-10-01
+Rope Access Technician (Industrial Cleaning),Ireland,https://careers.bidvestnoonan.com/vacancies/24279/rope_access_technician--industrial_cleaning.html,individual link (source claim),Grok Bot,Grok Bot: unverified,2026-10-01
+Rope technician / touwtechnieker,Belgium,https://cri-ropeaccess.com/pages/en/vacature.html,individual link (source claim),ChatGPT / Claude / Grok Bot,ChatGPT: live; Claude: unverified; Grok Bot: Live (employer vacature page opened); Grok Bot: Live (known earlier); Grok Bot: Live (re-verified); Grok Bot: unverified,2026-10-01
+Unsolicited IRATA rope access,Denmark,http://www.davai.dk/en/job/,individual link (source claim),Claude / Grok Bot,Claude: unverified; Grok Bot: unverified,2026-10-01
+Přidejte se k nám (IČO výšky/lana),Czech Republic,https://ed-height.eu/cz/volna-mista,individual link (source claim),Grok Bot,Grok Bot: unverified,2026-10-01
+Freelancer trabalhos verticais,Portugal,https://emprego.com/pt-PT/vagas/freelancer-trabalhos-verticais-0a8d2dc7-1bc0-45e9-88ad-19337b4fddff,individual link (source claim),ChatGPT,ChatGPT: live,2026-10-01
+Técnico/a en trabajos verticales,Spain,https://feinaactiva.gencat.cat/es/search/offers/detail/FA92325782,individual link (source claim),ChatGPT,ChatGPT: live,2026-10-01
+Rope Access Technician,Netherlands,https://fenderbv.com/vacancies/rope-access-technician/,individual link (source claim),Claude / Grok Bot,Claude: unverified; Grok Bot: Live (employer vacancy page opened); Grok Bot: Live (re-opened); Grok Bot: unverified,2026-10-01
+Cordiste expérimenté – Niveau 3,Switzerland,https://fr.simplyhired.ch/job/XzQvWU4N62r9PuTnfdRWRWgeckLS_zoboCjqDnPXTyGMJQdDHGXYNg,individual link (source claim),ChatGPT,ChatGPT: live,2026-10-01
+On/Offshore Rope Access Technician,Belgium,https://futureservices.eu/onoffshore-rope-access-technician/,individual link (source claim),Claude / Grok Bot,Claude: unverified; Grok Bot: unverified,2026-10-01
+Technicien Cordiste H/F (CDI),Belgium,https://groupena.teamtailor.com/jobs/8371043-technicien-cordiste-h-f,individual link (source claim),Grok Bot,Grok Bot: unverified,2026-10-01
+Technicien Cordiste nucléaire H/F,France,https://groupena.teamtailor.com/jobs/8371065-technicien-cordiste-nucleaire-h-f,individual link (source claim),Grok Bot,Grok Bot: unverified,2026-10-01
+Technicien Cordiste H/F (La Rochelle),France,https://groupena.teamtailor.com/jobs/8371067-technicien-cordiste-h-f,individual link (source claim),Grok Bot,Grok Bot: unverified,2026-10-01
+IRATA Level 3 Rope Access Supervisor,Denmark,https://jobportal.dk/job/irata-level-3-rope-access-supervisor/,individual link (source claim),ChatGPT,ChatGPT: unclear/deadline-passed,2026-10-01
+Cordiste nettoyeur / nettoyeuse de vitres,Switzerland,https://jobroom.jobcourier.ch/fr/careers/jobad/6736422-cordiste-nettoyeur-nettoyeuse-de-vitres-h-f-d-2000-neuchatel,individual link (source claim),ChatGPT,ChatGPT: live,2026-10-01
+Rope Access Technician,Netherlands,https://jobs.bilfinger.com/job/Rotterdam-Rope-Access-Technician-ZH-3082KV/1006540301/,individual link (source claim),ChatGPT / Claude / Grok Bot / Grok Search,ChatGPT: live; Claude: unverified; Grok Bot: Live; Grok Bot: Live (re-opened employer page this pass); Grok Bot: Live (re-opened); Grok Bot: unverified; Grok Search: Live (employer careers page),2026-10-01
+Rope Access Technician / Cordiste (Geneva),Switzerland,https://www.jobs.ch/en/vacancies/detail/66120639-fea2-4240-8d83-d7c46c07fa82/,individual link (source claim),Grok Bot,Grok Bot: unverified,2026-10-01
+Cordiste,Switzerland,https://www.jobscout24.ch/fr/job/6904999b-1db5-477d-8564-2a7ca5711541/,individual link (source claim),ChatGPT,ChatGPT: live,2026-10-01
+Tilkomstteknikere og sikringsledere,Norway,https://kaeferenergy.no/karriere/tilkomstteknikere-og-sikringsledere/,individual link (source claim),ChatGPT / Grok Bot,ChatGPT: live; Grok Bot: Live (known earlier); Grok Bot: Live (listed to **30/09/2026** on prior runs; page still open); Grok Bot: Live (listed to **30/09/2026**); Grok Bot: unverified,2026-10-01
+Touwtechnieker,Belgium,https://www.kubussafety.be/vacatures/touwtechnieker/,individual link (source claim),Claude / Grok Bot,Claude: unverified; Grok Bot: unverified,2026-10-01
+Técnicos/as de trabajos verticales,Spain,https://www.lalineavertical.com/es/empleo-tecnicos-trabajos-verticales-tarragona/,individual link (source claim),ChatGPT,ChatGPT: live,2026-10-01
+Rope Access Plater (offshore),United Kingdom,https://www.morson.com/jobs/oil-and-gas/contract/aberdeenshire/rope-access-plater,individual link (source claim),Grok Bot,Grok Bot: unverified,2026-10-01
+Recrutamento Alpinistas,Portugal,https://www.net-empregos.com/15865464/recrutamento-alpinistas-trabalhos-em-altura-lisboa/,individual link (source claim),Claude / Grok Bot,Claude: unverified; Grok Bot: unverified,2026-10-01
+Pedreiros e Pintores de Alturas / Rapel,Portugal,https://www.net-empregos.com/15979044/pedreiros-e-pintores-de-alturas-trabalhos-em-rapel-m-f-barreiro-margem-sul/,individual link (source claim),Grok Bot,Grok Bot: unverified,2026-10-01
+Freelancer trabalhos verticais,Portugal,https://www.net-empregos.com/15989428/freelancer-trabalhos-verticais/,individual link (source claim),Grok Bot,Grok Bot: unverified,2026-10-01
+Alpinista industria,Portugal,https://www.net-empregos.com/15998011/alpinista-industria/,individual link (source claim),Grok Bot,Grok Bot: unverified,2026-10-01
+Alpinista Industrial / Técnico de Acesso por Cordas,Portugal,https://www.net-empregos.com/16019842/alpinista-industrial-tecnico-de-acesso-por-cordas/,individual link (source claim),Grok Bot,Grok Bot: unverified,2026-10-01
+Técnicos de Acesso por Cordas,Portugal,https://www.net-empregos.com/16037302/tecnicos-de-acesso-por-cordas-irata-nivel-1/,individual link (source claim),Grok Bot,Grok Bot: unverified,2026-10-01
+Estamos a Recrutar,Portugal,https://www.net-empregos.com/16057569/estamos-a-recrutar-alpinista/,individual link (source claim),Grok Bot,Grok Bot: unverified,2026-10-01
+Rope Access Supervisor (IRATA 3),Netherlands,https://nl.linkedin.com/jobs/view/rope-access-supervisor-irata-3-at-altrad-services-benelux-spain-4463305362,individual link (source claim),ChatGPT,ChatGPT: live,2026-10-01
+Technicien Cordiste,France,https://offres.emploi-cordiste.fr/listing/%f0%9f%a7%97%e2%99%82%ef%b8%8f-altifusion-recrute-technicien-cordiste-h-f-lyon/,individual link (source claim),Grok Bot,Grok Bot: Live; Grok Bot: Live (emploi-cordiste detail opened); Grok Bot: unverified,2026-10-01
+Cordiste-Électricien,France,https://offres.emploi-cordiste.fr/listing/cordiste-electricien/,individual link (source claim),Grok Bot,Grok Bot: unverified,2026-10-01
+Cordiste H/F Port-de-Bouc,France,https://offres.emploi-cordiste.fr/listing/cordiste-h-f-197/,individual link (source claim),Grok Bot,Grok Bot: unverified,2026-10-01
+Cordiste patrimoine,Spain,https://offres.emploi-cordiste.fr/listing/enterprise-espagnole-de-restauration-du-patrimoine-cherche-cordiste-qualifiee/,individual link (source claim),Grok Bot,Grok Bot: unverified,2026-10-01
+Cordiste BTP / Futur Cordiste,France,https://offres.emploi-cordiste.fr/listing/offre-demploi-cordiste-btp-futur-cordiste-h-f/,individual link (source claim),Grok Bot,"Grok Bot: Live (Immédiate; start from 1 Sep 2026); Grok Bot: Live (listed ""Immédiate""; start from 1 Sep 2026); Grok Bot: unverified",2026-10-01
+Cordiste qualifié,France,https://offres.emploi-cordiste.fr/listing/offre-demploi-cordiste-qualifie-sur-lyon/,individual link (source claim),Grok Bot,Grok Bot: Live; Grok Bot: Live (re-verified); Grok Bot: unverified,2026-10-01
+Technicien Cordiste,France,https://offres.emploi-cordiste.fr/listing/technicien-cordiste-h-f-44/,individual link (source claim),Grok Bot,Grok Bot: Live; Grok Bot: Live (re-verified); Grok Bot: unverified,2026-10-01
+Technicien Cordiste H/F – CDI/CDD,France,https://offres.emploi-cordiste.fr/listing/technicien-cordiste-h-f-cdi-cdd/,individual link (source claim),Grok Bot,Grok Bot: unverified,2026-10-01
+Techniciens Cordistes Travaux Urbains Annecy,France,https://offres.emploi-cordiste.fr/listing/techniciens-cordistes-f-h-travaux-urbains-annecy-74/,individual link (source claim),Grok Bot,Grok Bot: unverified,2026-10-01
+Alpinista Industrial – RopeAccess,Portugal,https://www.olx.pt/anuncio/emprego/alpinista-industrial-ropeaccess-trabalho-em-altura-IDIT7Rk.html,individual link (source claim),ChatGPT,ChatGPT: live,2026-10-01
+Alpinista Industrial,Portugal,https://pt.linkedin.com/jobs/view/alpinista-industrial-at-cabovertical-4390867783,individual link (source claim),ChatGPT,ChatGPT: live,2026-10-01
+Erhvervsklatrere L1 / L2 / L3,Denmark,https://rebteknikeren.dk/job/,individual link (source claim),Claude / Grok Bot,Claude: unverified; Grok Bot: unverified,2026-10-01
+Bladspecialist,Netherlands,https://redak-services.com/nl/werken-bij/vacature-bladspecialist,individual link (source claim),Grok Bot,Grok Bot: unverified,2026-10-01
+Wind Turbine Rope Access Technician – Rotor Blades (2026-1495),Germany,https://spie.de/karriere/stellenangebote/Wind-Turbine-Rope-Access-Technician--Rotor-Blades-m-f-d-2026-1495,individual link (source claim),ChatGPT / Grok Bot,ChatGPT: live; Grok Bot: Live; Grok Bot: Live (Ref **2026-1495**); Grok Bot: Live (re-verified employer careers); Grok Bot: Live (re-verified); Grok Bot: unverified,2026-10-01
+Tilkomstteknikere og sikringsledere,Norway,https://sts-isonor.teamtailor.com/jobs/7400922-tilkomstteknikere-og-sikringsledere,individual link (source claim),Grok Bot,Grok Bot: Live; Grok Bot: Live (detail + apply form open); Grok Bot: Live (known; not re-fetched this pass — retain from earlier verified open); Grok Bot: unverified,2026-10-01
+Open CV hire,Portugal,https://verticalline.wixsite.com/vlropeaccess,individual link (source claim),Grok Bot,Grok Bot: Live (evergreen CV intake — no dated vacancy ID); Grok Bot: unverified,2026-10-01
+Výškový pracovník / horolezec (HPP),Czech Republic,https://www.volnamista.cz/nabidka-prace/vyskoy-pracovnikhorolezec/210183986,individual link (source claim),Grok Bot,Grok Bot: unverified,2026-10-01
+Profesionales para trabajos en altura / Rope Access / IRATA,Spain,https://www.voxjobs.es/ofertas/profesionales-para-trabajos-en-altura-y-trabajos-verticales-eivissa-e22c5363,individual link (source claim),ChatGPT,ChatGPT: live,2026-10-01
+Lanař (continuous),Czech Republic,https://www.zlana.cz/volna-mista/,individual link (source claim),Grok Bot,Grok Bot: unverified,2026-10-01
+Operatore in fune (Lombardia),Italy,https://2high.it/offerte-di-lavoro/operatore-in-fune-lombardia-2/,individual link (source claim),Claude / Grok Bot / Grok Search,Claude: unverified; Grok Bot: Live (employer page opened); Grok Bot: Live (re-verified; Italian required; IRATA L1 preferred); Grok Bot: unverified; Grok Search: Live on Indeed IT description matching the employer’s own Lombardy card,2026-09-30
+Industriekletterer Level 1 (+ Level 2),Austria,https://www.allessauber.at/job-weinviertel-marchfeld-niederoesterreich-wien/,individual link (source claim),Grok Bot,Grok Bot: unverified,2026-09-30
+Rope access & industrial high-rise works (facade/painting/cleaning/maintenance),Lithuania,https://alpinpro.eu/en/,individual link (source claim),Claude,Claude: unverified,2026-09-30
+"Industriekletterer (m/w/d), FISAT Level 1-3",Germany,https://www.backinjob.de/Stellenangebote/jobs/hamburg/industrie-kletterer-hamburg-ikh-gmbh/industriekletterer-m-w-d-in-hamburg-hoehenarbeiter-fisat-level-1-3-m-w-d-999910000000623356.html,individual link (source claim),Claude,Claude: unverified,2026-09-30
+Cordiste Île-de-France,France,https://candidat.francetravail.fr/offres/recherche/detail/213RGWJ,individual link (source claim),Grok Bot,Grok Bot: Live (published **10 Sep 2026**; interim 1 month); Grok Bot: unverified,2026-09-30
+Cordiste,France,https://candidat.francetravail.fr/offres/recherche/detail/214BZGN,individual link (source claim),Grok Bot,Grok Bot: unverified,2026-09-30
+Cordiste IRATA 3 or CQP 2,France,https://candidat.francetravail.fr/offres/recherche/detail/214CVHW,individual link (source claim),ChatGPT,ChatGPT: live,2026-09-30
+Cordiste – church and urban works,France,https://candidat.francetravail.fr/offres/recherche/detail/214DJRT,individual link (source claim),ChatGPT,ChatGPT: live,2026-09-30
+Cordiste en milieu nucléaire,France,https://candidat.francetravail.fr/offres/recherche/detail/214DNTW,individual link (source claim),ChatGPT,ChatGPT: live,2026-09-30
+Technicien cordiste,France,https://candidat.francetravail.fr/offres/recherche/detail/214HCQV,individual link (source claim),ChatGPT,ChatGPT: live,2026-09-30
+Cordiste Ustaritz,France,https://candidat.francetravail.fr/offres/recherche/detail/214KBFH,individual link (source claim),Grok Bot,Grok Bot: unverified,2026-09-30
+Blade Technician (m/w/d) for Wind Turbine Blades,Austria,https://careers.vestas.com/job/Wien-Blade-Technician-(mwd)-for-Wind-Turbines-Blades-in-Parndorf-Lowe/1400329433/,individual link (source claim),Claude,Claude: unverified,2026-09-30
+Industriekletterer / Höhenarbeiter (m/w/d),Germany,https://de.trabajo.org/stellenangebot-3390-d0fb90d2ab9748a0e674f34fa3861841,individual link (source claim),Claude,Claude: unverified,2026-09-30
+Rocciatore / Addetto lavori in fune,Italy,https://www.gigroup.it/offerte-lavoro-dettaglio/villar-san-costanzo-cuneo-rocciatore-addetto-a-lavori-in-fune-trasfertista/1367061/,individual link (source claim),ChatGPT,ChatGPT: live,2026-09-30
+Rope Access Technician IRATA Level 3,United Kingdom,"https://www.glassdoor.com/job-listing/rope-access-technician-irata-level-1-or-2-quantum-access-JV_IC2671300_KO0,41_KE42,56.htm?jl=1009721964766",individual link (source claim),Claude,Claude: unverified,2026-09-30
+Cordiste positions (multiple sites),France,https://www.hellowork.com/fr-fr/entreprises/kaefer-wanner-10417/metier_cordiste.html,individual link (source claim),Claude,Claude: unverified,2026-09-30
+IRATA Technicians,United Kingdom,https://hijobs.net/job/305050/irata-technicians,individual link (source claim),Claude,Claude: unverified,2026-09-30
+Rope Access Welders,Netherlands,https://ips-baltics.com/job-offers/rope-access-welders/,individual link (source claim),Claude,Claude: unverified,2026-09-30
+Rope Access Technician,Belgium,https://www.jobfunders.com/app/job/ddd33b32-60df-45e8-b0c0-ccab1d9cfd1f/rope-access-technician/,individual link (source claim),ChatGPT,ChatGPT: live,2026-09-30
+IRATA Level 3,United Kingdom,https://jobgether.com/offer/6a4257532da8cde35c790ebf-irata-level-3---offshore-uk-projects,individual link (source claim),Claude,Claude: unverified,2026-09-30
+Offshore UK Project,United Kingdom,https://jobgether.com/offer/6a43a8cdeee2f285e30f46fe-offshore-uk-project---sov--irata-3,individual link (source claim),Claude,Claude: unverified,2026-09-30
+Tecnico IRATA Level 2/3,Italy,https://www.jobijoba.it/annunci-di-lavoro/13/142630a6a5cbebc074d4225c329915e1,individual link (source claim),ChatGPT,ChatGPT: live,2026-09-30
+Rope Access Technician,Poland,https://jobtek.eu/en/stanowisko/aerones-rope-access-technician-warsaw-polska/,individual link (source claim),Claude,Claude: unverified,2026-09-30
+Höhenarbeiter (m/w/d) für Fels- und Hangsicherung,Germany,https://www.karriere-suedwestfalen.de/stellenangebot/hoehenarbeiter-fuer-die-fels-und-hangsicherung-6964,individual link (source claim),Claude,Claude: unverified,2026-09-30
+L3 Rope Access Technician,United Kingdom,https://www.networxrecruitment.com/Jobs/Feed?key=d1L9XVdLYT6mLKwXo3%2FVfrT346lFfupqZ998RQFEjO0%3D,individual link (source claim),Claude,Claude: unverified,2026-09-30
+Head Rigger (m/w/d),Germany,https://www.neumannmueller.com/de/wir/jobs/portal/Head-Rigger-mwd-de-j1242.html,individual link (source claim),Claude,Claude: unverified,2026-09-30
+Rigger/Steigerfahrer (m/w/d),Germany,https://www.neumannmueller.com/karriere/portal/Rigger-Steigerfahrer-mwd-de-j851.html,individual link (source claim),Claude,Claude: unverified,2026-09-30
+Cordiste Genève,Switzerland,https://ropeaccesssolutions.ch/cordiste-geneve/,individual link (source claim),Claude,Claude: unverified,2026-09-30
+Industriekletterer / Höhenarbeiter,Austria,https://www.seilkletterarbeiten.at/jobs-industriekletterer-hoehenarbeiter/,individual link (source claim),Grok Bot,Grok Bot: Live (employer jobs page opened); Grok Bot: Live (known earlier); Grok Bot: Live (re-verified); Grok Bot: unverified,2026-09-30
+Erhvervsklatrer (rolling),Denmark,https://skywork.dk/erhvervsklatring/job/,individual link (source claim),Claude / Grok Bot,Claude: unverified; Grok Bot: Live (employer job page opened); Grok Bot: Live (known earlier); Grok Bot: Live (re-verified); Grok Bot: unverified,2026-09-30
+"Höhenarbeiter (m/w), 80-100%",Switzerland,https://www.suedostschweizjobs.ch/job/hoehenarbeiter/1072967,individual link (source claim),Claude,Claude: unverified,2026-09-30
+Chef de chantier Cordiste H/F,France,https://to.indeed.com/aa28zvggvrm9,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-30
+Scaffolders,Ireland,https://to.indeed.com/aa2kh6ybhtnb,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-30
+Scaffolder,Ireland,https://to.indeed.com/aa2yvbn4nlb7,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-30
+Chef d'équipe cordiste maçon H/F,France,https://to.indeed.com/aa4jmyb7jm2q,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-30
+Arborist Climber,United Kingdom,https://to.indeed.com/aa68pxh7j2s4,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-30
+Technicien cordiste H/F,France,https://to.indeed.com/aa6bzrpm7pxg,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-30
+Advanced Scaffolder/Basic Scaffolder,Ireland,https://to.indeed.com/aa6g2q8nhp8g,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-30
+Alpinista / técnico en trabajos verticales,Spain,https://to.indeed.com/aa7kn8c2qkkt,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-30
+"Coordenador Obra, Técnico Acesso por Cordas, Pedreiros, Pintores, Barradores e Serventes",Portugal,https://to.indeed.com/aa7rmqpn7chg,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-30
+Technicien cordiste,France,https://to.indeed.com/aa8cxrrhngkq,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-30
+Couvreur cordiste IDF H/F,France,https://to.indeed.com/aa8vm7tvc4md,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-30
+Técnico de reparación de palas – movilidad nacional – IRATA 3,Spain,https://to.indeed.com/aa99nqzkdknc,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-30
+Tree Surgeon Climber and Groundsman vacancies,United Kingdom,https://to.indeed.com/aa9pff7vftgs,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-30
+Scaffolding Services,Ireland,https://to.indeed.com/aa9rhv7fgn6w,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-30
+Arborist,United Kingdom,https://to.indeed.com/aa9y6lx4n9z2,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-30
+Arborist/Climber/Tree Surgeon,United Kingdom,https://to.indeed.com/aab9ly9dc49h,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-30
+Cordiste polyvalent H/F,France,https://to.indeed.com/aabffmjz7xp7,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-30
+Industrimaler med fagbrev til Rafnes,Norway,https://to.indeed.com/aabsznpgskn6,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-30
+Climber / Arborist,United Kingdom,https://to.indeed.com/aacfgdgv4mrw,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-30
+Experienced Tree Surgeons with Climbing Experience,United Kingdom,https://to.indeed.com/aacjqjtpm2z8,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-30
+Peón para trabajos verticales,Spain,https://to.indeed.com/aacnzq2vmspf,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-30
+Cordiste TP F/H,France,https://to.indeed.com/aad8tjnxvlpk,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-30
+Pedreiros e Pintores de Alturas / Trabalhos em Rapel (M/F),Portugal,https://to.indeed.com/aad9n99278yg,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-30
+Scaffolding Supervisor,Ireland,https://to.indeed.com/aadpsr9yy874,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-30
+Reparador/a de Palas Eólicas con IRATA,Spain,https://to.indeed.com/aafmnnvrsc7l,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-30
+Técnicos de Trabajos en Altura,Spain,https://to.indeed.com/aag4grjy67tp,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-30
+IRATA Level 1 Rope Access Technicians (alt listing),Ireland,https://to.indeed.com/aah6wpnbgdcf,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-30
+Régisseur Cordiste (H/F),France,https://to.indeed.com/aahpwgj2s6ty,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-30
+Rope Access Level 1 or 2,United Kingdom,https://to.indeed.com/aahqm67zz6lm,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-30
+Junior Arborist / Trainee Climber,United Kingdom,https://to.indeed.com/aaj2dw4p6lgz,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-30
+Chef d'équipe Cordiste H/F,France,https://to.indeed.com/aajfbqbj7bht,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-30
+Industriekletterer/Höhenarbeiter (m/w/d),Germany,https://to.indeed.com/aaktgr6jrvkv,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-30
+Arborist/Climber,United Kingdom,https://to.indeed.com/aakyjbpwd9c8,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-30
+Técnico/a en Trabajos Verticales en Lleida,Spain,https://to.indeed.com/aal4w2hfyqdr,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-30
+Tilkomsttekniker mekaniker,Norway,https://to.indeed.com/aal9fwkzjhl9,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-30
+Lokale stillasbyggere til Kårstø,Norway,https://to.indeed.com/aaldpgzksqft,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-30
+Technicien Cordiste H/F,France,https://to.indeed.com/aam8spyh8n8y,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-30
+Arborist Climber / Tree Surgeon,United Kingdom,https://to.indeed.com/aamftt8khh8c,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-30
+NDT Inspektør,Norway,https://to.indeed.com/aanfjlxrbgfz,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-30
+Technicien cordiste H/F polyvalent,France,https://to.indeed.com/aanjmry6qvvj,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-30
+Scaffolder,Ireland,https://to.indeed.com/aanpzdyqfhnb,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-30
+Chef d'équipe bâtiment tout corps d'état cordiste (H/F),France,https://to.indeed.com/aap8s989xtct,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-30
+Técnico de Instalação de Aerogeradores – Mecânica (m/d/f),Portugal,https://to.indeed.com/aap8tjx4gycy,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-30
+Site Services Technician,United Kingdom,https://to.indeed.com/aapzdpp2cktb,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-30
+IRATA Rope Access Technician (All Levels),United Kingdom,https://to.indeed.com/aaqb48snt2wb,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-30
+Cordiste IRATA 2-3 H/F,France,https://to.indeed.com/aaqkry7y7qcj,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-30
+Scaffolders/Labourers/Driver,Ireland,https://to.indeed.com/aaqpnymjcwzp,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-30
+Isolatør med fagbrev til Kårstø,Norway,https://to.indeed.com/aaqqjlhrmppf,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-30
+Driftsinspektør,Norway,https://to.indeed.com/aargvb2fkmts,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-30
+Technicien(ne) cordiste Le Havre,France,https://to.indeed.com/aarwy8m8qf8y,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-30
+General Operative,Ireland,https://to.indeed.com/aas7sbqn4rfr,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-30
+Técnico de Energia Eólica – Projetos Internacionais (Inglês Obrigatório),Portugal,https://to.indeed.com/aat444n2nnjn,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-30
+Técnico(a) de Trabalhos em Altura Rede Móvel – Lisboa,Portugal,https://to.indeed.com/aat62lpy6h6v,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-30
+Service Technician (wind),Portugal,https://to.indeed.com/aat6y9thxfpw,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-30
+Cordiste Nucléaire / Industrie,France,https://to.indeed.com/aatrqs7b882v,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-30
+Cordistes H/F,France,https://to.indeed.com/aatrrmwbbcfx,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-30
+Lokale isolatører til Kårstø,Norway,https://to.indeed.com/aavf7b9m4hr6,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-30
+Técnico/a en trabajos verticales especialista en pintura,Spain,https://to.indeed.com/aavkbh8kqpmt,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-30
+Cordiste CQP 2 (H/F),France,https://to.indeed.com/aavtlvcyztc7,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-30
+Experienced/Second Climber (Arborist),United Kingdom,https://to.indeed.com/aaw6hb8kb7gz,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-30
+Technicien Cordiste Maçon H/F,France,https://to.indeed.com/aawc6nc7vqh6,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-30
+Lokale Arbeidsleder Stillas til Kårstø,Norway,https://to.indeed.com/aawlj76s2v7z,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-30
+Aide couvreur cordiste H/F,France,https://to.indeed.com/aawy4csb8gjv,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-30
+Scaffolders,Ireland,https://to.indeed.com/aaxdnjcwcbyw,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-30
+Tilkomsttekniker elektro,Norway,https://to.indeed.com/aaxkp4hq2cq8,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-30
+Lokale Arbeidsleder Isolering til Kårstø,Norway,https://to.indeed.com/aaxsk72m4j79,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-30
+General Operative,Ireland,https://to.indeed.com/aaxvkzmt8kxw,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-30
+IRATA Level 1 Rope Access Technicians,Ireland,https://to.indeed.com/aaxzcv2yyxlb,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-30
+Técnico de Montagem de Telas/Outdoors – Trabalho em Altura,Portugal,https://to.indeed.com/aaybjlj6f848,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-30
+Reptekniker,Sweden,https://vakanser.se/jobb/vi+anstaller+fler+reptekniker/,individual link (source claim),Grok Bot,Grok Bot: Live (apply by **2026-09-30**); Grok Bot: unverified,2026-09-30
+Cordiste F/H (Océlian / VINCI Construction),France,https://vinci-construction.profils.org/offre-de-emploi/emploi-cordiste-f-h_132011.aspx,individual link (source claim),Grok Bot,Grok Bot: unverified,2026-09-30
+Rigger (in opleiding),Netherlands,https://www.werkenbijwagenborg.com/vacatures/rigger-in-opleiding,individual link (source claim),ChatGPT,ChatGPT: live,2026-09-30
+Industriekletterer,Austria,https://www.zweiseil.at/jobs/industriekletterer/,individual link (source claim),ChatGPT / Claude / Grok Bot,ChatGPT: live; Claude: unverified; Grok Bot: Live (known earlier); Grok Bot: Live (re-verified); Grok Bot: unverified,2026-09-30
 Tilkomsttekniker med elektriker fagbrev,Norway,https://arbeidsplassen.nav.no/stillinger/stilling/e3667175-5880-4d15-86b3-d850ab056b32,individual link (source claim),ChatGPT,ChatGPT: live,2026-09-29
 Industriekletterer / Höhenarbeiter,Germany,https://www.arbeitsagentur.de/jobsuche/jobdetail/13103-3134107_4061579-S,individual link (source claim),ChatGPT,ChatGPT: live,2026-09-29
 Konstruktionsmechaniker / Industriekletterer,Germany,https://www.arbeitsagentur.de/jobsuche/jobdetail/15160-SNXRTQFCO121QT7R-S,individual link (source claim),ChatGPT,ChatGPT: live,2026-09-29
-Uitvoerder Rope Access Drachten,Netherlands,https://bnlaltradservices.recruitee.com/o/uitvoerder-rope-access-drachten,individual link (source claim),Grok Bot,Grok Bot: unverified,2026-09-29
-Cordiste,France,https://candidat.francetravail.fr/offres/recherche/detail/214BZGN,individual link (source claim),Grok Bot,Grok Bot: unverified,2026-09-29
-Cordiste (mécanique industrielle) Cléon,France,https://candidat.francetravail.fr/offres/recherche/detail/214HWNR,individual link (source claim),Grok Bot,Grok Bot: unverified,2026-09-29
-Cordiste Ustaritz,France,https://candidat.francetravail.fr/offres/recherche/detail/214KBFH,individual link (source claim),Grok Bot,Grok Bot: unverified,2026-09-29
-Couvreur / Futur Cordiste CDI Eschau,France,https://candidat.francetravail.fr/offres/recherche/detail/214LQLT,individual link (source claim),Grok Bot,Grok Bot: unverified,2026-09-29
-Cordiste confirmé Le Havre,France,https://candidat.francetravail.fr/offres/recherche/detail/214MRVB,individual link (source claim),Grok Bot,Grok Bot: unverified,2026-09-29
-Cordiste Paris,France,https://candidat.francetravail.fr/offres/recherche/detail/214MRVZ,individual link (source claim),Grok Bot,Grok Bot: unverified,2026-09-29
-Blade Repair Technicians 2026,Sweden,https://career.ropeaccess.se/jobs/6921840-blade-repair-technicians-2026,individual link (source claim),ChatGPT / Claude / Grok Bot,ChatGPT: live; Claude: unverified; Grok Bot: Live; Grok Bot: Live (re-verified); Grok Bot: unverified,2026-09-29
-Rope Access Technician (Industrial Cleaning),Ireland,https://careers.bidvestnoonan.com/vacancies/24279/rope_access_technician--industrial_cleaning.html,individual link (source claim),Grok Bot,Grok Bot: unverified,2026-09-29
+Arborist Climber / Tree Surgeon,Ireland,https://www.bartlett.com/job-opportunities/dublin/arborist-climber-tree-surgeon,individual link (source claim),Claude,Claude: unverified,2026-09-29
 CORDISTES TP,Switzerland,https://emploi-batiment.ch/job/cordistes-tp/3254596d59,individual link (source claim),ChatGPT,ChatGPT: live,2026-09-29
 Coating Inspector / Rope Access Technician,Belgium,https://emprego.sapo.pt/offers/coating-inspector-rope-access-technician?id=3e0d3600-0a3c-4f96-b50f-e7940dbe5eec,individual link (source claim),ChatGPT,ChatGPT: live,2026-09-29
 Rope Access Technicians – IRATA Level 1,Belgium,https://emprego.sapo.pt/offers/tecnicos-de-acesso-por-cordas-irata-nivel-1?id=06716231-e2f9-4399-b5b4-45b1b0a03fa7,individual link (source claim),ChatGPT,ChatGPT: live,2026-09-29
 Inspecteur Cordiste,Luxembourg,https://en.jobs.lu/ApplyForJob.aspx?Id=289446,individual link (source claim),ChatGPT,ChatGPT: live,2026-09-29
-Rope Access Technician,Netherlands,https://fenderbv.com/vacancies/rope-access-technician/,individual link (source claim),Claude / Grok Bot,Claude: unverified; Grok Bot: Live (employer vacancy page opened); Grok Bot: Live (re-opened); Grok Bot: unverified,2026-09-29
-Rope Access Technician,Netherlands,https://jobs.bilfinger.com/job/Rotterdam-Rope-Access-Technician-ZH-3082KV/1006540301/,individual link (source claim),ChatGPT / Claude / Grok Bot / Grok Search,ChatGPT: live; Claude: unverified; Grok Bot: Live; Grok Bot: Live (re-opened employer page this pass); Grok Bot: Live (re-opened); Grok Bot: unverified; Grok Search: Live (employer careers page),2026-09-29
-Rope Access Technician / Cordiste (Geneva),Switzerland,https://www.jobs.ch/en/vacancies/detail/66120639-fea2-4240-8d83-d7c46c07fa82/,individual link (source claim),Grok Bot,Grok Bot: unverified,2026-09-29
+Access Technology Level 2 role (oil & gas polyurethane work),Norway,https://www.finn.no/job/ad/438283039,individual link (source claim),Claude,Claude: unverified,2026-09-29
+RT NDT Technicians needed for exciting new project,Norway,https://www.finn.no/job/fulltime/ad.html?finnkode=371524526,individual link (source claim),Claude,Claude: unverified,2026-09-29
+Rope Access Level 3 – Bridgwater (Hinkley Point B),United Kingdom,"https://www.glassdoor.com/job-listing/rope-access-level-3-bridgwater-altrad-balliauw-group-JV_IC3380932_KO0,30_KE31,52.htm?jl=1010237360849",individual link (source claim),Claude,Claude: unverified,2026-09-29
+Oficial construcción con trabajos verticales,Spain,https://gravitat.com/project/oficial-construccion-con-trabajos-verticales/,individual link (source claim),Claude,Claude: unverified,2026-09-29
+Arborist Climber,United Kingdom,https://idverdecareers.co.uk/vacancy/511/arborist-climber-3,individual link (source claim),Claude,Claude: unverified,2026-09-29
 Installer / Monteur (80–100%),Switzerland,https://www.jobs.ch/en/vacancies/detail/e04a8e89-f655-4b12-8be7-3c4624c6e30f/,individual link (source claim),Grok Bot,Grok Bot: Live (board date 11 Jun 2026 still listed); Grok Bot: Live (jobs.ch detail opened; board date 11 Jun 2026 still listed permanent); Grok Bot: unverified,2026-09-29
-Cordiste,Switzerland,https://www.jobscout24.ch/fr/job/6904999b-1db5-477d-8564-2a7ca5711541/,individual link (source claim),ChatGPT,ChatGPT: live,2026-09-29
-Tilkomstteknikere og sikringsledere,Norway,https://kaeferenergy.no/karriere/tilkomstteknikere-og-sikringsledere/,individual link (source claim),ChatGPT / Grok Bot,ChatGPT: live; Grok Bot: Live (known earlier); Grok Bot: Live (listed to **30/09/2026** on prior runs; page still open); Grok Bot: Live (listed to **30/09/2026**); Grok Bot: unverified,2026-09-29
-Rope Access Plater (offshore),United Kingdom,https://www.morson.com/jobs/oil-and-gas/contract/aberdeenshire/rope-access-plater,individual link (source claim),Grok Bot,Grok Bot: unverified,2026-09-29
+Rope Access Technician (Level 2),United Kingdom,https://jobs.ocs.com/vacancies/41291/rope-access-technician-level-2.html,individual link (source claim),Claude,Claude: unverified,2026-09-29
+Rope Access Technician (Level 3),United Kingdom,https://jobs.ocs.com/vacancies/41292/rope-access-technician-level-3.html,individual link (source claim),Claude,Claude: unverified,2026-09-29
+"Rope Access Technician, Rig Inspection Services",Norway,https://karrierestart.no/ledig-stilling/1152793?viewName=JobAdPrint,individual link (source claim),Claude,Claude: unverified,2026-09-29
+Oferta de empleo: Técnico Trabajo Vertical,Spain,https://www.lalineavertical.com/es/oferta-de-empleo/,individual link (source claim),Claude,Claude: unverified,2026-09-29
+Rope Access Rigger,United Kingdom,https://www.mde-group.com/uk/vacancies/zwxlbmeuz29vzguunduwodyumtmwotdabwrllmfwbgl0cmfrlmnvbq,individual link (source claim),Claude,Claude: unverified,2026-09-29
 NDT Inspector,Norway,https://www.nesfircroft.com/job/ndt-inspektr---publisert/,individual link (source claim),ChatGPT,ChatGPT: live,2026-09-29
-Technicien Cordiste,France,https://offres.emploi-cordiste.fr/listing/%f0%9f%a7%97%e2%99%82%ef%b8%8f-altifusion-recrute-technicien-cordiste-h-f-lyon/,individual link (source claim),Grok Bot,Grok Bot: Live; Grok Bot: Live (emploi-cordiste detail opened); Grok Bot: unverified,2026-09-29
-Cordiste H/F Port-de-Bouc,France,https://offres.emploi-cordiste.fr/listing/cordiste-h-f-197/,individual link (source claim),Grok Bot,Grok Bot: unverified,2026-09-29
-Cordiste patrimoine,Spain,https://offres.emploi-cordiste.fr/listing/enterprise-espagnole-de-restauration-du-patrimoine-cherche-cordiste-qualifiee/,individual link (source claim),Grok Bot,Grok Bot: unverified,2026-09-29
-Cordiste BTP / Futur Cordiste,France,https://offres.emploi-cordiste.fr/listing/offre-demploi-cordiste-btp-futur-cordiste-h-f/,individual link (source claim),Grok Bot,"Grok Bot: Live (Immédiate; start from 1 Sep 2026); Grok Bot: Live (listed ""Immédiate""; start from 1 Sep 2026); Grok Bot: unverified",2026-09-29
-Cordiste qualifié,France,https://offres.emploi-cordiste.fr/listing/offre-demploi-cordiste-qualifie-sur-lyon/,individual link (source claim),Grok Bot,Grok Bot: Live; Grok Bot: Live (re-verified); Grok Bot: unverified,2026-09-29
-Technicien Cordiste,France,https://offres.emploi-cordiste.fr/listing/technicien-cordiste-h-f-44/,individual link (source claim),Grok Bot,Grok Bot: Live; Grok Bot: Live (re-verified); Grok Bot: unverified,2026-09-29
-Techniciens Cordistes Travaux Urbains Annecy,France,https://offres.emploi-cordiste.fr/listing/techniciens-cordistes-f-h-travaux-urbains-annecy-74/,individual link (source claim),Grok Bot,Grok Bot: unverified,2026-09-29
-Bladspecialist,Netherlands,https://redak-services.com/nl/werken-bij/vacature-bladspecialist,individual link (source claim),Grok Bot,Grok Bot: unverified,2026-09-29
-Industriekletterer / Höhenarbeiter,Austria,https://www.seilkletterarbeiten.at/jobs-industriekletterer-hoehenarbeiter/,individual link (source claim),Grok Bot,Grok Bot: Live (employer jobs page opened); Grok Bot: Live (known earlier); Grok Bot: Live (re-verified); Grok Bot: unverified,2026-09-29
-Wind Turbine Rope Access Technician – Rotor Blades m/f/d,Germany,https://spie.de/karriere/stellenangebote/Wind-Turbine-Rope-Access-Technician--Rotor-Blades-m-f-d-2026-1495,individual link (source claim),ChatGPT / Grok Bot,ChatGPT: live; Grok Bot: Live; Grok Bot: Live (Ref **2026-1495**); Grok Bot: Live (re-verified employer careers); Grok Bot: Live (re-verified); Grok Bot: unverified,2026-09-29
-Tilkomstteknikere og sikringsledere,Norway,https://sts-isonor.teamtailor.com/jobs/7400922-tilkomstteknikere-og-sikringsledere,individual link (source claim),Grok Bot,Grok Bot: Live; Grok Bot: Live (detail + apply form open); Grok Bot: Live (known; not re-fetched this pass — retain from earlier verified open); Grok Bot: unverified,2026-09-29
+Cordiste H/F,France,https://offres.emploi-cordiste.fr/listing/cordiste-h-f-94/,individual link (source claim),Claude,Claude: unverified,2026-09-29
+Cordiste H/F,France,https://to.indeed.com/aa2cxfxphj9g,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-29
+Rope Access Technician,Germany,https://to.indeed.com/aa2kczxzjvlv,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-29
+Pedreiros e Pintores de Alturas / Trabalhos em Rapel (M/F),Portugal,https://to.indeed.com/aa47cqbmnnng,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-29
+Técnicos de Trabajos en Altura,Spain,https://to.indeed.com/aa66j7t4rm2l,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-29
+"Coordenador Obra, Técnico Acesso por Cordas, Pedreiros, Pintores, Barradores e Serventes",Portugal,https://to.indeed.com/aa6k4mtfk69s,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-29
+Baumpfleger / Baumkletterer (m/w/d),Germany,https://to.indeed.com/aa8mvycl27sy,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-29
+IRATA Rope Access Technician (All Levels),United Kingdom,https://to.indeed.com/aa98kh2d92gx,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-29
+Cordiste CQP 2,France,https://to.indeed.com/aacnmxfdsm4h,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-29
+Service Technician (m/w/d) Blades,Germany,https://to.indeed.com/aaflttryclzk,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-29
+Verfahrensmechaniker (m/w/d) Windenergie – Rotorblattreparatur (Seilbühne),Germany,https://to.indeed.com/aafqyhvntvz6,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-29
+Cordiste urbain CQP1/CQP2/CATC,France,https://to.indeed.com/aah4ltw84hg4,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-29
+Baumpflege Helfer / Bodenmann (m/w/d),Germany,https://to.indeed.com/aah4rbh6zxmz,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-29
+Rigger,Germany,https://to.indeed.com/aah4wxh89gpp,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-29
+Industriekletterer/Höhenarbeiter (m/w/d),Germany,https://to.indeed.com/aahv9zftv4tl,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-29
+Industriekletterer m/w/d,Germany,https://to.indeed.com/aajhllz2zcsb,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-29
+Técnico de reparación de palas – movilidad nacional – IRATA 3,Spain,https://to.indeed.com/aajmqhzgbbxm,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-29
+Rope Access Level 3 – Painter Blaster,United Kingdom,https://to.indeed.com/aajpklpwmx7f,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-29
+Cordiste urbain CQP1/CQP2/CATC,France,https://to.indeed.com/aajsmympq7yg,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-29
+Cordiste forage H/F,France,https://to.indeed.com/aakwytgt4lnq,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-29
+Höhenarbeiter (m/w),Switzerland,https://to.indeed.com/aakxgqnn4nnw,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-29
+Rigger / Höhenarbeiter in der Veranstaltungstechnik (m/w/d),Germany,https://to.indeed.com/aal78wng7h6m,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-29
+Reparador/a de Palas Eólicas con IRATA,Spain,https://to.indeed.com/aamf6bzrvpw8,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-29
+IRATA Supervisor,United Kingdom,https://to.indeed.com/aanfh47h94rd,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-29
+Vollzeit-Kletterer/Industriekletterer,Germany,https://to.indeed.com/aanmdymkm9dw,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-29
+Trainee Rope Access Cleaning & Maintenance Technician,United Kingdom,https://to.indeed.com/aannql6jjl99,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-29
+Alpinista / técnico en trabajos verticales,Spain,https://to.indeed.com/aapkrbj4rxtq,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-29
+Technicien Cordiste H/F,Belgium,https://to.indeed.com/aapslp6kkgy2,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-29
+Blade Technician (m/w/d) for Wind Turbine Blades,Germany,https://to.indeed.com/aaq2wdmd6f6k,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-29
+Ouvrier cordiste (travaux publics),France,https://to.indeed.com/aaqwclhs9jzk,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-29
+Industriekletterer,Germany,https://to.indeed.com/aar6kqwk7x6x,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-29
+Cordiste urbain CQP1/CQP2/CATC,France,https://to.indeed.com/aar9ssh2dgvx,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-29
+Wind Turbine Rope Access Technician – Rotor Blades (m/f/d),Germany,https://to.indeed.com/aarq98kyrh9q,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-29
+Windturbine Service Technician,Belgium,https://to.indeed.com/aas7rp6fwnht,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-29
+Servicetechniker Rotorblatt – Windkraft / Industriekletterer (m/w/d),Germany,https://to.indeed.com/aas8j7ly6gb6,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-29
+Grounder (m/w/d),Germany,https://to.indeed.com/aatnsj2wcwpf,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-29
+Industriekletterer in Ausbildung,Germany,https://to.indeed.com/aatvdjjrhg7z,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-29
+Industriekletterer / Quereinsteiger aus dem Handwerk (m/w/d),Germany,https://to.indeed.com/aaw78rxwtbg6,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-29
+Cordiste CQP2 H/F,France,https://to.indeed.com/aawjyjgv4n9c,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-29
+Industriekletterer / Höhenarbeiter (m/w/d),Germany,https://to.indeed.com/aawytlflvxjl,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-29
+Formation Couvreur/Soudeur Cordiste,France,https://to.indeed.com/aaxkm2yd7blh,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-29
+Servicetechniker (m/w/d) Windenergie – Rotorblattreparatur (Seilbühne),Germany,https://to.indeed.com/aaym7sf4kqns,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-29
+Rope Access Level 1 or 2,United Kingdom,https://to.indeed.com/aaz4vzw4zzn9,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-29
+Aufsichtsführender Höhenarbeiter / Industriekletterer (m/w/d),Germany,https://to.indeed.com/aazpkkl2t8b7,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-29
+Weiterbildung zum Höhenarbeiter (m/w/d),Germany,https://to.indeed.com/aazwlkhnzgyf,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-29
+Junior Project Manager (Structures / Rope Access),United Kingdom,https://www.totaljobs.com/job/junior-project-manager-structures-rope-access/certain-advantage-job107268058,individual link (source claim),Claude,Claude: unverified,2026-09-29
 Técnico Trabajos Verticales (construcción),Spain,https://ttrinternational.com/ofertas-de-empleo/tecnico-trabajos-verticales-lleida/,individual link (source claim),Grok Bot,Grok Bot: unverified,2026-09-29
 Técnicos Trabajos Verticales Cataluña,Spain,https://ttrinternational.com/ofertas-de-empleo/tecnicos-trabajos-verticales-para-trabajar-en-barcelona/,individual link (source claim),Grok Bot,Grok Bot: Live; Grok Bot: Live (TTR; email apply open on page); Grok Bot: Live (TTR; email apply open); Grok Bot: Live (index still lists; detail timeout today); Grok Bot: unverified,2026-09-29
-Reptekniker,Sweden,https://vakanser.se/jobb/vi+anstaller+fler+reptekniker/,individual link (source claim),Grok Bot,Grok Bot: Live (apply by **2026-09-30**); Grok Bot: unverified,2026-09-29
-Cordiste F/H (Océlian / VINCI Construction),France,https://vinci-construction.profils.org/offre-de-emploi/emploi-cordiste-f-h_132011.aspx,individual link (source claim),Grok Bot,Grok Bot: unverified,2026-09-29
 Riggers Wanted,Denmark,https://workindenmark.jobnet.dk/find-job/1fdceacd-3859-4321-8764-d16e16da82a5,individual link (source claim),ChatGPT,ChatGPT: live,2026-09-29
 Mechanical Fitter – Industrial Machinery,Denmark,https://workindenmark.jobnet.dk/find-job/ab73efb8-1141-4949-8c4a-fc123d140f37,individual link (source claim),ChatGPT,ChatGPT: live,2026-09-29
-Industriekletterer,Austria,https://www.zweiseil.at/jobs/industriekletterer/,individual link (source claim),ChatGPT / Claude / Grok Bot,ChatGPT: live; Claude: unverified; Grok Bot: Live (known earlier); Grok Bot: Live (re-verified); Grok Bot: unverified,2026-09-29
+ADHOC Rope Access NDT Technician,United Kingdom,https://www.ziprecruiter.co.uk/jobs/451079656-adhoc-rope-access-ndt-technician-at-bilfinger-industrial-services-inc,individual link (source claim),Claude,Claude: unverified,2026-09-29
+Arborist – Climber,United Kingdom,https://www.ziprecruiter.co.uk/jobs/595890231-arborist-climber-at-idverde-rpo,individual link (source claim),Claude,Claude: unverified,2026-09-29
 Industriekletterer in Ausbildung,Austria,https://www.zweiseil.at/jobs/industriekletterer-in-ausbildung/,individual link (source claim),ChatGPT / Claude,ChatGPT: live; Claude: unverified,2026-09-29
 Operatore in fune – Emilia Romagna,Italy,https://2high.it/offerte-di-lavoro/operatore-in-fune-emilia-romagna/,individual link (source claim),Grok Bot,Grok Bot: unverified,2026-09-28
-Operatore in fune – Lombardia,Italy,https://2high.it/offerte-di-lavoro/operatore-in-fune-lombardia-2/,individual link (source claim),Grok Bot / Grok Search,Grok Bot: Live (employer page opened); Grok Bot: Live (re-verified; Italian required; IRATA L1 preferred); Grok Bot: unverified; Grok Search: Live on Indeed IT description matching the employer’s own Lombardy card,2026-09-28
 Operatore in fune – LAZIO (Roma),Italy,https://2high.it/offerte-di-lavoro/operatore-in-fune-roma/,individual link (source claim),Grok Bot,Grok Bot: unverified,2026-09-28
 Muratore/Operaio Edile La Spezia,Italy,https://acrobaticagroup.com/lavora-con-noi/posizionisc/muratore-operaio-edile-la-spezia/,individual link (source claim),Grok Bot,Grok Bot: unverified,2026-09-28
 Muratore/Operaio Edile Latina,Italy,https://acrobaticagroup.com/lavora-con-noi/posizionisc/muratore-operaio-edile-latina/,individual link (source claim),Grok Bot,Grok Bot: unverified,2026-09-28
@@ -206,11 +401,6 @@ Cordiste F/H,France,https://fr.linkedin.com/jobs/view/cordiste-f-h-irec-emploi-h
 Rope Access Technician M/F,Switzerland,https://jobportalschweiz.ch/en/jobs/b65c4a7e-ec64-42b7-bae5-58a5da179c7d,individual link (source claim),ChatGPT,ChatGPT: live,2026-09-24
 CORDISTE (H/F) – VALAIS,Switzerland,https://kalitec.pgn.ch/job/14205-cordiste-hf-%E2%80%93-valais,individual link (source claim),ChatGPT,ChatGPT: live,2026-09-24
 "Rope Access Technician Team Lead, Rig Inspection Services",Norway,https://karrierestart.no/ledig-stilling/899217,individual link (source claim),Claude,Claude: unverified,2026-09-24
-Recrutamento Alpinistas / Trabalhos em Altura,Portugal,https://www.net-empregos.com/15865464/recrutamento-alpinistas-trabalhos-em-altura-lisboa/,individual link (source claim),Claude / Grok Bot,Claude: unverified; Grok Bot: unverified,2026-09-24
-Pedreiros e Pintores de Alturas / Rapel,Portugal,https://www.net-empregos.com/15979044/pedreiros-e-pintores-de-alturas-trabalhos-em-rapel-m-f-barreiro-margem-sul/,individual link (source claim),Grok Bot,Grok Bot: unverified,2026-09-24
-Freelancer trabalhos verticais,Portugal,https://www.net-empregos.com/15989428/freelancer-trabalhos-verticais/,individual link (source claim),Grok Bot,Grok Bot: unverified,2026-09-24
-Alpinista industria,Portugal,https://www.net-empregos.com/15998011/alpinista-industria/,individual link (source claim),Grok Bot,Grok Bot: unverified,2026-09-24
-Alpinista Industrial / Técnico de Acesso por Cordas,Portugal,https://www.net-empregos.com/16019842/alpinista-industrial-tecnico-de-acesso-por-cordas/,individual link (source claim),Grok Bot,Grok Bot: unverified,2026-09-24
 Reptekniker,Sweden,https://proaccess.se/jobba-som-reptekniker/,individual link (source claim),ChatGPT / Claude,ChatGPT: live; Claude: unverified,2026-09-24
 Rope Access Radiographers (UK Offshore),UK,https://rigg-access.com/jobs/rope-access-radiographers-for-uk-offshore-roles/10497/,individual link (source claim),Claude,Claude: unverified,2026-09-24
 Rope Access Welders (Onshore and Offshore),UK,https://rigg-access.com/jobs/rope-access-welders-for-onshore-and-offshore/10641,individual link (source claim),Claude,Claude: unverified,2026-09-24
@@ -243,18 +433,11 @@ Trainee Rope Access Cleaning & Maintenance Technician,UK,https://to.indeed.com/a
 Rigger / Höhenarbeiter in der Veranstaltungstechnik (m/w/d),Germany,https://to.indeed.com/aaznrstndgn4,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-24
 Técnico/a de Trabajos Verticales para proyecto estable en construcción en Lleida,Spain,https://ttrinternational.com/ofertas-de-empleo/oferta-empleo-trabajos-verticales-construccion/,individual link (source claim),ChatGPT / Grok Bot / Grok Search,ChatGPT: live; Grok Bot: Live; Grok Bot: Live (re-verified TTR); Grok Search: Listed on TTR; apply by email,2026-09-24
 Rope Access Technician (Level 2),UK,https://uk.jooble.org/jdp/3382687733986265021,individual link (source claim),Claude,Claude: unverified,2026-09-24
-Emprego (CV intake),Portugal,https://verticalline.wixsite.com/vlropeaccess,individual link (source claim),Grok Bot,Grok Bot: Live (evergreen CV intake — no dated vacancy ID); Grok Bot: unverified,2026-09-24
-Lanař / výškové práce (continuous),Czech Republic,https://www.zlana.cz/volna-mista/,individual link (source claim),Grok Bot,Grok Bot: unverified,2026-09-24
-Rope technician,Belgium,https://cri-ropeaccess.com/pages/en/vacature.html,individual link (source claim),ChatGPT / Claude / Grok Bot,ChatGPT: live; Claude: unverified; Grok Bot: Live (employer vacature page opened); Grok Bot: Live (known earlier); Grok Bot: Live (re-verified); Grok Bot: unverified,2026-09-23
-Unsolicited IRATA rope access,Denmark,http://www.davai.dk/en/job/,individual link (source claim),Claude / Grok Bot,Claude: unverified; Grok Bot: unverified,2026-09-23
 Cordiste F/H,France,https://emploi.batiactu.com/offre-emploi/ocelian-cordiste-f-h-saint-nazaire-893223.php,individual link (source claim),Claude,Claude: unverified,2026-09-23
-Technicien Cordiste (CDI),Belgium,https://groupena.teamtailor.com/jobs/8371043-technicien-cordiste-h-f,individual link (source claim),Grok Bot,Grok Bot: unverified,2026-09-23
 Cordiste H/F,France,https://www.hellowork.com/fr-fr/emplois/83582511.html,individual link (source claim),ChatGPT,ChatGPT: live,2026-09-23
 Cordiste H/F,France,https://www.hellowork.com/fr-fr/emplois/83592697.html,individual link (source claim),ChatGPT,ChatGPT: live,2026-09-23
 Cordiste H/F,France,https://www.hellowork.com/fr-fr/emplois/83597326.html,individual link (source claim),ChatGPT,ChatGPT: live,2026-09-23
-Touwtechnieker (IRATA/SPRAT),Belgium,https://www.kubussafety.be/vacatures/touwtechnieker/,individual link (source claim),Claude / Grok Bot,Claude: unverified; Grok Bot: unverified,2026-09-23
 Rope Access Pipefitter for Drilling Platform (UK),UK,https://oceancrew.org/vacancies/drilling/fitter/rope-access-pipefitter-for-drilling-platform-uk_02-05-2026,individual link (source claim),Claude,Claude: unverified,2026-09-23
-Erhvervsklatrer / håndværker on rope,Denmark,https://skywork.dk/erhvervsklatring/job/,individual link (source claim),Claude / Grok Bot,Claude: unverified; Grok Bot: Live (employer job page opened); Grok Bot: Live (known earlier); Grok Bot: Live (re-verified); Grok Bot: unverified,2026-09-23
 Offshore Jobs Vacancy – IRATA Level 2 Rope Access Technician,UK,https://www.subnetservices.com/recruitment/detail/irata-level-2-rope-access-technician-subnet00096,individual link (source claim),Claude,Claude: unverified,2026-09-23
 OPERATORE SU FUNE,Italy,https://to.indeed.com/aa2pz9n4ksy6,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-23
 Rope Access NDT Technicians (duplicate posting),Denmark,https://to.indeed.com/aa49bwsf8zbk,short job link; open to confirm destination,Claude,Claude: unverified,2026-09-23
@@ -485,7 +668,6 @@ Aerones — Rope Access Technician (Europe multi-country),Europe multi-country (
 Sima Vertical — Peón Especialista,ES,https://www.anetva.org/oferta-de-empleo/peon-especialista-3/,individual link (source claim),Claude / Grok Bot,Claude: unverified; Grok Bot: Live (ANETVA **8 Sep 2026** — re-verified); Grok Bot: Live (ANETVA **8 Sep 2026**),2026-09-16
 RES — Técnico/a Reparación de Palas (Nacional),ES,https://www.anetva.org/oferta-de-empleo/tecnico-a-de-reparacion-de-palas-para-trabajos-verticales-nacional/,individual link (source claim),ChatGPT / Grok Bot,ChatGPT: needs-revalidation; Grok Bot: Live (ANETVA **27 May 2026** still listed); Grok Bot: Live (ANETVA **27 May 2026** still listed; aged); Grok Bot: Live (ANETVA **27 May 2026** still listed; epreselec apply),2026-09-16
 PROXIMA INTERIM — Cordiste TP (H/F),FR,https://candidat.francetravail.fr/offres/recherche/detail/213QHPZ,individual link (source claim),Grok Bot,Grok Bot: Live (updated **09 Sep 2026**),2026-09-16
-France Travail — Cordiste (Île-de-France interim),FR,https://candidat.francetravail.fr/offres/recherche/detail/213RGWJ,individual link (source claim),Grok Bot,Grok Bot: Live (published **10 Sep 2026**; interim 1 month),2026-09-16
 Assistant(e) Cordiste Urbain,France,https://candidat.francetravail.fr/offres/recherche/detail/213RWHF,individual link (source claim),ChatGPT,ChatGPT: live,2026-09-16
 Operatore su fune,Italy,https://www.glassdoor.it/job-listing/operatore-su-fune-blackline-srls-JV_IC2734746_KO0%2C17_KE18%2C32.htm?jl=1010180696020,individual link (source claim),ChatGPT,ChatGPT: duplicate-of-RA-057,2026-09-16
 Cordiste Risques Naturels,France,https://groupe-can.com/jobs/cordiste-risques-naturels/,individual link (source claim),ChatGPT,ChatGPT: live,2026-09-16
@@ -2521,7 +2703,6 @@ Tilkomst tekniker / Rope Access (offshore),Norway,https://karrierestart.no/ledig
 MANUTENTORE - OPERATORE IN FUNE (M/F/X),Italy,https://offertelavoro.samsic-hr.it/it/offerte/bol-1028000-manutentore-operatore-fune-m-f-x,individual link (source claim),Claude,Claude: unverified,2026-08-08
 CORDISTE F/H Irata 1 ou 2,France,http://offres.emploi-cordiste.fr/listing/cordiste-f-h-irata-1-ou-2/,individual link (source claim),Claude,Claude: unverified,2026-08-08
 Rope Access Technicians,Norway,https://www.qualitech.no/ropeaccessjobs,individual link (source claim),Claude,Claude: unverified,2026-08-08
-Job (rope access craftspeople),Denmark,https://rebteknikeren.dk/job/,individual link (source claim),Claude,Claude: unverified,2026-08-08
 Seilzugangstechniker Level 2-3 (m/w/d),Germany,https://rotorworks-group.de/2025/08/22/rope-access-technicians-level-2-3-en/?lang=en,individual link (source claim),Claude,Claude: unverified,2026-08-08
 Cordiste (H/F/D),Switzerland,https://www.team.jobs/fr/offres-demplois/jobs/87577,individual link (source claim),Claude,Claude: unverified,2026-08-08
 Cordiste vitreux (H/F/D),Switzerland,https://www.team.jobs/fr/offres-demplois/jobs/89259,individual link (source claim),Claude,Claude: unverified,2026-08-08
@@ -2664,7 +2845,6 @@ Cordiste F/H,France,https://www.welcometothejungle.com/fr/companies/vinci-constr
 Rope access medewerker,Netherlands,https://www.werkenbijeurosafe.nl/vacatures/rope-access-medewerker,individual link (source claim),Claude,Claude: unverified,2026-08-06
 Técnico de acesso por cordas,Portugal,https://emprego.sapo.pt/offers/tecnico-de-acesso-por-cordas?id=5093aa7b-f696-4b92-8afd-205d74d587d1,individual link (source claim),Claude,Claude: unverified,2026-08-05
 Rope Access Technician,Netherlands,https://en.fenderbv.nl/vacatures/rope-access-technician,individual link (source claim),Claude,Claude: unverified,2026-08-05
-On/Offshore Rope Access Technician,Run 2 update — 28 new postings,https://futureservices.eu/onoffshore-rope-access-technician/,individual link (source claim),Claude,Claude: unverified,2026-08-05
 Rope Access Technician,Netherlands,https://heightspecialists.com/vacatures/rope-access-technician/,individual link (source claim),Claude,Claude: unverified,2026-08-05
 Rope Access Technician,Switzerland,https://www.inswitzerland.net/jobs/rope-access-technician-rope-access-technicianess-41531,individual link (source claim),Claude,Claude: unverified,2026-08-05
 Técnico trabajo vertical,Spain,https://www.lalineavertical.com/job-offer-rope-access-technician-work-in-cadiz-bay/,individual link (source claim),Claude,Claude: unverified,2026-08-05
