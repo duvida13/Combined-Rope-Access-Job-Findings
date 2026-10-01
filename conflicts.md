@@ -2,7 +2,7 @@
 
 These are source claims, not fresh vacancy checks. No source was overwritten. Different wording alone may describe the same job.
 
-## [Operatore in fune – Lombardia](https://2high.it/offerte-di-lavoro/operatore-in-fune-lombardia-2/) — status / title / country
+## [Operatore in fune (Lombardia)](https://2high.it/offerte-di-lavoro/operatore-in-fune-lombardia-2/) — status / title / country
 
 - Grok Bot: 2High — Operatore in fune (Lombardia); Italy; Live (employer page opened) ([finding](https://github.com/duvida13/GROK-BOT/blob/main/finds/2026-09-14.md))
 - Grok Bot: 2High — Operatore in fune (Lombardia); IT; Live (re-verified; Italian required; IRATA L1 preferred) ([finding](https://github.com/duvida13/GROK-BOT/blob/main/finds/2026-09-15.md))
@@ -11,6 +11,7 @@ These are source claims, not fresh vacancy checks. No source was overwritten. Di
 - Grok Bot: Operatore in fune – Lombardia; Italy; unverified ([finding](https://github.com/duvida13/GROK-BOT/blob/main/finds/2026-09-23.md))
 - Grok Bot: Operatore in fune – Lombardia; Italy; unverified ([finding](https://github.com/duvida13/GROK-BOT/blob/main/finds/2026-09-28.md))
 - Grok Search: 2High — Tecnico / operatore in fune (Milan and Rome); Italy; Live on Indeed IT description matching the employer’s own Lombardy card ([finding](https://github.com/duvida13/GROK-Rope-Access-Job-Search/blob/main/finds/2026-09-11-pass2.md))
+- Claude: Operatore in fune (Lombardia); Italy; unverified ([finding](https://github.com/duvida13/rope-access-job-search/blob/dfb9599ddc67f522b171aaadde55d9c05250d49a/digests/2026-09-30.md))
 
 ## [ALLROUND ONDERHOUDSMEDEWERKER / ROPE ACCESS TECHNICIAN](https://www.abseiltechnieken.nl/vacatures/) — status
 
@@ -40,6 +41,9 @@ These are source claims, not fresh vacancy checks. No source was overwritten. Di
 - Grok Bot: Operario Trabajos Verticales; Spain; unverified ([finding](https://github.com/duvida13/GROK-BOT/blob/main/finds/2026-09-28.md))
 - Grok Bot: Operario Trabajos Verticales; Spain; unverified ([finding](https://github.com/duvida13/GROK-BOT/blob/main/finds/2026-09-29.md))
 - Grok Search: Eix Grup — Operario Trabajos Verticales; Spain; Live on ANETVA (Barcelona card still on the Sep 2026 index) ([finding](https://github.com/duvida13/GROK-Rope-Access-Job-Search/blob/main/finds/2026-09-11-pass2.md))
+- ChatGPT: Operario Trabajos Verticales; Spain; live ([finding](https://github.com/duvida13/ChatGPT-Daily-Job-Search-Rope-Access-/blob/017d12fc2c08d51ee96ec1a26094de98fbfdd4bf/data/job-index.md))
+- Grok Bot: Operario Trabajos Verticales; Spain; unverified ([finding](https://github.com/duvida13/GROK-BOT/blob/0877caa743b059a7be601e3d7ff6a2920c2d8064/finds/2026-09-30.md))
+- Grok Bot: Operario Trabajos Verticales; Spain; unverified ([finding](https://github.com/duvida13/GROK-BOT/blob/0877caa743b059a7be601e3d7ff6a2920c2d8064/finds/2026-10-01.md))
 
 ## [Sima Vertical — Peón Especialista](https://www.anetva.org/oferta-de-empleo/peon-especialista-3/) — status / title / country
 
@@ -82,6 +86,9 @@ These are source claims, not fresh vacancy checks. No source was overwritten. Di
 - Grok Bot: Técnicos en trabajos verticales; Spain; unverified ([finding](https://github.com/duvida13/GROK-BOT/blob/main/finds/2026-09-28.md))
 - Grok Bot: Técnicos en trabajos verticales; Spain; unverified ([finding](https://github.com/duvida13/GROK-BOT/blob/main/finds/2026-09-29.md))
 - Grok Search: Descuelgue Trabajos en Altura — Técnicos en trabajos verticales; Spain; Live on ANETVA (card date 11 Sep 2026) ([finding](https://github.com/duvida13/GROK-Rope-Access-Job-Search/blob/main/finds/2026-09-11-pass2.md))
+- ChatGPT: Técnicos en trabajos verticales; Spain; live ([finding](https://github.com/duvida13/ChatGPT-Daily-Job-Search-Rope-Access-/blob/017d12fc2c08d51ee96ec1a26094de98fbfdd4bf/data/job-index.md))
+- Grok Bot: Técnicos en trabajos verticales; Spain; unverified ([finding](https://github.com/duvida13/GROK-BOT/blob/0877caa743b059a7be601e3d7ff6a2920c2d8064/finds/2026-09-30.md))
+- Grok Bot: Técnicos en trabajos verticales; Spain; unverified ([finding](https://github.com/duvida13/GROK-BOT/blob/0877caa743b059a7be601e3d7ff6a2920c2d8064/finds/2026-10-01.md))
 
 ## [ANETVA ALTTION/Ronergy blade card dated **9 Feb 2026](https://www.anetva.org/oferta-de-empleo/tecnics-de-inspeccion-y-reparacion-de-palas/) — title / country
 
@@ -113,10 +120,24 @@ These are source claims, not fresh vacancy checks. No source was overwritten. Di
 - ChatGPT: Rope Access L1/2 IRATA – Verfspuiter/Straler; Netherlands; live ([finding](https://github.com/duvida13/ChatGPT-Daily-Job-Search-Rope-Access-/blob/main/data/job-index.md))
 - Claude: Vacature: Rope Access L1/2 IRATA - Verfspuiter/Straler (m/v/x); Netherlands; unverified ([finding](https://github.com/duvida13/rope-access-job-search/blob/main/digests/2026-08-08.md))
 
+## [Uitvoerder Rope Access](https://bnlaltradservices.recruitee.com/o/uitvoerder-rope-access-drachten) — status / title
+
+- Grok Bot: Uitvoerder Rope Access Drachten; Netherlands; unverified ([finding](https://github.com/duvida13/GROK-BOT/blob/main/finds/2026-09-29.md))
+- ChatGPT: Uitvoerder Rope Access; Netherlands; live ([finding](https://github.com/duvida13/ChatGPT-Daily-Job-Search-Rope-Access-/blob/017d12fc2c08d51ee96ec1a26094de98fbfdd4bf/data/job-index.md))
+- Grok Bot: Uitvoerder Rope Access Drachten; Netherlands; unverified ([finding](https://github.com/duvida13/GROK-BOT/blob/0877caa743b059a7be601e3d7ff6a2920c2d8064/finds/2026-09-30.md))
+- Grok Bot: Uitvoerder Rope Access Drachten; Netherlands; unverified ([finding](https://github.com/duvida13/GROK-BOT/blob/0877caa743b059a7be601e3d7ff6a2920c2d8064/finds/2026-10-01.md))
+
 ## [Formation Technicien Cordiste Nucléaire (H/F)](https://candidat.francetravail.fr/offres/recherche/detail/212BCKP) — title
 
 - ChatGPT: Formation Technicien cordiste nucléaire; France; needs-revalidation ([finding](https://github.com/duvida13/ChatGPT-Daily-Job-Search-Rope-Access-/blob/main/data/job-index.md))
 - Claude: Formation Technicien Cordiste Nucléaire (H/F); France; unverified ([finding](https://github.com/duvida13/rope-access-job-search/blob/main/digests/2026-09-02.md))
+
+## [Cordiste (mécanique industrielle) Cléon](https://candidat.francetravail.fr/offres/recherche/detail/214HWNR) — status / title
+
+- Grok Bot: Cordiste (mécanique industrielle) Cléon; France; unverified ([finding](https://github.com/duvida13/GROK-BOT/blob/main/finds/2026-09-29.md))
+- ChatGPT: Cordiste – industrial/mechanical mission; France; live ([finding](https://github.com/duvida13/ChatGPT-Daily-Job-Search-Rope-Access-/blob/017d12fc2c08d51ee96ec1a26094de98fbfdd4bf/data/job-index.md))
+- Grok Bot: Cordiste (mécanique industrielle) Cléon; France; unverified ([finding](https://github.com/duvida13/GROK-BOT/blob/0877caa743b059a7be601e3d7ff6a2920c2d8064/finds/2026-09-30.md))
+- Grok Bot: Cordiste (mécanique industrielle) Cléon; France; unverified ([finding](https://github.com/duvida13/GROK-BOT/blob/0877caa743b059a7be601e3d7ff6a2920c2d8064/finds/2026-10-01.md))
 
 ## [Rope Access Sverige AB — Blade Repair Technicians 2026](https://career.ropeaccess.se/jobs/) — title / country
 
@@ -139,6 +160,8 @@ These are source claims, not fresh vacancy checks. No source was overwritten. Di
 - Grok Bot: Blade Repair Technicians 2026; Sweden; unverified ([finding](https://github.com/duvida13/GROK-BOT/blob/main/finds/2026-09-25.md))
 - Grok Bot: Blade Repair Technicians 2026; Sweden; unverified ([finding](https://github.com/duvida13/GROK-BOT/blob/main/finds/2026-09-28.md))
 - Grok Bot: Blade Repair Technicians 2026; Sweden; unverified ([finding](https://github.com/duvida13/GROK-BOT/blob/main/finds/2026-09-29.md))
+- Grok Bot: Blade Repair Technicians 2026; Sweden; unverified ([finding](https://github.com/duvida13/GROK-BOT/blob/0877caa743b059a7be601e3d7ff6a2920c2d8064/finds/2026-09-30.md))
+- Grok Bot: Blade Repair Technicians 2026; Sweden; unverified ([finding](https://github.com/duvida13/GROK-BOT/blob/0877caa743b059a7be601e3d7ff6a2920c2d8064/finds/2026-10-01.md))
 
 ## [Advanced Blade Repair Technician for LM Project](https://career.ropeaccess.se/jobs/7163557-advanced-blade-repair-technician-for-lm-project) — status / title / country
 
@@ -163,7 +186,7 @@ These are source claims, not fresh vacancy checks. No source was overwritten. Di
 - Grok Bot: Linkit / CareerStructure — Rope Access Welder (Aberdeen mobilise); United Kingdom; Live on CareerStructure index (employer deep-link not separately captured — treat as board-verified Live; confirm with Linkit before travel) ([finding](https://github.com/duvida13/GROK-BOT/blob/main/finds/2026-09-11.md))
 - Grok Bot: CareerStructure — Level 3 Rope Access Painter (Harwich); UK; Live on board (~2 weeks) ([finding](https://github.com/duvida13/GROK-BOT/blob/main/finds/2026-09-11.md))
 
-## [Rope technician](https://cri-ropeaccess.com/pages/en/vacature.html) — status / title
+## [Rope technician / touwtechnieker](https://cri-ropeaccess.com/pages/en/vacature.html) — status / title
 
 - ChatGPT: Rope Engineer / rope technician; Belgium; live ([finding](https://github.com/duvida13/ChatGPT-Daily-Job-Search-Rope-Access-/blob/main/data/job-index.md))
 - Claude: Rope Access Technician (vacancies); Belgium; unverified ([finding](https://github.com/duvida13/rope-access-job-search/blob/main/digests/2026-08-05.md))
@@ -171,11 +194,15 @@ These are source claims, not fresh vacancy checks. No source was overwritten. Di
 - Grok Bot: C.R.I. — Rope technician; Belgium; Live (re-verified) ([finding](https://github.com/duvida13/GROK-BOT/blob/main/finds/2026-09-14.md))
 - Grok Bot: C.R.I. — Rope technician (Antwerp region); Belgium; Live (employer vacature page opened) ([finding](https://github.com/duvida13/GROK-BOT/blob/main/finds/2026-09-16.md))
 - Grok Bot: Rope technician; Belgium; unverified ([finding](https://github.com/duvida13/GROK-BOT/blob/main/finds/2026-09-23.md))
+- Grok Bot: Rope technician / touwtechnieker; Belgium; unverified ([finding](https://github.com/duvida13/GROK-BOT/blob/0877caa743b059a7be601e3d7ff6a2920c2d8064/finds/2026-09-30.md))
+- Grok Bot: Rope technician / touwtechnieker; Belgium; unverified ([finding](https://github.com/duvida13/GROK-BOT/blob/0877caa743b059a7be601e3d7ff6a2920c2d8064/finds/2026-10-01.md))
 
 ## [Unsolicited IRATA rope access](http://www.davai.dk/en/job/) — title
 
 - Claude: Job (careers page); Denmark; unverified ([finding](https://github.com/duvida13/rope-access-job-search/blob/main/digests/2026-08-15.md))
 - Grok Bot: Unsolicited IRATA rope access; Denmark; unverified ([finding](https://github.com/duvida13/GROK-BOT/blob/main/finds/2026-09-23.md))
+- Grok Bot: Unsolicited IRATA rope access; Denmark; unverified ([finding](https://github.com/duvida13/GROK-BOT/blob/0877caa743b059a7be601e3d7ff6a2920c2d8064/finds/2026-09-30.md))
+- Grok Bot: Unsolicited IRATA rope access; Denmark; unverified ([finding](https://github.com/duvida13/GROK-BOT/blob/0877caa743b059a7be601e3d7ff6a2920c2d8064/finds/2026-10-01.md))
 
 ## [Équipier Cordiste](https://www.explotech.be/jobs/equipier-cordiste/) — status / title
 
@@ -195,6 +222,8 @@ These are source claims, not fresh vacancy checks. No source was overwritten. Di
 - Grok Bot: Rope Access Technician; Netherlands; unverified ([finding](https://github.com/duvida13/GROK-BOT/blob/main/finds/2026-09-25.md))
 - Grok Bot: Rope Access Technician; Netherlands; unverified ([finding](https://github.com/duvida13/GROK-BOT/blob/main/finds/2026-09-28.md))
 - Grok Bot: Rope Access Technician; Netherlands; unverified ([finding](https://github.com/duvida13/GROK-BOT/blob/main/finds/2026-09-29.md))
+- Grok Bot: Rope Access Technician; Netherlands; unverified ([finding](https://github.com/duvida13/GROK-BOT/blob/0877caa743b059a7be601e3d7ff6a2920c2d8064/finds/2026-09-30.md))
+- Grok Bot: Rope Access Technician; Netherlands; unverified ([finding](https://github.com/duvida13/GROK-BOT/blob/0877caa743b059a7be601e3d7ff6a2920c2d8064/finds/2026-10-01.md))
 
 ## [Rope Access Technician](https://fenderbv.nl/vacatures/rope-access-technician/) — status
 
@@ -206,6 +235,12 @@ These are source claims, not fresh vacancy checks. No source was overwritten. Di
 
 - ChatGPT: Tilkomstteknikere søkes – Spennende oppdrag i høyden!; Norway; expired ([finding](https://github.com/duvida13/ChatGPT-Daily-Job-Search-Rope-Access-/blob/main/data/job-index.md))
 - Claude: Tilkomsttekniker (SOFT-sertifisert, nivå 1-3); Norway; unverified ([finding](https://github.com/duvida13/rope-access-job-search/blob/main/digests/2026-09-20.md))
+
+## [On/Offshore Rope Access Technician](https://futureservices.eu/onoffshore-rope-access-technician/) — country
+
+- Claude: On/Offshore Rope Access Technician; Run 2 update — 28 new postings; unverified ([finding](https://github.com/duvida13/rope-access-job-search/blob/main/digests/2026-08-05.md))
+- Grok Bot: On/Offshore Rope Access Technician; Belgium; unverified ([finding](https://github.com/duvida13/GROK-BOT/blob/0877caa743b059a7be601e3d7ff6a2920c2d8064/finds/2026-09-30.md))
+- Grok Bot: On/Offshore Rope Access Technician; Belgium; unverified ([finding](https://github.com/duvida13/GROK-BOT/blob/0877caa743b059a7be601e3d7ff6a2920c2d8064/finds/2026-10-01.md))
 
 ## [On/Offshore Rope Access Technician](https://futureservices.eu/your-career/) — status / title
 
@@ -228,6 +263,8 @@ These are source claims, not fresh vacancy checks. No source was overwritten. Di
 - Grok Bot: Rope Access Specialist; Lithuania / Europe; unverified ([finding](https://github.com/duvida13/GROK-BOT/blob/main/finds/2026-09-25.md))
 - Grok Bot: Rope Access Specialist; Lithuania / Europe; unverified ([finding](https://github.com/duvida13/GROK-BOT/blob/main/finds/2026-09-28.md))
 - Grok Bot: Rope Access Specialist; Lithuania / Europe; unverified ([finding](https://github.com/duvida13/GROK-BOT/blob/main/finds/2026-09-29.md))
+- Grok Bot: Rope Access Specialist; Lithuania / Europe; unverified ([finding](https://github.com/duvida13/GROK-BOT/blob/0877caa743b059a7be601e3d7ff6a2920c2d8064/finds/2026-09-30.md))
+- Grok Bot: Rope Access Specialist; Lithuania / Europe; unverified ([finding](https://github.com/duvida13/GROK-BOT/blob/0877caa743b059a7be601e3d7ff6a2920c2d8064/finds/2026-10-01.md))
 
 ## [IRATA Level 1 & 2 Operatives (CV intake)](https://hightorqueropeaccess.co.uk/careers/) — status / title / country
 
@@ -243,7 +280,7 @@ These are source claims, not fresh vacancy checks. No source was overwritten. Di
 - Grok Bot: IRATA Level 1 & 2 Operatives (CV intake); United Kingdom; unverified ([finding](https://github.com/duvida13/GROK-BOT/blob/main/finds/2026-09-29.md))
 - Grok Search: High Torque Rope Access — IRATA Level 1 & 2 operatives (standing); United Kingdom; Company watch — careers page is a rolling call, not a dated single vacancy ([finding](https://github.com/duvida13/GROK-Rope-Access-Job-Search/blob/main/finds/2026-09-11-pass2.md))
 
-## [Industriekletterer Level 1–3](https://www.industrie-kletterer-hamburg.de/ueber-uns/jobs-bei-ikh/) — status / title / country
+## [Industriekletterer (open hire)](https://www.industrie-kletterer-hamburg.de/ueber-uns/jobs-bei-ikh/) — status / title / country
 
 - ChatGPT: Industriekletterer Level 1–3; Germany; live ([finding](https://github.com/duvida13/ChatGPT-Daily-Job-Search-Rope-Access-/blob/main/data/job-index.md))
 - Claude: Jobs bei IKH (careers, multiple openings); Germany; unverified ([finding](https://github.com/duvida13/rope-access-job-search/blob/main/digests/2026-09-20.md))
@@ -255,6 +292,8 @@ These are source claims, not fresh vacancy checks. No source was overwritten. Di
 - Grok Bot: Industriekletterer; Germany; unverified ([finding](https://github.com/duvida13/GROK-BOT/blob/main/finds/2026-09-24.md))
 - Grok Bot: Industriekletterer; Germany; unverified ([finding](https://github.com/duvida13/GROK-BOT/blob/main/finds/2026-09-25.md))
 - Grok Bot: Industriekletterer (open hire); Germany; unverified ([finding](https://github.com/duvida13/GROK-BOT/blob/main/finds/2026-09-29.md))
+- Grok Bot: Industriekletterer (open hire); Germany; unverified ([finding](https://github.com/duvida13/GROK-BOT/blob/0877caa743b059a7be601e3d7ff6a2920c2d8064/finds/2026-09-30.md))
+- Grok Bot: Industriekletterer (open hire); Germany; unverified ([finding](https://github.com/duvida13/GROK-BOT/blob/0877caa743b059a7be601e3d7ff6a2920c2d8064/finds/2026-10-01.md))
 
 ## [IRATA International Jobs Board](https://irata.org/jobs) — title / country
 
@@ -290,6 +329,8 @@ These are source claims, not fresh vacancy checks. No source was overwritten. Di
 - Grok Bot: Rope Access Technician; Netherlands; unverified ([finding](https://github.com/duvida13/GROK-BOT/blob/main/finds/2026-09-28.md))
 - Grok Bot: Rope Access Technician; Netherlands; unverified ([finding](https://github.com/duvida13/GROK-BOT/blob/main/finds/2026-09-29.md))
 - Grok Search: Bilfinger Height Specialists — Rope Access Technician; Netherlands; Live (employer careers page) ([finding](https://github.com/duvida13/GROK-Rope-Access-Job-Search/blob/main/finds/2026-09-11.md))
+- Grok Bot: Rope Access Technician; Netherlands; unverified ([finding](https://github.com/duvida13/GROK-BOT/blob/0877caa743b059a7be601e3d7ff6a2920c2d8064/finds/2026-09-30.md))
+- Grok Bot: Rope Access Technician; Netherlands; unverified ([finding](https://github.com/duvida13/GROK-BOT/blob/0877caa743b059a7be601e3d7ff6a2920c2d8064/finds/2026-10-01.md))
 
 ## [Blade Technician Season 2026](https://jobs.swire-re.com/o/blade-technician-season-2026) — status / country
 
@@ -308,16 +349,21 @@ These are source claims, not fresh vacancy checks. No source was overwritten. Di
 - Grok Bot: Tilkomstteknikere og sikringsledere; Norway; unverified ([finding](https://github.com/duvida13/GROK-BOT/blob/main/finds/2026-09-25.md))
 - Grok Bot: Tilkomstteknikere og sikringsledere; Norway; unverified ([finding](https://github.com/duvida13/GROK-BOT/blob/main/finds/2026-09-28.md))
 - Grok Bot: Tilkomstteknikere og sikringsledere; Norway; unverified ([finding](https://github.com/duvida13/GROK-BOT/blob/main/finds/2026-09-29.md))
+- Grok Bot: Tilkomstteknikere og sikringsledere; Norway; unverified ([finding](https://github.com/duvida13/GROK-BOT/blob/0877caa743b059a7be601e3d7ff6a2920c2d8064/finds/2026-09-30.md))
+- Grok Bot: Tilkomstteknikere og sikringsledere; Norway; unverified ([finding](https://github.com/duvida13/GROK-BOT/blob/0877caa743b059a7be601e3d7ff6a2920c2d8064/finds/2026-10-01.md))
 
-## [Touwtechnieker (IRATA/SPRAT)](https://www.kubussafety.be/vacatures/touwtechnieker/) — title
+## [Touwtechnieker](https://www.kubussafety.be/vacatures/touwtechnieker/) — title
 
 - Claude: Vacature Touwtechnieker; Belgium; unverified ([finding](https://github.com/duvida13/rope-access-job-search/blob/main/digests/2026-08-15.md))
 - Grok Bot: Touwtechnieker (IRATA/SPRAT); Belgium; unverified ([finding](https://github.com/duvida13/GROK-BOT/blob/main/finds/2026-09-23.md))
+- Grok Bot: Touwtechnieker; Belgium; unverified ([finding](https://github.com/duvida13/GROK-BOT/blob/0877caa743b059a7be601e3d7ff6a2920c2d8064/finds/2026-09-30.md))
+- Grok Bot: Touwtechnieker; Belgium; unverified ([finding](https://github.com/duvida13/GROK-BOT/blob/0877caa743b059a7be601e3d7ff6a2920c2d8064/finds/2026-10-01.md))
 
-## [Recrutamento Alpinistas / Trabalhos em Altura](https://www.net-empregos.com/15865464/recrutamento-alpinistas-trabalhos-em-altura-lisboa/) — title
+## [Recrutamento Alpinistas](https://www.net-empregos.com/15865464/recrutamento-alpinistas-trabalhos-em-altura-lisboa/) — title
 
 - Claude: Alpinistas / Técnicos de Trabalhos em Altura; Portugal; unverified ([finding](https://github.com/duvida13/rope-access-job-search/blob/main/digests/2026-09-10c.md))
 - Grok Bot: Recrutamento Alpinistas / Trabalhos em Altura; Portugal; unverified ([finding](https://github.com/duvida13/GROK-BOT/blob/main/finds/2026-09-24.md))
+- Grok Bot: Recrutamento Alpinistas; Portugal; unverified ([finding](https://github.com/duvida13/GROK-BOT/blob/0877caa743b059a7be601e3d7ff6a2920c2d8064/finds/2026-10-01.md))
 
 ## [Nordic Access Oy — 2026 IRATA technician interest (FI query-layer)](https://www.nordicaccess.fi/en/ropeaccess) — status / title
 
@@ -338,6 +384,12 @@ These are source claims, not fresh vacancy checks. No source was overwritten. Di
 
 - ChatGPT: Reptekniker; Sweden; live ([finding](https://github.com/duvida13/ChatGPT-Daily-Job-Search-Rope-Access-/blob/main/data/job-index.md))
 - Claude: Lediga tjänster – Reptekniker; Sweden; unverified ([finding](https://github.com/duvida13/rope-access-job-search/blob/main/digests/2026-08-13.md))
+
+## [Erhvervsklatrere L1 / L2 / L3](https://rebteknikeren.dk/job/) — title
+
+- Claude: Job (rope access craftspeople); Denmark; unverified ([finding](https://github.com/duvida13/rope-access-job-search/blob/main/digests/2026-08-08.md))
+- Grok Bot: Erhvervsklatrere L1 / L2 / L3; Denmark; unverified ([finding](https://github.com/duvida13/GROK-BOT/blob/0877caa743b059a7be601e3d7ff6a2920c2d8064/finds/2026-09-30.md))
+- Grok Bot: Erhvervsklatrere L1 / L2 / L3; Denmark; unverified ([finding](https://github.com/duvida13/GROK-BOT/blob/0877caa743b059a7be601e3d7ff6a2920c2d8064/finds/2026-10-01.md))
 
 ## [Rope Access Steeplejack - German contract](https://rigg-access.com/jobs/rope-access-steeplejack-for-german-contract/10585) — status / title
 
@@ -374,16 +426,19 @@ These are source claims, not fresh vacancy checks. No source was overwritten. Di
 - Grok Bot: Rope Access Technician; Netherlands; unverified ([finding](https://github.com/duvida13/GROK-BOT/blob/main/finds/2026-09-25.md))
 - Grok Bot: Rope Access Technician; Netherlands; unverified ([finding](https://github.com/duvida13/GROK-BOT/blob/main/finds/2026-09-28.md))
 - Grok Bot: Rope Access Technician; Netherlands; unverified ([finding](https://github.com/duvida13/GROK-BOT/blob/main/finds/2026-09-29.md))
+- Grok Bot: Rope Access Technician; Netherlands; unverified ([finding](https://github.com/duvida13/GROK-BOT/blob/0877caa743b059a7be601e3d7ff6a2920c2d8064/finds/2026-09-30.md))
+- Grok Bot: Rope Access Technician; Netherlands; unverified ([finding](https://github.com/duvida13/GROK-BOT/blob/0877caa743b059a7be601e3d7ff6a2920c2d8064/finds/2026-10-01.md))
 
-## [Erhvervsklatrer / håndværker on rope](https://skywork.dk/erhvervsklatring/job/) — status / title
+## [Erhvervsklatrer (rolling)](https://skywork.dk/erhvervsklatring/job/) — status / title
 
 - Claude: Job hos Sky-Work (rope access technician / erhvervsklatrer); Denmark; unverified ([finding](https://github.com/duvida13/rope-access-job-search/blob/main/digests/2026-08-08.md))
 - Grok Bot: Sky-Work — Erhvervsklatrer / rope access; Denmark; Live (known earlier) ([finding](https://github.com/duvida13/GROK-BOT/blob/main/finds/2026-09-11.md))
 - Grok Bot: Sky-Work — Erhvervsklatrer / rope access; Denmark; Live (re-verified) ([finding](https://github.com/duvida13/GROK-BOT/blob/main/finds/2026-09-14.md))
 - Grok Bot: Sky-Work ApS — Erhvervsklatrer / continuous hire; Denmark; Live (employer job page opened) ([finding](https://github.com/duvida13/GROK-BOT/blob/main/finds/2026-09-16.md))
 - Grok Bot: Erhvervsklatrer / håndværker on rope; Denmark; unverified ([finding](https://github.com/duvida13/GROK-BOT/blob/main/finds/2026-09-23.md))
+- Grok Bot: Erhvervsklatrer (rolling); Denmark; unverified ([finding](https://github.com/duvida13/GROK-BOT/blob/0877caa743b059a7be601e3d7ff6a2920c2d8064/finds/2026-09-30.md))
 
-## [Wind Turbine Rope Access Technician – Rotor Blades m/f/d](https://spie.de/karriere/stellenangebote/Wind-Turbine-Rope-Access-Technician--Rotor-Blades-m-f-d-2026-1495) — status / title / country
+## [Wind Turbine Rope Access Technician – Rotor Blades (2026-1495)](https://spie.de/karriere/stellenangebote/Wind-Turbine-Rope-Access-Technician--Rotor-Blades-m-f-d-2026-1495) — status / title / country
 
 - ChatGPT: Wind Turbine Rope Access Technician – Rotor Blades m/f/d; Germany; live ([finding](https://github.com/duvida13/ChatGPT-Daily-Job-Search-Rope-Access-/blob/main/data/job-index.md))
 - Grok Bot: SPIE Wind Germany — Wind Turbine Rope Access Technician – Rotor Blades (m/f/d); Germany; Live (re-verified employer careers) ([finding](https://github.com/duvida13/GROK-BOT/blob/main/finds/2026-09-11.md))
@@ -397,6 +452,8 @@ These are source claims, not fresh vacancy checks. No source was overwritten. Di
 - Grok Bot: Wind Turbine Rope Access Technician – Rotor Blades (2026-1495); Germany; unverified ([finding](https://github.com/duvida13/GROK-BOT/blob/main/finds/2026-09-25.md))
 - Grok Bot: Wind Turbine Rope Access Technician – Rotor Blades (2026-1495); Germany; unverified ([finding](https://github.com/duvida13/GROK-BOT/blob/main/finds/2026-09-28.md))
 - Grok Bot: Wind Turbine Rope Access Technician – Rotor Blades (2026-1495); Germany; unverified ([finding](https://github.com/duvida13/GROK-BOT/blob/main/finds/2026-09-29.md))
+- Grok Bot: Wind Turbine Rope Access Technician – Rotor Blades (2026-1495); Germany; unverified ([finding](https://github.com/duvida13/GROK-BOT/blob/0877caa743b059a7be601e3d7ff6a2920c2d8064/finds/2026-09-30.md))
+- Grok Bot: Wind Turbine Rope Access Technician – Rotor Blades (2026-1495); Germany; unverified ([finding](https://github.com/duvida13/GROK-BOT/blob/0877caa743b059a7be601e3d7ff6a2920c2d8064/finds/2026-10-01.md))
 
 ## [StS Group — Rope Access Technicians (Norway via UK)](https://stsgroupuk.co.uk/news/were-recruiting-rope-access-technicians) — status / title / country
 
@@ -449,6 +506,7 @@ These are source claims, not fresh vacancy checks. No source was overwritten. Di
 - Grok Bot: Zweiseil — Industriekletterer; Austria; Live (known earlier) ([finding](https://github.com/duvida13/GROK-BOT/blob/main/finds/2026-09-11.md))
 - Grok Bot: Zweiseil — Industriekletterer; Austria; Live (re-verified) ([finding](https://github.com/duvida13/GROK-BOT/blob/main/finds/2026-09-14.md))
 - Grok Bot: Industriekletterer; Austria; unverified ([finding](https://github.com/duvida13/GROK-BOT/blob/main/finds/2026-09-29.md))
+- Grok Bot: Industriekletterer; Austria; unverified ([finding](https://github.com/duvida13/GROK-BOT/blob/0877caa743b059a7be601e3d7ff6a2920c2d8064/finds/2026-09-30.md))
 
 ## [Industriekletterer in Ausbildung](https://www.zweiseil.at/jobs/industriekletterer-in-ausbildung/) — status
 
