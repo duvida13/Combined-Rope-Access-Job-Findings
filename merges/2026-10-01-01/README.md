@@ -11,4 +11,4 @@ New individual/shortened links: **180**. Previously listed individual links rech
 | Grok Search | `e81dee6440b9dc18513f8be15986c6e519151a64` | `e81dee6440b9dc18513f8be15986c6e519151a64` | None — unchanged |
 | Grok Bot | `3d88882c49d2e2e02d5eab2e0f9e5bcd10a93c8f` | `0877caa743b059a7be601e3d7ff6a2920c2d8064` | finds/2026-09-30.md, finds/2026-10-01.md |
 
-The saved checkpoints will be advanced only after the published files have been verified.
+The [saved source checkpoints](../../state/source-checkpoints.json) are the authoritative starting point for the next requested merge.
