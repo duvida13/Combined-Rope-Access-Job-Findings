@@ -1,10 +1,10 @@
 {
-  "merged_at": "2026-09-29",
+  "merged_at": "2026-10-01",
   "source_commits": {
-    "duvida13/ChatGPT-Daily-Job-Search-Rope-Access-": "19a7f32029fb46e7fb8f562ee08d7e2ea8e9c44e",
-    "duvida13/rope-access-job-search": "1e9a4359dce42ddc3cd6cde6905b02310f1b0971",
+    "duvida13/ChatGPT-Daily-Job-Search-Rope-Access-": "017d12fc2c08d51ee96ec1a26094de98fbfdd4bf",
+    "duvida13/rope-access-job-search": "dfb9599ddc67f522b171aaadde55d9c05250d49a",
     "duvida13/GROK-Rope-Access-Job-Search": "e81dee6440b9dc18513f8be15986c6e519151a64",
-    "duvida13/GROK-BOT": "3d88882c49d2e2e02d5eab2e0f9e5bcd10a93c8f"
+    "duvida13/GROK-BOT": "0877caa743b059a7be601e3d7ff6a2920c2d8064"
   },
   "rule": "At next manual merge, compare each source commit to current HEAD and process only added/modified published finding files; preserve observations and earlier update files."
 }
