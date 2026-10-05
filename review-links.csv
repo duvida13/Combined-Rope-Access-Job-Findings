@@ -1,12 +1,12 @@
 position,country,job_url,link_type,reported_by,source_statuses,latest_source_date
-Handwerker/Monteur (train to Industriekletterer),Germany,https://www.gears-gmbh.de/jobs/,general careers page; vacancy uncertain,Grok Bot,Grok Bot: unverified,2026-10-01
-Laveur de vitres-cordiste,Luxembourg,https://www.genesa.lu/jobs,general careers page; vacancy uncertain,ChatGPT,ChatGPT: live,2026-10-01
-Rope Access Specialist,Lithuania / Europe,https://gridinta.eu/careers/,general careers page; vacancy uncertain,Claude / Grok Bot,Claude: unverified; Grok Bot: Live; Grok Bot: Live (re-verified); Grok Bot: Live (re-verified; also lists Wind Turbine Technician + Rope Access Electrician); Grok Bot: unverified,2026-10-01
-Rope access open hire,Belgium,https://www.heightsolutions.be/,general careers page; vacancy uncertain,Grok Bot,Grok Bot: unverified,2026-10-01
-Industriekletterer (open hire),Germany,https://www.industrie-kletterer-hamburg.de/ueber-uns/jobs-bei-ikh/,general careers page; vacancy uncertain,ChatGPT / Claude / Grok Bot,ChatGPT: live; Claude: unverified; Grok Bot: Live (employer jobs page opened); Grok Bot: Live (evergreen); Grok Bot: unverified,2026-10-01
+Handwerker/Monteur (train to Industriekletterer),Germany,https://www.gears-gmbh.de/jobs/,general careers/search page; vacancy uncertain,Grok Bot,Grok Bot: unverified,2026-10-05
+Laveur de vitres-cordiste,Luxembourg,https://www.genesa.lu/jobs,general careers/search page; vacancy uncertain,ChatGPT,ChatGPT: live,2026-10-04
+Rope Access Specialist,Lithuania / Europe,https://gridinta.eu/careers/,general careers/search page; vacancy uncertain,Claude / Grok Bot,Claude: unverified; Grok Bot: Live (re-verified); Grok Bot: Live (re-verified; also lists Wind Turbine Technician + Rope Access Electrician); Grok Bot: Live; Grok Bot: unverified,2026-10-05
+Rope access open hire,Belgium,https://www.heightsolutions.be/,general careers/search page; vacancy uncertain,Grok Bot,Grok Bot: unverified,2026-10-05
+Industriekletterer FISAT L1–3 (open hire),Germany,https://www.industrie-kletterer-hamburg.de/ueber-uns/jobs-bei-ikh/,general careers/search page; vacancy uncertain,ChatGPT / Claude / Grok Bot,ChatGPT: live; Claude: unverified; Grok Bot: Live (employer jobs page opened); Grok Bot: Live (evergreen); Grok Bot: unverified,2026-10-05
 IRATA L1–L3 open hire,Czech Republic,https://www.pavouci.cz/kariera/,general careers page; vacancy uncertain,Grok Bot,Grok Bot: unverified,2026-10-01
-Rope Access Technician,Netherlands,https://sky-access.com/vacatures/,general careers page; vacancy uncertain,ChatGPT / Claude / Grok Bot,ChatGPT: live; Claude: unverified; Grok Bot: Live; Grok Bot: Live (re-opened employer page); Grok Bot: Live (tech + L3 supervisor + magazijn); Grok Bot: unverified,2026-10-01
-Work for us (CV intake),United Kingdom,https://stsgroupuk.co.uk/work-us,general careers page; vacancy uncertain,Grok Bot,Grok Bot: unverified,2026-10-01
+Rope Access Technician,Netherlands,https://sky-access.com/vacatures/,general careers/search page; vacancy uncertain,ChatGPT / Claude / Grok Bot,ChatGPT: live; Claude: unverified; Grok Bot: Live; Grok Bot: Live (re-opened employer page); Grok Bot: Live (tech + L3 supervisor + magazijn); Grok Bot: unverified,2026-10-05
+Work for us (CV intake),United Kingdom,https://stsgroupuk.co.uk/work-us,general careers/search page; vacancy uncertain,Grok Bot,Grok Bot: unverified,2026-10-05
 IRATA Rope Access Technicians (helideck netting),United Kingdom,https://careers.sonomatic.com/jobs,general careers page; vacancy uncertain,Claude,Claude: unverified,2026-09-30
 Geotechnical Rope Access roles,Ireland,https://www.dangleacademy.com/geo-technical,general careers page; vacancy uncertain,Claude,Claude: unverified,2026-09-30
 Rope Access Technician roles (multiple levels),Ireland,https://www.dangleacademy.com/rope-access-careers,general careers page; vacancy uncertain,Claude,Claude: unverified,2026-09-30
@@ -21,17 +21,17 @@ IRATA rope access technicians (general/roster),Denmark,https://www.semcomaritime
 Operativer Mitarbeiter Veranstaltungsrigging (m/w/d),Germany,https://vt-stage.com/veranstaltungstechnik-jobs/stellenangebot/operativer-mitarbeiter-im-bereich-veranstaltungsrigging-m-w-d-vollzeit-koeln/,search/list page; vacancy uncertain,Claude,Claude: unverified,2026-09-30
 IRATA Level 1 & 2 Operatives (CV intake),United Kingdom,https://hightorqueropeaccess.co.uk/careers/,general careers page; vacancy uncertain,ChatGPT / Claude / Grok Bot / Grok Search,"ChatGPT: live; Claude: unverified; Grok Bot: Live (employer careers opened; rolling); Grok Bot: Live (rolling CV bank); Grok Bot: unverified; Grok Search: Company watch — careers page is a rolling call, not a dated single vacancy",2026-09-29
 Project Manager – Height Safety and Rope Access,Austria,https://rope-tech.at/jobs/,general careers page; vacancy uncertain,ChatGPT / Claude,ChatGPT: live; Claude: unverified,2026-09-29
-Experienced Rope Access Technician / Industriklättrare,Sweden,https://se.indeed.com/q-irata-jobb.html?q=irata&vjk=9071a2792a9ac4c2,search/list page; vacancy uncertain,ChatGPT,ChatGPT: live,2026-09-29
+Experienced Rope Access Technician / Industriklättrare,Sweden,https://se.indeed.com/q-irata-jobb.html?q=irata&vjk=9071a2792a9ac4c2,general careers/search page; vacancy uncertain,ChatGPT,ChatGPT: live,2026-10-03
 Seilzugangstechniker,Switzerland,https://www.vertic.ch/Hoehenarbeiten/,general careers page; vacancy uncertain,Grok Bot,"Grok Bot: Live (employer ""Wir suchen"" + apply email); Grok Bot: Live (“Wir suchen: Seilzugangstechniker”); Grok Bot: unverified",2026-09-29
 PTS IRATA Level 3 Rope Access Technician,United Kingdom,https://www.railwaypeople.com/Rail-Jobs/Rail-Construction---On-Track-Jobs/PTS-IRATA-Level-3-Rope-Access-Technician/Details/118573,search/list page; vacancy uncertain,Claude,Claude: unverified,2026-09-28
-Rope Access / Tecnico Specializzato,Italy,https://riggeritalia.com/jobs,general careers page; vacancy uncertain,Grok Bot,Grok Bot: Live (known earlier); Grok Bot: Live (re-verified); Grok Bot: Live evergreen; Grok Bot: unverified,2026-09-28
+Tecnico Specializzato / Rope Access,Italy,https://riggeritalia.com/jobs,general careers/search page; vacancy uncertain,Grok Bot,Grok Bot: Live (known earlier); Grok Bot: Live (re-verified); Grok Bot: Live evergreen; Grok Bot: unverified,2026-10-05
 "Rigging, Baustellen, Baumklettern, Höhenarbeiten** (company site)",Switzerland,https://www.seilzugangstechniker.ch/,general careers page; vacancy uncertain,Claude,Claude: unverified,2026-09-28
 Rope Access IRATA,UK,https://uk.indeed.com/q-irata-rope-access-jobs.html,search/list page; vacancy uncertain,ChatGPT,ChatGPT: live,2026-09-28
 Experienced Geotechnical IRATA Rope Access,UK,https://uk.indeed.com/q-rope-access-l-chesterfield-jobs.html,search/list page; vacancy uncertain,ChatGPT,ChatGPT: live,2026-09-28
 Rope Access Technician,UK,https://uk.indeed.com/q-rope-access-technician-l-birmingham-jobs.html,search/list page; vacancy uncertain,ChatGPT,ChatGPT: live,2026-09-28
 ALLROUND ONDERHOUDSMEDEWERKER / ROPE ACCESS TECHNICIAN,Netherlands,https://www.abseiltechnieken.nl/vacatures/,general careers page; vacancy uncertain,ChatGPT / Grok Bot,ChatGPT: live; Grok Bot: unverified,2026-09-25
 IRATA Level 1 Rope Access Technicians (window / building maintenance),Ireland,https://aguaclean.ie/,general careers page; vacancy uncertain,Grok Bot,Grok Bot: unverified,2026-09-25
-Blivande reparbetare på Klätterservice?,Sweden,https://jobb.klatterservice.se/jobs,general careers page; vacancy uncertain,ChatGPT / Claude,ChatGPT: live; Claude: unverified,2026-09-25
+Blivande reparbetare på Klätterservice?,Sweden,https://jobb.klatterservice.se/jobs,general careers/search page; vacancy uncertain,ChatGPT / Claude,ChatGPT: live; Claude: unverified,2026-10-04
 Rope Access Technician,Spain / Romania,https://rejobs.org/en/renewable-energy-jobs/152771-rope-access-technician-aerones,search/list page; vacancy uncertain,Claude,Claude: unverified,2026-09-25
 "Insulation technician in possession of IRATA level 1, 2 or 3 certificate",Netherlands,https://totalis.nl/vacatures/,general careers page; vacancy uncertain,ChatGPT,ChatGPT: live,2026-09-25
 Industriekletterer (+ Ausbildung),Austria,https://www.zweiseil.at/jobs/,general careers page; vacancy uncertain,Claude / Grok Bot,Claude: unverified; Grok Bot: Live (employer jobs page opened; “ab sofort”); Grok Bot: unverified,2026-09-23
@@ -80,7 +80,7 @@ I&G Edilizia su Fune - hiring (30 operatori in fune + 10 sales),Italy,https://ww
 Nord Access - Recrutement,France,https://www.nord-access.fr/recrutement/,general careers page; vacancy uncertain,Claude,Claude: unverified,2026-08-22
 "Industriekletterer (career-changer entry, trades crossover)",Germany,https://www.steady-climbing.de/,general careers page; vacancy uncertain,Claude,Claude: unverified,2026-08-22
 Rope Access Job Vacancies,United Kingdom,https://www.reed.co.uk/jobs/rope-access-jobs,search/list page; vacancy uncertain,Claude,Claude: unverified,2026-08-21
-Rigger (m/w/d),Germany,https://vt-stage.com/veranstaltungstechnik-jobs/stellenangebot/rigger-m-w-d,search/list page; vacancy uncertain,Claude,Claude: unverified,2026-08-21
+Rigger (m/w/d),Germany,https://vt-stage.com/veranstaltungstechnik-jobs/stellenangebot/rigger-m-w-d/,general careers/search page; vacancy uncertain,Claude,Claude: unverified,2026-10-01
 Indeed Germany - 'Irata' search,"General resources (not individual postings, worth checking manually)",https://de.indeed.com/Irata-Jobs,search/list page; vacancy uncertain,Claude,Claude: unverified,2026-08-20
 IRATA International Jobs Board,"General resources (not individual postings, worth checking manually)",https://irata.org/jobs,general careers page; vacancy uncertain,ChatGPT / Claude,ChatGPT: needs-revalidation; Claude: unverified,2026-08-20
 Bilfinger's full multi-country rope access vacancy list,"General resources (not individual postings, worth checking manually)",https://jobs.bilfinger.com/go/All-jobs-in-the-rope-access-field/4566801/,search/list page; vacancy uncertain,Claude,Claude: unverified,2026-08-19
@@ -108,7 +108,7 @@ Rope Access Painter (L1/L2/L3),Denmark,https://uk.altradservices.com/careers/,ge
 Technicien cordiste,France,https://ancyropeaccess.com/fr/page/recrutement,general careers page; vacancy uncertain,ChatGPT,ChatGPT: needs-revalidation,2026-08-12
 Service Technician – Blades near Berchtesgaden,Germany,https://de.indeed.com/q-rope-access-technician-jobs.html,search/list page; vacancy uncertain,ChatGPT,ChatGPT: needs-revalidation,2026-08-12
 Cordiste Couvreur H/F,France,https://www.hellowork.com/fr-fr/emploi/metier_cordiste-ville_nantes-44000.html,search/list page; vacancy uncertain,ChatGPT,ChatGPT: needs-revalidation,2026-08-12
-Cordiste Urbain H/F,France,https://www.hellowork.com/fr-fr/emploi/metier_cordiste.html,search/list page; vacancy uncertain,ChatGPT,ChatGPT: needs-revalidation,2026-08-12
+"Emploi Cordiste (aggregator, 400+ offers)",France,https://www.hellowork.com/fr-fr/emploi/metier_cordiste.html,general careers/search page; vacancy uncertain,ChatGPT / Claude,ChatGPT: needs-revalidation; Claude: unverified,2026-10-03
 Pipeline Repair / Leak-Sealing Technician,Netherlands,https://nl.indeed.com/q-rope-access-technician-vacatures.html,search/list page; vacancy uncertain,ChatGPT,ChatGPT: needs-revalidation,2026-08-12
 "Rope Access Technician, Rig Inspection Services",Norway,https://offshorenordic.com/offshore-jobs/rope-access-technician-odfjell-energy-rig-inspection-services/,search/list page; vacancy uncertain,Claude,Claude: unverified,2026-08-12
 Jobs listing (rope access & rigging roles),Switzerland,https://shrv.ch/jobs,general careers page; vacancy uncertain,Claude,Claude: unverified,2026-08-12
@@ -127,3 +127,49 @@ Rope access technician / touwtechnieker,Belgium,https://hsworks.be/jobs/,general
 "Höhenarbeiter / Industriekletterer, Level 1, 2 oder 3 (m/w/d)",Switzerland,https://jobcenterag.ch/alle-jobs?layout=viewjob&id=194,search/list page; vacancy uncertain,Claude,Claude: unverified,2026-08-07
 Tilkomstteknikere / Sikringsledere (open vacancies),Norway,https://kaeferenergy.no/en/vacancies/,general careers page; vacancy uncertain,Claude,Claude: unverified,2026-08-07
 Rope access support / veiligheidsbegeleider,Netherlands,https://ropeaccessnoord.nl/vacatures/,general careers page; vacancy uncertain,Claude,Claude: unverified,2026-08-07
+Rope Access Technician jobs (LinkedIn aggregator),Portugal,https://pt.linkedin.com/jobs/rope-access-technician-vagas,general careers/search page; vacancy uncertain,Claude,Claude: unverified,2026-10-01
+Vacatures Rope Access L1/2 IRATA (aggregator),Netherlands,https://www.vacat.nl/vacatures-rope_access_l1_2_irata/,general careers/search page; vacancy uncertain,Claude,Claude: unverified,2026-10-01
+Operatore su fune (company site),Italy,https://www.blacklinerope.it/,general careers/search page; vacancy uncertain,Claude,Claude: unverified,2026-10-01
+Rope Access Technician jobs (aggregator),Finland,https://fi.linkedin.com/jobs/rope-access-technician-jobs,general careers/search page; vacancy uncertain,Claude,Claude: unverified,2026-10-01
+Seilzugangstechniker Stellenangebote (Jooble DE/AT),Europe-wide,https://de.jooble.org/stellenangebote-seilzugangstechniker,general careers/search page; vacancy uncertain,Claude,Claude: unverified,2026-10-01
+IRATA rope access level 1 jobs (Jooble),Europe-wide,https://jooble.org/jobs-irata-rope-access-level-1,general careers/search page; vacancy uncertain,Claude,Claude: unverified,2026-10-01
+Rope access level 1 jobs (Energy Job Search),Europe-wide,https://energyjobsearch.com/jobs?title=rope+access+level+1,general careers/search page; vacancy uncertain,Claude,Claude: unverified,2026-10-01
+Rope Access Technician – Industrial Cleaning (IRATA Level 1),Ireland,https://ie.indeed.com/cmp/Bidvest-Noonan/salaries/Rope-Access-Technician/Dublin-D,general careers/search page; vacancy uncertain,Claude,Claude: unverified,2026-10-02
+CareerStructure,Europe-wide,https://www.careerstructure.com/jobs/arborist/in-europe,general careers/search page; vacancy uncertain,Claude,Claude: unverified,2026-10-02
+Totaljobs,Europe-wide,https://www.totaljobs.com/jobs/arborist/in-europe,general careers/search page; vacancy uncertain,Claude,Claude: unverified,2026-10-02
+Dora the Recruitment Robot,Europe-wide,https://dorathebot.eu/jobs/industrial-climber.html,general careers/search page; vacancy uncertain,Claude,Claude: unverified,2026-10-02
+Dora the Recruitment Robot,Europe-wide,https://dorathebot.eu/jobs/rigger.html,general careers/search page; vacancy uncertain,Claude,Claude: unverified,2026-10-02
+"Rope Access Technician jobs (aggregator, 1,000+ listings)",United Kingdom,https://uk.linkedin.com/jobs/rope-access-technician-jobs,general careers/search page; vacancy uncertain,Claude,Claude: unverified,2026-10-03
+"Rope Technician roles (aggregator, ~24 listings)",Ireland,https://www.irishjobs.ie/jobs/rope-technician/in-clara,general careers/search page; vacancy uncertain,Claude,Claude: unverified,2026-10-03
+All jobs ISP/rope access jobs,Netherlands,https://jobs.bilfinger.com/go/All-jobs-ISPrope-access-jobs/4567201/,general careers/search page; vacancy uncertain,Claude,Claude: unverified,2026-10-03
+Servicemonteur Rope Access,Netherlands,https://nl.indeed.com/cmp/Bluehero-B.v.-1/jobs,general careers/search page; vacancy uncertain,Claude,Claude: unverified,2026-10-03
+Uitvoerder / Rope Access Supervisor (IRATA 1 or IRATA 3 roles),Netherlands,https://nl.indeed.com/q-altrad-services-benelux-vacatures.html,general careers/search page; vacancy uncertain,Claude,Claude: unverified,2026-10-03
+"Rope Access Technician jobs (aggregator, 400+ listings)",Belgium,https://be.linkedin.com/jobs/rope-access-technician-jobs,general careers/search page; vacancy uncertain,Claude,Claude: unverified,2026-10-03
+Seilzugangstechniker Jobs (aggregator),Germany,https://de.indeed.com/q-seilzugangstechniker-jobs.html,general careers/search page; vacancy uncertain,Claude,Claude: unverified,2026-10-03
+"Rope Access Technician jobs (aggregator, ~690 listings)",France,https://www.linkedin.com/jobs/rope-access-technician-jobs-greater-paris-metropolitan-region,general careers/search page; vacancy uncertain,Claude,Claude: unverified,2026-10-03
+"Cordistes emplois (aggregator, 100+ offers)",France,https://fr.indeed.com/q-cordistes-emplois.html,general careers/search page; vacancy uncertain,Claude,Claude: unverified,2026-10-03
+Offerte di lavoro - Su Fune (aggregator),Italy,https://it.indeed.com/q-su-fune-offerte-lavoro.html,general careers/search page; vacancy uncertain,Claude,Claude: unverified,2026-10-03
+Rope Access Technician jobs (aggregator),Greece,https://gr.linkedin.com/jobs/rope-access-technician-jobs,general careers/search page; vacancy uncertain,Claude,Claude: unverified,2026-10-03
+All jobs in the rope access field (category page),Europe-wide,https://jobs.bilfinger.com/go/All-jobs-in-the-rope-access-field/4567201/,general careers/search page; vacancy uncertain,Claude,Claude: unverified,2026-10-03
+"Rope Access Technical Assistant, Westhill (aggregator copy)",United Kingdom,https://biotechnologyjobs.co.uk/view-job/rope-access-technical-assistant-westhill-d5f205e83f2a,general careers/search page; vacancy uncertain,Claude,Claude: unverified,2026-10-04
+Rope access jobs (UK hub),United Kingdom,https://www.totaljobs.com/jobs/rope-access,general careers/search page; vacancy uncertain,Claude,Claude: unverified,2026-10-04
+Rope access jobs (general hub),United Kingdom,https://www.careerstructure.com/jobs/rope-access,general careers/search page; vacancy uncertain,Claude,Claude: unverified,2026-10-04
+Rope Access Jobs in United Kingdom (139 open roles),United Kingdom,https://uk.linkedin.com/jobs/rope-access-jobs,general careers/search page; vacancy uncertain,Claude,Claude: unverified,2026-10-04
+Rope Access Technician jobs in Cork (aggregator),Ireland,https://ie.linkedin.com/jobs/rope-access-technician-jobs-cork,general careers/search page; vacancy uncertain,Claude,Claude: unverified,2026-10-04
+Industriekletterer jobs (career page),Germany,https://verticalsolution.de/jobs-karriere/,general careers/search page; vacancy uncertain,Claude,Claude: unverified,2026-10-04
+Industriekletterer jobs (career page),Germany,https://industriekletterer-berlin.co/unternehmen/jobs/,general careers/search page; vacancy uncertain,Claude,Claude: unverified,2026-10-04
+"Insulation, Scaffolding, Corrosion Protection & Rope Access (profession page)",Germany,https://www.bilfinger.com/en/de/careers/professions/insulation-scaffolding-corrosion-protection-rope-access/,general careers/search page; vacancy uncertain,Claude,Claude: unverified,2026-10-04
+"Travail en hauteur, Cordiste (100+ jobs, aggregator)",Switzerland,"https://ch-fr.indeed.com/q-travail-en-hauteur,-cordiste-emplois.html",general careers/search page; vacancy uncertain,Claude,Claude: unverified,2026-10-04
+Cordiste IRATA 2-3 H/F (aggregator),France,https://fr.indeed.com/jobs?from=mobRdr&q=Cordiste+Irata&vjk=a54cbe71604e5d1c,general careers/search page; vacancy uncertain,Claude,Claude: unverified,2026-10-04
+Cordiste F/H and Chef d'équipe Cordiste F/H (aggregator),France,https://fr.indeed.com/q-cordiste-l-saint-nazaire-(44)-emplois.html,general careers/search page; vacancy uncertain,Claude,Claude: unverified,2026-10-04
+Chef d'équipe cordiste IDF H/F (aggregator),France,https://fr.indeed.com/q-cordiste-l-%C3%8Ele-de-france-emplois.html,general careers/search page; vacancy uncertain,Claude,Claude: unverified,2026-10-04
+Cordiste - Milieu Nucléaire H/F (aggregator),France,https://fr.indeed.com/q-cordistes-nucleaire-emplois.html,general careers/search page; vacancy uncertain,Claude,Claude: unverified,2026-10-04
+"Insulation, Scaffolding, Corrosion Protection & Rope Access (profession page)",Sweden (bonus),https://www.bilfinger.com/en/se/careers/professions/insulation-scaffolding-corrosion-protection-rope-access/,general careers/search page; vacancy uncertain,Claude,Claude: unverified,2026-10-04
+Offshore rope access jobs (aggregator),Europe-wide,https://jooble.org/jobs-offshore-rope-access,general careers/search page; vacancy uncertain,Claude,Claude: unverified,2026-10-04
+Rope access jobs (aggregator),Europe-wide,https://jooble.org/jobs-rope-access,general careers/search page; vacancy uncertain,Claude,Claude: unverified,2026-10-04
+Irata rope access level 1 jobs (UK),Europe-wide,https://uk.jooble.org/jobs-irata-rope-access-level-1,general careers/search page; vacancy uncertain,Claude,Claude: unverified,2026-10-04
+"Irata rope access level 1 jobs, Aberdeen",Europe-wide,https://uk.jooble.org/jobs-irata-rope-access-level-1/Aberdeen,general careers/search page; vacancy uncertain,Claude,Claude: unverified,2026-10-04
+Level 1 rope access jobs (UK),Europe-wide,https://uk.jooble.org/jobs-level-1-rope-access,general careers/search page; vacancy uncertain,Claude,Claude: unverified,2026-10-04
+"Rope access level jobs, Scotland",Europe-wide,https://uk.jooble.org/jobs-rope-access-level/Scotland,general careers/search page; vacancy uncertain,Claude,Claude: unverified,2026-10-04
+Current Openings (robotics-assisted blade rope access),Europe-wide,https://apply.workable.com/aerones/,general careers/search page; vacancy uncertain,Claude,Claude: unverified,2026-10-04
+Rope Access jobs (25+ vacatures),Europe-wide,https://nl.indeed.com/m/jobs?q=Rope+Access,general careers/search page; vacancy uncertain,Claude,Claude: unverified,2026-10-04

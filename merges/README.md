@@ -4,3 +4,4 @@ Each requested merge has its own folder. For runs after the 29 September baselin
 
 - [2026-09-29-01 — initial baseline](2026-09-29-01/) — historical snapshot through 29 September; [47 links reported or rechecked on that day](2026-09-29-01/findings.md). The full historical set is in the all-country page.
 - [2026-10-01-01 — 180 new links](2026-10-01-01/) — [country-organized findings](2026-10-01-01/findings.md).
+- [2026-10-05-01 — 314 new links](2026-10-05-01/) — [country-organized findings](2026-10-05-01/findings.md).
