@@ -6,3 +6,4 @@ Each requested merge has its own folder. For runs after the 29 September baselin
 - [2026-10-01-01 — 180 new links](2026-10-01-01/) — [country-organized findings](2026-10-01-01/findings.md).
 - [2026-10-05-01 — 314 new links](2026-10-05-01/) — [country-organized findings](2026-10-05-01/findings.md).
 - [2026-10-09-01](2026-10-09-01/README.md) — after the 5 October checkpoints through 9 October 2026
+- [2026-10-11-01](2026-10-11-01/README.md) — after the 9 October checkpoints through 11 October 2026
