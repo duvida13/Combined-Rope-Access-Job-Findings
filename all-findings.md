@@ -1,6 +1,6 @@
 # All historical job findings by country
 
-This page lists the individual or shortened job links collected from four source repositories through the latest manual merge. **Historical listing does not mean a vacancy is open now.** Open each posting to check before applying. The date is when an agent last reported the link, not an independent verification.
+This page lists the individual or shortened job links collected from four source repositories through the latest merge. **Historical listing does not mean a vacancy is open now.** Open each posting to check before applying. The date is when an agent last reported the link, not an independent verification.
 
 Country headings consolidate abbreviations such as UK/United Kingdom. Ambiguous source labels are grouped under “Multiple countries / regions” or “Country needs review”; their original values remain in [vacancies.csv](vacancies.csv).
 
@@ -15,21 +15,22 @@ For the newest additions, see [latest findings](latest.md). For full source stat
 - [Denmark (70)](#denmark)
 - [Estonia (2)](#estonia)
 - [Finland (3)](#finland)
-- [France (885)](#france)
-- [Germany (357)](#germany)
+- [France (888)](#france)
+- [Germany (365)](#germany)
 - [Iceland (1)](#iceland)
 - [Ireland (90)](#ireland)
 - [Italy (233)](#italy)
+- [Latvia (1)](#latvia)
 - [Lithuania (4)](#lithuania)
 - [Luxembourg (15)](#luxembourg)
 - [Monaco (3)](#monaco)
 - [Multiple countries / regions (52)](#multiple-countries--regions)
 - [Netherlands (127)](#netherlands)
 - [Norway (171)](#norway)
-- [Poland (27)](#poland)
-- [Portugal (126)](#portugal)
+- [Poland (28)](#poland)
+- [Portugal (127)](#portugal)
 - [Romania (21)](#romania)
-- [Spain (286)](#spain)
+- [Spain (287)](#spain)
 - [Sweden (39)](#sweden)
 - [Switzerland (85)](#switzerland)
 - [United Kingdom (794)](#united-kingdom)
@@ -330,6 +331,7 @@ For the newest additions, see [latest findings](latest.md). For full source stat
 - [Chargé d'affaires travaux sur cordes H/F](https://candidat.francetravail.fr/offres/recherche/detail/7231329) — Grok Bot; last reported 2026-10-14
 - [Chargé d’affaires Cordiste](https://candidat.francetravail.fr/offres/recherche/detail/212DRJY) — ChatGPT; last reported 2026-08-12
 - [Chargé(e) d'affaires nucléaire F/H](https://to.indeed.com/aaxzw88dbvqz) — Claude; last reported 2026-08-21
+- [Chargé(e) d'Affaires Travaux en Hauteur H/F](https://groupena.teamtailor.com/jobs/8547407-charge-e-d-affaires-travaux-en-hauteur-h-f) — Grok Bot; last reported 2026-10-15
 - [Chef / Cheffe d'Équipe Cordiste (H/F)](https://candidat.francetravail.fr/offres/recherche/detail/195HXFB) — Claude; last reported 2026-08-31
 - [Chef / Cheffe d’équipe cordiste](https://candidat.francetravail.fr/offres/recherche/detail/212HNHT) — ChatGPT; last reported 2026-08-12
 - [Chef d'equipe a La Reunion](https://offres.emploi-cordiste.fr/listing/chef-dequipe-a-la-reunion/) — Claude; last reported 2026-08-15
@@ -512,6 +514,7 @@ For the newest additions, see [latest findings](latest.md). For full source stat
 - [Cordiste (H/F)](https://www.proman-emploi.fr/mp972079-cordiste-42-h-f-fr) — Claude; last reported 2026-09-26
 - [Cordiste (H/F)](https://www.proman-emploi.fr/mp994428-cordiste-69-h-f-fr) — Claude; last reported 2026-09-26
 - [Cordiste (H/F)](https://www.toma-interim.com/trouver-un-emploi/323990/cordiste-h-f/) — Claude; last reported 2026-09-19
+- [Cordiste (H/F) — Falaise](https://candidat.francetravail.fr/offres/recherche/detail/215FSGX) — Grok Bot; last reported 2026-10-15
 - [Cordiste (H/F) — MOTIV Intérim](https://candidat.francetravail.fr/offres/recherche/detail/214VZMX) — Grok Bot; last reported 2026-10-14
 - [Cordiste (H/F) — MOTIV Intérim](https://candidat.francetravail.fr/offres/recherche/detail/214VZRX) — Grok Bot; last reported 2026-10-14
 - [Cordiste (H/F) — MOTIV Intérim](https://candidat.francetravail.fr/offres/recherche/detail/214VZTY) — Grok Bot; last reported 2026-10-14
@@ -537,7 +540,7 @@ For the newest additions, see [latest findings](latest.md). For full source stat
 - [Cordiste / Rope Access employment page (live listings)](https://www.htc-tv.fr/en/emploi-formation-cordiste) — Claude; last reported 2026-08-09
 - [Cordiste / Télépilote de Drone H/F](https://offres.emploi-cordiste.fr/listing/cordiste-telepilote-de-drone-h-f/) — Claude; last reported 2026-09-14
 - [Cordiste aux chantiers de l'Atlantique](http://offres.emploi-cordiste.fr/listing/cordiste-aux-chantier-de-l-atlantique/) — Claude; last reported 2026-08-09
-- [Cordiste Brantôme (TP)](https://candidat.francetravail.fr/offres/recherche/detail/214RMJJ) — Grok Bot; last reported 2026-10-11
+- [Cordiste Brantôme (TP)](https://candidat.francetravail.fr/offres/recherche/detail/214RMJJ) — Grok Bot; last reported 2026-10-15
 - [Cordiste BTP (H/F)](https://candidat.francetravail.fr/offres/recherche/detail/206JKVR) — Claude; last reported 2026-09-02
 - [Cordiste BTP / Futur Cordiste](https://candidat.francetravail.fr/offres/recherche/detail/212XYFL) — Grok Bot; last reported 2026-09-25
 - [Cordiste BTP / Futur Cordiste](https://offres.emploi-cordiste.fr/listing/offre-demploi-cordiste-btp-futur-cordiste-h-f/) — Grok Bot; last reported 2026-10-11
@@ -550,7 +553,7 @@ For the newest additions, see [latest findings](latest.md). For full source stat
 - [Cordiste chef d'équipe (H/F)](https://to.indeed.com/aapvlfz9mqm9) — Claude; last reported 2026-10-02
 - [Cordiste Châtellerault](https://candidat.francetravail.fr/offres/recherche/detail/214NVDS) — Grok Bot; last reported 2026-10-01
 - [Cordiste coffreur ferrailleur (Andorre border)](https://candidat.francetravail.fr/offres/recherche/detail/214QQVC) — Grok Bot; last reported 2026-10-11
-- [Cordiste confirmé Le Havre](https://candidat.francetravail.fr/offres/recherche/detail/214MRVB) — Grok Bot; last reported 2026-10-11
+- [Cordiste confirmé Le Havre](https://candidat.francetravail.fr/offres/recherche/detail/214MRVB) — Grok Bot; last reported 2026-10-15
 - [Cordiste Couvreur (H/F)](https://candidat.francetravail.fr/offres/recherche/detail/214XPNY) — Grok Bot; last reported 2026-10-08
 - [Cordiste Couvreur (H/F)](https://to.indeed.com/aa974bbvg7z8) — Claude; last reported 2026-09-23
 - [Cordiste CQP 2](https://to.indeed.com/aacnmxfdsm4h) — Claude; last reported 2026-09-29
@@ -750,7 +753,7 @@ For the newest additions, see [latest findings](latest.md). For full source stat
 - [Cordiste nucléaire F/H (CDI)](https://careers.werecruit.io/fr/ouest-acro/offres/cordiste-nucleaire-daa707) — Claude; last reported 2026-09-28
 - [Cordiste Nucléaire/Industrie](https://to.indeed.com/aagfdwkl7kz6) — Claude; last reported 2026-09-23
 - [Cordiste Parc Éolien](https://offres.emploi-cordiste.fr/listing/cordiste-parc-eolien-2/) — Claude; last reported 2026-08-22
-- [Cordiste Paris](https://candidat.francetravail.fr/offres/recherche/detail/214MRVZ) — Grok Bot; last reported 2026-10-11
+- [Cordiste Paris](https://candidat.francetravail.fr/offres/recherche/detail/214MRVZ) — Grok Bot; last reported 2026-10-15
 - [Cordiste peintre (Séez)](https://offres.emploi-cordiste.fr/listing/cordiste-peintre/) — Grok Bot; last reported 2026-10-11
 - [Cordiste Peinture avec ACQPA2 (F/H)](https://candidat.francetravail.fr/offres/recherche/detail/193NSKQ) — Claude; last reported 2026-08-25
 - [Cordiste Plouégat-Moysan (TP)](https://candidat.francetravail.fr/offres/recherche/detail/214RLZH) — Grok Bot; last reported 2026-10-14
@@ -769,7 +772,7 @@ For the newest additions, see [latest findings](latest.md). For full source stat
 - [Cordiste Risques Naturels H/F](https://fr.linkedin.com/jobs/view/cordiste-risques-naturels-h-f-at-can-3743649135) — Claude; last reported 2026-08-10
 - [Cordiste Risques Naturels – CQP en alternance (H/F)](https://candidat.francetravail.fr/offres/recherche/detail/209XCVK) — Claude; last reported 2026-09-07
 - [Cordiste Risques Naturels – CQP en alternance (H/F)](https://candidat.francetravail.fr/offres/recherche/detail/209XCWC) — Claude; last reported 2026-09-07
-- [Cordiste Risques Naturels: CQP formation puis contrat](https://candidat.francetravail.fr/offres/recherche/detail/214GGPR) — Grok Bot; last reported 2026-10-11
+- [Cordiste Risques Naturels: CQP formation puis contrat](https://candidat.francetravail.fr/offres/recherche/detail/214GGPR) — Grok Bot; last reported 2026-10-15
 - [Cordiste Savoie](https://offres.emploi-cordiste.fr/listing/cordiste-savoie/) — Claude; last reported 2026-09-03
 - [Cordiste site nucléaire (H/F)](https://to.indeed.com/aak78bbwss7p) — Claude; last reported 2026-10-03
 - [CORDISTE SITES NUCLEAIRES (H/F)](https://candidat.francetravail.fr/offres/recherche/detail/191HNJC) — Claude; last reported 2026-10-06
@@ -844,7 +847,7 @@ For the newest additions, see [latest findings](latest.md). For full source stat
 - [Cordiste urbain H/F](https://fr.indeed.com/viewjob?jk=afff6aef20a427a3) — Claude; last reported 2026-08-11
 - [Cordiste Urbain H/F](https://www.hellowork.com/fr-fr/emplois/76020628.html) — Claude; last reported 2026-09-14
 - [Cordiste Urbain Paris (H/F)](https://candidat.francetravail.fr/offres/recherche/detail/5734760) — Claude; last reported 2026-10-07
-- [Cordiste Ustaritz](https://candidat.francetravail.fr/offres/recherche/detail/214KBFH) — Grok Bot; last reported 2026-09-30
+- [Cordiste Ustaritz](https://candidat.francetravail.fr/offres/recherche/detail/214KBFH) — Grok Bot; last reported 2026-10-15
 - [Cordiste zingueur](https://to.indeed.com/aa4267bc7xry) — Claude; last reported 2026-10-02
 - [Cordiste ×2 (avalanche barriers)](https://candidat.francetravail.fr/offres/recherche/detail/214XGHP) — Grok Bot; last reported 2026-10-11
 - [Cordiste à Paris](https://offres.emploi-cordiste.fr/listing/cordiste-a-paris/) — Claude; last reported 2026-08-22
@@ -990,7 +993,7 @@ For the newest additions, see [latest findings](latest.md). For full source stat
 - [Rigger F/H](https://www.adzuna.fr/details/4982089710) — Claude; last reported 2026-08-25
 - [Rigger/Accrocheur listings](https://www.recrutementspectacle.com/offres-d-emploi-rigger-accrocheur.348.1) — Claude; last reported 2026-08-22
 - [Rope Access Technician](https://rebatirnotredamedeparis.fr/en/careers/rope-access-technician) — Claude; last reported 2026-09-03
-- [Rope Access Technician with IRATA 3](https://career.muehlhan.com/jobs/8516863-rope-access-technician-with-irata-3) — Grok Bot; last reported 2026-10-14
+- [Rope Access Technician with IRATA 3](https://career.muehlhan.com/jobs/8516863-rope-access-technician-with-irata-3) — Grok Bot; last reported 2026-10-15
 - [Rope Access Technician – Technicien Cordiste](https://fr.linkedin.com/jobs/view/rope-access-technician-technicien-cordiste-at-profil-armor-3715830334) — Claude; last reported 2026-08-29
 - [Régisseur Cordiste (H/F)](https://to.indeed.com/aacpqvjjm7bj) — Claude; last reported 2026-10-05
 - [Régisseur Cordiste (H/F)](https://to.indeed.com/aahpwgj2s6ty) — Claude; last reported 2026-09-30
@@ -1030,7 +1033,7 @@ For the newest additions, see [latest findings](latest.md). For full source stat
 - [Technicien cordiste](https://www.glassdoor.fr/job-listing/technicien-cordiste-deverus-JV_IC2979320_KO0,19_KE20,27.htm?jl=1009453027829) — Claude; last reported 2026-08-26
 - [Technicien Cordiste (chantiers à Angers)](https://fr.linkedin.com/jobs/view/technicien-cordiste-cordiste-pour-chantiers-a-angers-at-cordial-2872874000) — Claude; last reported 2026-09-03
 - [Technicien cordiste (diplômé ou à former)](https://candidat.francetravail.fr/offres/recherche/detail/214SFDH) — Grok Bot; last reported 2026-10-11
-- [Technicien cordiste (Eschau)](https://candidat.francetravail.fr/offres/recherche/detail/214HCQV) — ChatGPT / Grok Bot; last reported 2026-10-11
+- [Technicien cordiste (Eschau)](https://candidat.francetravail.fr/offres/recherche/detail/214HCQV) — ChatGPT / Grok Bot; last reported 2026-10-15
 - [Technicien Cordiste (H/F)](https://candidat.francetravail.fr/offres/recherche/detail/214VWWV) — Grok Bot; last reported 2026-10-11
 - [Technicien cordiste (maçonnerie)](https://candidat.francetravail.fr/offres/recherche/detail/214RRQK) — Grok Bot; last reported 2026-10-11
 - [Technicien Cordiste (Rennes)](https://offres.emploi-cordiste.fr/listing/technicien-cordiste-h-f-44/) — Grok Bot; last reported 2026-10-11
@@ -1124,6 +1127,7 @@ For the newest additions, see [latest findings](latest.md). For full source stat
 - [Technicien(ne) cordiste Le Havre](https://to.indeed.com/aarwy8m8qf8y) — Claude; last reported 2026-09-30
 - [Technicien(ne) cordiste macon(ne) F/H](https://www.accedif.fr/offre-emploi-technicienne-cordiste-maconne-fh-22) — Claude; last reported 2026-08-15
 - [Technicien(ne)s cordistes profil industrie - NORD ACCESS](https://to.indeed.com/aar6cgxfswlx) — Claude; last reported 2026-10-13
+- [Technicien(ne)s cordistes profil industrie - NORD ACCESS](https://to.indeed.com/aak6hvtpp6d7) — Claude; last reported 2026-10-14
 - [Technicien.ne Cordiste](https://to.indeed.com/aa6vtnkjmhrk) — Claude; last reported 2026-08-19
 - [Technicien.ne Cordiste (F/H)](https://careers.flatchr.io/vacancy/jaonxpvkzqxdpg4q-technicien-cordiste-en-bretagne/) — Claude; last reported 2026-10-04
 - [Technicien.ne Cordiste (milieu nucléaire)](https://to.indeed.com/aapzjr77xn4j) — Claude; last reported 2026-09-06
@@ -1197,6 +1201,7 @@ For the newest additions, see [latest findings](latest.md). For full source stat
 - [Aufsichtsführender Höhenarbeiter / Industriekletterer (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/14332-00002f2463d001-S) — Claude; last reported 2026-08-26
 - [Ausbildung 2026 – Industrie-Gerüstbauer (m/w/d)](https://energyjobsearch.com/jobs/other-jobs/1215503) — Claude; last reported 2026-10-01
 - [Ausbildung zum Industriekletterer (trained to FISAT 1)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1208170585-S) — Grok Bot; last reported 2026-10-12
+- [Ausbildung zum Industriekletterer I Schwindelfreie Handwerker, Elektriker, Schweißer mit PKW](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1001731008-S) — Claude; last reported 2026-10-14
 - [Bauleiter (m/w/d)](https://to.indeed.com/aabmlywvscvp) — Claude; last reported 2026-08-08
 - [Bauleiter (m/w/d)](https://to.indeed.com/aax7k2lmpg2d) — Claude; last reported 2026-08-19
 - [Bauleiter Mobilfunk Mastbau](https://jobs.smartrecruiters.com/VolkerWesselsTelecomDeutschlandGmbH/743999778662864-bauleiter-mobilfunk-mastbau) — Claude; last reported 2026-09-19
@@ -1249,6 +1254,7 @@ For the newest additions, see [latest findings](latest.md). For full source stat
 - [Höhenarbeiter / Industriekletterer / Rope Access Technicians](https://to.indeed.com/aa44kcjys2zp) — Claude; last reported 2026-08-19
 - [Höhenarbeiter / Industriekletterer / Rope Access Technicians](https://to.indeed.com/aahtrwnyhfbp) — Claude; last reported 2026-08-14
 - [Höhenarbeiter / Industriekletterer / Rope Access Technicians](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003822870-S) — Grok Bot; last reported 2026-10-12
+- [Höhenarbeiter / Industriekletterer, Dachdecker, Tischler](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003382565-S) — Grok Bot; last reported 2026-10-15
 - [Höhenarbeiter/Industriekletterer (careers page)](https://www.ga-tec.de/karriere/stellenangebote) — Claude; last reported 2026-08-13
 - [Höhenarbeiter/Industriekletterer (m/w/d)](https://to.indeed.com/aakms4ykbrc6) — Claude; last reported 2026-08-08
 - [Höhenarbeiter/Industriekletterer/Schlosser/Metallbauer (w/m/d)](https://to.indeed.com/aacdckcjxxhc) — Claude; last reported 2026-08-19
@@ -1268,7 +1274,7 @@ For the newest additions, see [latest findings](latest.md). For full source stat
 - [Industriekletterer](https://to.indeed.com/aanhptcr9vqc) — Claude; last reported 2026-08-21
 - [Industriekletterer](https://to.indeed.com/aar6kqwk7x6x) — Claude; last reported 2026-09-29
 - [Industriekletterer](https://to.indeed.com/aatgz44thkbr) — Claude; last reported 2026-08-24
-- [Industriekletterer](https://www.make-it-in-germany.com/en/working-in-germany/job-listings/job/job-10001-1002776213-S) — ChatGPT / Claude; last reported 2026-10-07
+- [Industriekletterer](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002776213-S) — ChatGPT / Claude / Grok Bot; last reported 2026-10-15
 - [Industriekletterer](https://www.seilkraft.de/karriere/stellenangebote/) — Claude; last reported 2026-08-09
 - [Industriekletterer (all genders) Rotorblattreparaturen](https://jobs.rts-wind.de/stellenangebote/Industriekletterer-all-genders-Rotorblattreparaturen-Erfurt-RTS-Wind-AG--505039825) — Claude; last reported 2026-08-23
 - [Industriekletterer (all genders) Rotorblattreparaturen](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1000989527-S) — Claude; last reported 2026-10-13
@@ -1300,6 +1306,7 @@ For the newest additions, see [latest findings](latest.md). For full source stat
 - [Industriekletterer (w/m/d)](https://www.jobsfuerniedersachsen.de/job/industriekletterer-w-m-d-16859888) — Claude; last reported 2026-08-30
 - [Industriekletterer (w/m/d)](https://www.karriere-bremen.de/stellenangebot/industriekletterer-823482) — Claude; last reported 2026-08-13
 - [Industriekletterer (w/m/d) Fassaden- und Glasreinigung](https://jobs.apleona.com/offer/industriekletterer-w-m-d-fassaden-u/6dd78e93-57d4-4753-9f66-a533374b2f9a) — Claude; last reported 2026-08-28
+- [Industriekletterer / Allroundhandwerker (they train)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1202281320-S) — Grok Bot; last reported 2026-10-15
 - [Industriekletterer / Höhenarbeiter](https://to.indeed.com/aak7yyhwchhb) — Claude; last reported 2026-08-14
 - [Industriekletterer / Höhenarbeiter](https://www.arbeitsagentur.de/jobsuche/jobdetail/13103-3134107_4061579-S) — ChatGPT; last reported 2026-09-29
 - [Industriekletterer / Höhenarbeiter (m/w)](https://www.mds-md.de/jobs-industriekletterer) — ChatGPT / Claude; last reported 2026-10-10
@@ -1315,6 +1322,7 @@ For the newest additions, see [latest findings](latest.md). For full source stat
 - [Industriekletterer / Höhenarbeiter (m/w/d)](https://to.indeed.com/aaytfws2s4zj) — Claude; last reported 2026-09-26
 - [Industriekletterer / Höhenarbeiter (m/w/d)](https://to.indeed.com/aaz98vst4htk) — Claude; last reported 2026-09-23
 - [Industriekletterer / Höhenarbeiter (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1203695577-S) — Claude; last reported 2026-08-18
+- [Industriekletterer / Höhenarbeiter (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1207438755-S) — Grok Bot; last reported 2026-10-15
 - [Industriekletterer / Höhenarbeiter (m/w/d) bei 3KER RAS GROUP](https://to.indeed.com/aa7ncdkszp9h) — Claude; last reported 2026-09-23
 - [Industriekletterer / Höhenarbeiter (m/w/d) bei 3KER RAS GROUP](https://to.indeed.com/aafttncxwhyc) — Claude; last reported 2026-09-06
 - [Industriekletterer / Höhenarbeiter (m/w/d) bei 3KER RAS GROUP in Hamburg](https://to.indeed.com/aaryr97d6m7n) — Claude; last reported 2026-09-10
@@ -1329,6 +1337,7 @@ For the newest additions, see [latest findings](latest.md). For full source stat
 - [Industriekletterer / Quereinsteiger aus dem Handwerk (m/w/d)](https://to.indeed.com/aat7xbbbq6x8) — Claude; last reported 2026-09-07
 - [Industriekletterer / Quereinsteiger aus dem Handwerk (m/w/d)](https://to.indeed.com/aavjq6wcwsqf) — Claude; last reported 2026-09-01
 - [Industriekletterer / Quereinsteiger aus dem Handwerk (m/w/d)](https://to.indeed.com/aaw78rxwtbg6) — Claude; last reported 2026-09-29
+- [Industriekletterer / Quereinstieg (they train)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1001550102-S) — Grok Bot; last reported 2026-10-15
 - [Industriekletterer / Seilzugangstechniker (Vollzeit)](https://to.indeed.com/aalxgvtqztcz) — Claude; last reported 2026-08-18
 - [Industriekletterer / Seilzugangstechniker (Vollzeit)](https://to.indeed.com/aaqjsh8c7hzc) — Claude; last reported 2026-08-19
 - [Industriekletterer / Seilzugangstechniker Vollzeit](https://to.indeed.com/aa2fpw9n74qz) — Claude; last reported 2026-08-14
@@ -1362,6 +1371,7 @@ For the newest additions, see [latest findings](latest.md). For full source stat
 - [Industriekletterer Rotorblattreparaturen](https://jobs.rts-wind.de/stellenangebote/Industriekletterer-m-w-d-Rotorblattreparaturen-Berlin-RTS-Wind-AG--49785348) — Claude; last reported 2026-10-02
 - [Industriekletterer Rotorblattreparaturen](https://portal.oproma.de/jobs/industriekletterer-all-genders-rotorblattreparaturen-ID-5909183) — ChatGPT; last reported 2026-08-12
 - [Industriekletterer/-kletterin](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1001592303-S) — Claude; last reported 2026-09-03
+- [Industriekletterer/-kletterin (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003292785-S) — Grok Bot; last reported 2026-10-15
 - [Industriekletterer/Hoehenarbeiter](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003766387-S) — Claude; last reported 2026-10-13
 - [Industriekletterer/Höhenarbeiter](https://de.linkedin.com/jobs/view/industriekletterer-h%C3%B6henarbeiter-at-verticalsolution-gmbh-4075463045) — Claude; last reported 2026-08-26
 - [Industriekletterer/Höhenarbeiter (m/w/d)](https://to.indeed.com/aabbh77dwrbp) — Claude; last reported 2026-09-26
@@ -1398,8 +1408,10 @@ For the newest additions, see [latest findings](latest.md). For full source stat
 - [Mitarbeiter (m/w/d) Schornsteinbau für Montageeinsätze](https://to.indeed.com/aanrbsg2zy29) — Claude; last reported 2026-09-24
 - [Mitarbeiter (m/w/d) Schornsteinbau für Montageeinsätze](https://to.indeed.com/aaqzhdvffqb4) — Claude; last reported 2026-09-23
 - [Mitarbeiter mit technischem Hintergrund als Höhenarbeiter](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003114865-S) — Claude; last reported 2026-10-08
+- [Montagearbeit als Industriekletterer](https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1206378458-S) — Grok Bot; last reported 2026-10-15
 - [Montagekoordination Industriekletterer:in mit Level 3](https://de.linkedin.com/jobs/view/montagekoordination-industriekletterer-in-mit-level-3-m-w-d-at-basf-4035254344) — Claude; last reported 2026-08-28
 - [Montagekoordination Industriekletterer:in mit Level 3 (m/w/d)](https://basf.jobs/content/apply/?extJobId=87711-de_DE) — Claude; last reported 2026-09-02
+- [Monteur (m/w/d) — train path to Industriekletterer](https://www.stepstone.de/stellenangebote--Monteur-m-w-d-Koblenz-Hoehenpass-GmbH--14088916-inline.html) — Grok Bot; last reported 2026-10-15
 - [Monteur (m/w/d) für Sanierungsprojekte im Bereich Windkraftanlagen](https://to.indeed.com/aa8zxyvcfsc2) — Claude; last reported 2026-09-01
 - [Monteur (m/w/d) für Sanierungsprojekte im Bereich Windkraftanlagen](https://to.indeed.com/aamjrzn8p8gb) — Claude; last reported 2026-08-21
 - [Monteur (m/w/d) für Sanierungsprojekte im Bereich Windkraftanlagen](https://to.indeed.com/aasf4s7scjqt) — Claude; last reported 2026-08-31
@@ -1460,7 +1472,7 @@ For the newest additions, see [latest findings](latest.md). For full source stat
 - [Seilzugangstechniker (m/w/d) für den Rotorblattservice](https://deutsche-windtechnik.softgarden.io/job/42944419/Seilzugangstechniker-m-w-d-f%C3%BCr-den-Rotorblattservice-an-Windenergieanlagen?l=en) — Claude; last reported 2026-08-09
 - [Seilzugangstechniker (m/w/d) für den Rotorblattservice an Windenergieanlagen](https://jobs.deutsche-windtechnik.com/jobs/42941255/Seilzugangstechniker-m-w-d-f%C3%BCr-den-Rotorblattservice-an-Windenergieanlagen/) — Claude; last reported 2026-08-23
 - [Seilzugangstechniker (m/w/d) für den Rotorblattservice an Windenergieanlagen](https://to.indeed.com/aasfdswcxjsl) — Claude; last reported 2026-10-09
-- [Seilzugangstechniker (m/w/d) für Rotorblattreparatur](https://de.linkedin.com/jobs/view/seilzugangstechniker-m-w-d-f%C3%BCr-rotorblattreparatur-at-deutsche-windtechnik-ag-3402474356) — Claude; last reported 2026-10-12
+- [Seilzugangstechniker (m/w/d) für Rotorblattreparatur](https://de.linkedin.com/jobs/view/seilzugangstechniker-m-w-d-f%C3%BCr-rotorblattreparatur-at-deutsche-windtechnik-ag-3402474356) — Claude; last reported 2026-10-14
 - [Seilzugangstechniker (m/w/d) für Rotorblattservice](https://deutsche-windtechnik.com/stellenangebote/job/seilzugangstechniker-m-w-d-fuer-rotorblattreparatur/lang/de) — Claude; last reported 2026-08-22
 - [Seilzugangstechniker (m/w/d) Rotorblattreparaturen](http://de.meega.eu/164001.html) — Claude; last reported 2026-08-20
 - [Seilzugangstechniker (m/w/d) Rotorblattreparaturen](https://jobs.rts-wind.de/stellenangebote/Seilzugangstechniker-all-genders-Rotorblattreparaturen-Frankfurt-am-Main-RTS-Wind-AG--18411870) — Claude; last reported 2026-08-09
@@ -1498,7 +1510,7 @@ For the newest additions, see [latest findings](latest.md). For full source stat
 - [Technischer Planer Veranstaltungstechnik (m/w/d) Licht und Rigging](https://to.indeed.com/aawfrgpmlhmz) — Claude; last reported 2026-08-23
 - [Telecommunications Tower Technician](https://karriere.mugler.de/en/jobs-en/mobile-network-installation-technician/) — Claude; last reported 2026-09-07
 - [Trainer / Instructor (m/w/d) - Working at Height / Rope Access](https://to.indeed.com/aazxfthbdbqj) — Claude; last reported 2026-08-20
-- [Ventotec Solution — Industriekletterer Rotorblatt Level 1–3](https://www.stepstone.de/stellenangebote--Industriekletterer-Rotorblatt-Level-1-3-Seil-Buehne-Rostock-Ventotec-Solution--11566958-inline.html) — Grok Bot / Grok Search; last reported 2026-10-14
+- [Ventotec Solution — Industriekletterer Rotorblatt Level 1–3](https://www.stepstone.de/stellenangebote--Industriekletterer-Rotorblatt-Level-1-3-Seil-Buehne-Rostock-Ventotec-Solution--11566958-inline.html) — Claude / Grok Bot / Grok Search; last reported 2026-10-15
 - [Verfahrensmechaniker (m/w/d) für Windenergie – Rotorblattreparatur (Seilbühne)](https://to.indeed.com/aaddqgxttdl6) — Claude; last reported 2026-09-23
 - [Verfahrensmechaniker (m/w/d) für Windenergie – Rotorblattreparatur (Seilbühne)](https://to.indeed.com/aagfcpdnfsvb) — Claude; last reported 2026-08-19
 - [Verfahrensmechaniker (m/w/d) für Windenergie – Rotorblattreparatur (Seilbühne)](https://to.indeed.com/aarb79p9sdfd) — Claude; last reported 2026-09-24
@@ -1517,7 +1529,7 @@ For the newest additions, see [latest findings](latest.md). For full source stat
 - [Vollzeit-Kletterer/Industriekletterer](https://to.indeed.com/aat4wk92kpfq) — Claude; last reported 2026-08-24
 - [Vollzeit-Kletterer/Industriekletterer](https://to.indeed.com/aaz7h7znvq4m) — Claude; last reported 2026-08-21
 - [Vollzeit-Kletterer/Industriekletterer](https://to.indeed.com/aazlg9v99mv2) — Claude; last reported 2026-08-08
-- [Vorarbeiter als Industriekletterer (m/w/d)](https://www.stepstone.de/stellenangebote--Vorarbeiter-als-Industriekletterer-m-w-d-Troisdorf-Deutschland-Industriekletterer-Bonn-Inh-Toni-Harbig--13501801-inline.html) — Claude; last reported 2026-10-11
+- [Vorarbeiter als Industriekletterer (m/w/d)](https://www.stepstone.de/stellenangebote--Vorarbeiter-als-Industriekletterer-m-w-d-Troisdorf-Deutschland-Industriekletterer-Bonn-Inh-Toni-Harbig--13501801-inline.html) — Claude; last reported 2026-10-14
 - [Vorarbeiter als Industriekletterer (m/w/d)](https://www.stepstone.de/stellenangebote--Vorarbeiter-als-Industriekletterer-m-w-d-Troisdorf-Industriekletterer-Bonn-Inh-Toni-Harbig--14117841-inline.html) — Grok Bot; last reported 2026-10-14
 - [Vorarbeiter Industriekletterer (m/w/d) / Dachdecker, Metallbauer, Elektriker als Industriekletterer](https://industriekletterer-bonn.de/jobs-und-karriere-industriekletterer-bonn) — Claude; last reported 2026-08-21
 - [Weiterbildung zum Höhenarbeiter (m/w/d)](https://to.indeed.com/aa4lgmrjnfvb) — Claude; last reported 2026-08-23
@@ -1870,6 +1882,10 @@ For the newest additions, see [latest findings](latest.md). For full source stat
 - [UN OPERATORE SU FUNE - MANUTENTORE (H/F/D)(M/F/X)](https://to.indeed.com/aatnfg4z8rhh) — Claude; last reported 2026-10-04
 - [Un Operatore su fune – Manutentore](https://www.applavoro.it/annuncio-un-operatore-su-fune---manuten-27920) — Grok Bot; last reported 2026-10-08
 
+## Latvia
+
+- [Alpīnists / industriālais alpīnists (beginners OK)](https://www.ss.lv/msg/lv/work/are-required/climber/blhnfj.html) — Grok Bot; last reported 2026-10-15
+
 ## Lithuania
 
 - [NDT Technician](https://alprojects.eu/job-offers/ndt-technician/) — Claude; last reported 2026-08-17
@@ -2152,7 +2168,7 @@ For the newest additions, see [latest findings](latest.md). For full source stat
 - [Rope Access Technician](https://karrieresenter.adecco.no/en-GB/jobs/5677079-rope-access-technician) — Claude; last reported 2026-08-06
 - [Rope Access Technician](https://www.stsisonor.com/en/careers/vacancies/rope-access-technician/) — Claude; last reported 2026-08-10
 - [Rope Access Technician (L2/L3)](https://www.jobindex.dk/jobannonce/r12448447/rope-access-technician) — Claude; last reported 2026-10-06
-- [Rope Access Technician Team Lead, Rig Inspection Services](https://karrierestart.no/ledig-stilling/899217) — Claude; last reported 2026-09-24
+- [Rope Access Technician Team Lead, Rig Inspection Services](https://karrierestart.no/ledig-stilling/899217) — Claude; last reported 2026-10-14
 - [Rope Access Technician – Level III](https://www.akersolutions.com/careers/job-search/?jobPostId=21165) — Claude; last reported 2026-08-06
 - [Rope Access Technician, Odfjell Energy - RIS](https://karrierestart.no/ledig-stilling/1662561) — Claude; last reported 2026-10-12
 - [Rope Access Technician, Rig Inspection Services](https://karrierestart.no/ledig-stilling/1152793) — Claude; last reported 2026-08-20
@@ -2270,6 +2286,7 @@ For the newest additions, see [latest findings](latest.md). For full source stat
 - [Alpinista przemysłowy - serwis sprzątający](https://www.pracuj.pl/praca/alpinista-przemyslowy-serwis-sprzatajacy-warszawa,oferta,1003211313) — Claude; last reported 2026-09-14
 - [Alpinista przemysłowy - technik dostępu linowego](https://alpin-group.pro/Praca/) — Claude; last reported 2026-09-10
 - [Alpinista przemysłowy / open hire](https://teton.pl/kariera/) — Grok Bot; last reported 2026-10-11
+- [Alpinista przemysłowy / praca na wysokości](https://www.olx.pl/oferta/praca/alpinista-przemyslowy-praca-na-wysokosci-zatrudnie-CID4-ID1cuBQC.html) — Grok Bot; last reported 2026-10-15
 - [Alpinista przemysłowy / pracownik wysokościowy](https://www.olx.pl/oferta/praca/alpinista-przemyslowy-prace-wysokosciowe-dniowka-od-700zl-CID4-ID17k3JS.html) — Grok Bot; last reported 2026-10-11
 - [Alpinista Przemysłowy – monter słupów wysokiego napięcia](https://www.pracuj.pl/praca/alpinista%20przemys%C5%82owy%3Bkw) — ChatGPT; last reported 2026-09-11
 - [Alpinista przemysłowy, pracownik dostępu linowego](https://climbex.pl/praca/alpinista-przemyslowy-pracownik-dostepu-linowego/) — ChatGPT; last reported 2026-09-25
@@ -2321,6 +2338,7 @@ For the newest additions, see [latest findings](latest.md). For full source stat
 - [Coordenador Obra, Técnico Acesso por Cordas, Pedreiros, Pintores, Barradores e Serventes](https://to.indeed.com/aa7rmqpn7chg) — Claude; last reported 2026-09-30
 - [Coordenador Obra, Técnico Acesso por Cordas, Pedreiros, Pintores, Barradores e Serventes](https://to.indeed.com/aahjmzglxqgc) — Claude; last reported 2026-10-04
 - [Coordenador Obra, Técnico Acesso por Cordas, Pedreiros, Pintores, Barradores e Serventes](https://to.indeed.com/aats77h69v7p) — Claude; last reported 2026-09-23
+- [Especialista trabajos verticales obra civil IRATA 3](https://www.anetva.org/oferta-de-empleo/especialista-trabajos-verticales-obra-civil-irata-3/) — ChatGPT; last reported 2026-10-15
 - [Estamos a Recrutar](https://www.net-empregos.com/16057569/estamos-a-recrutar-alpinista/) — Grok Bot; last reported 2026-10-11
 - [Formador - Trabalhos em Altura](https://www.jobijoba.pt/emprego/17/8a59ecd41c8f803006428440c422c649) — Claude; last reported 2026-10-05
 - [Formador(a) de Trabalhos em Altura (UFCD 9278)](https://www.net-empregos.com/15111493/formador-a-de-trabalhos-em-altura/) — Claude; last reported 2026-08-30
@@ -2479,7 +2497,7 @@ For the newest additions, see [latest findings](latest.md). For full source stat
 - [ANETVA index — Peón Especialista (Navarra)](https://www.anetva.org/bolsa-de-empleo/) — Claude / Grok Search; last reported 2026-09-11
 - [ANETVA/IRATA Level 1-2-3 to join the GAP** (rescue support team)](https://www.lalineavertical.com/job-offer-anetva-irata-level-1-2-3-to-join-the-gap/) — Claude; last reported 2026-08-06
 - [Aprolan 21 — Peón Especialista en Trabajos Verticales](https://www.anetva.org/oferta-de-empleo/peon-especialista-en-trabajos-verticales/) — Claude / Grok Search; last reported 2026-09-11
-- [Autónomos en Trabajos Verticales](https://www.anetva.org/oferta-de-empleo/autonomos-en-trabajos-verticales/) — Claude; last reported 2026-10-12
+- [Autónomos en Trabajos Verticales](https://www.anetva.org/oferta-de-empleo/autonomos-en-trabajos-verticales/) — Claude; last reported 2026-10-14
 - [Blade Repair (Inspección LPS)](https://to.indeed.com/aa2xljphyk84) — Claude; last reported 2026-09-07
 - [Blade Repair (Inspección LPS)](https://to.indeed.com/aa4mgf9kbxmb) — Claude; last reported 2026-08-24
 - [Blade Repair (Inspección LPS)](https://to.indeed.com/aag2qqbvjq2j) — Claude; last reported 2026-08-22
@@ -2504,7 +2522,7 @@ For the newest additions, see [latest findings](latest.md). For full source stat
 - [Especialista Trabajos Verticales Obra Civil y Montaje Mecánico](https://www.anetva.org/oferta-de-empleo/especialista-trabajos-verticales-obra-civil-y-montaje-mecanico-2/) — Claude; last reported 2026-09-01
 - [Formador/a en montaje de andamios](https://to.indeed.com/aamtqvd6rc9h) — Claude; last reported 2026-10-02
 - [Instalador de lineas de vida definitivas](https://www.anetva.org/oferta-de-empleo/instalador-de-lineas-de-vida-definitivas/) — Claude; last reported 2026-08-15
-- [Instalador de líneas de vida](https://www.anetva.org/oferta-de-empleo/instalador-de-lineas-de-vida-4/) — Grok Bot; last reported 2026-10-11
+- [Instalador de líneas de vida](https://www.anetva.org/oferta-de-empleo/instalador-de-lineas-de-vida-4/) — ChatGPT / Grok Bot; last reported 2026-10-15
 - [Jefe/a andamiero/a / Scaffolder (eventos)](https://www.jobijoba.es/oferta-empleo/69/44f3b78a8a0266341c63183ae8824498) — Claude; last reported 2026-08-14
 - [L1 Troubleshooter Madrid](https://to.indeed.com/aamygcl2lg9q) — Claude; last reported 2026-08-25
 - [Limpiacristales en altura](https://www.infojobs.net/barcelona/limpiacristales-altura/of-ibf83ec66884151b01c61aed245ec60) — Claude; last reported 2026-10-06
@@ -2567,7 +2585,7 @@ For the newest additions, see [latest findings](latest.md). For full source stat
 - [Open vacancies (company listings)](https://www.infojobs.net/kaefer-servicios-industriales-s.a.u./em-i65525648535448759710117007095389607413/ofertas) — Claude; last reported 2026-08-30
 - [Operario de Fachadas y Trabajos Verticales](https://es.linkedin.com/jobs/view/operario-de-fachadas-y-trabajos-verticales-at-fmax-servicios-integrales-4409126797) — Claude; last reported 2026-08-12
 - [Operario de Rehabilitación de Edificios](https://to.indeed.com/aayksyfgqmdb) — Claude; last reported 2026-10-05
-- [Operario de Trabajos Verticales](https://www.anetva.org/oferta-de-empleo/operario-de-trabajos-verticales-4/) — Claude; last reported 2026-10-12
+- [Operario de Trabajos Verticales](https://www.anetva.org/oferta-de-empleo/operario-de-trabajos-verticales-4/) — Claude; last reported 2026-10-14
 - [Operario Trabajos Verticales](https://es.linkedin.com/jobs/view/operario-trabajos-verticales-at-univertical-s-l-u-4441602279) — Claude; last reported 2026-08-12
 - [Operario Trabajos Verticales](https://www.anetva.org/oferta-de-empleo/operario-trabajos-verticales-3/) — ChatGPT / Grok Bot / Grok Search; last reported 2026-10-11
 - [Operario/a de trabajos en altura](https://to.indeed.com/aaghk7wk6n74) — Claude; last reported 2026-08-25
@@ -2579,7 +2597,7 @@ For the newest additions, see [latest findings](latest.md). For full source stat
 - [Operarios y operarias sector eólico](https://to.indeed.com/aazz42k8cqbl) — Claude; last reported 2026-08-25
 - [PEÓ/NA ESPECIALISTA: TREBALLS VERTICALS - RETIRADA D'AMIANT I ENDERROCS](https://to.indeed.com/aaqjtqnhp9ht) — Claude; last reported 2026-08-23
 - [Peón Especialista (Trabajos en Altura) – Instalador de Sistemas de Seguridad Anticaídas](https://www.anetva.org/oferta-de-empleo/peon-especialista-trabajos-en-altura-instalador-de-sistemas-de-seguridad-anticaidas-instalacion-de-sistemas-de-seguridad-en-alturas/) — Claude; last reported 2026-08-29
-- [Peón Especialista en Trabajos Verticales](https://www.anetva.org/oferta-de-empleo/peon-especialista-en-trabajos-verticales-2/) — Grok Bot; last reported 2026-10-11
+- [Peón Especialista en Trabajos Verticales](https://www.anetva.org/oferta-de-empleo/peon-especialista-en-trabajos-verticales-2/) — ChatGPT / Grok Bot; last reported 2026-10-15
 - [Peón especialista para atender a un técnico de acceso y posicionamiento de cuerdas](https://www.anetva.org/oferta-de-empleo/peon-especialista-para-atender-a-un-tecnico-de-acceso-y-posicionamiento-de-cuerdas/) — Claude; last reported 2026-08-10
 - [Peón Especialista – Oficial de II](https://www.anetva.org/oferta-de-empleo/peon-especialista-oficial-de-ii/) — Claude; last reported 2026-08-29
 - [Peón para trabajos verticales](https://to.indeed.com/aacnzq2vmspf) — Claude; last reported 2026-09-30
@@ -2605,7 +2623,7 @@ For the newest additions, see [latest findings](latest.md). For full source stat
 - [Rope Access Technicians – Huelva](https://www.lalineavertical.com/job-offer-rope-access-technicians-huelva/) — Claude; last reported 2026-08-22
 - [Rope Access Technicians – Tarragona](https://www.lalineavertical.com/job-offer-rope-access-technicians-in-tarragona/) — Claude; last reported 2026-08-22
 - [Rotorblade Service Technician Spain (Rope Access and/or Platform)](https://www.wkabladeservice.com/en/career/rotorblade-service-technician-spain-rope-access-and-or-platform/) — Claude; last reported 2026-08-19
-- [Se buscan tecnicos en trabajos verticales y montadores de lineas de vida](https://www.anetva.org/oferta-de-empleo/se-buscan-tecnicos-en-trabajos-verticales-y-montadores-de-lineas-de-vida/) — Claude; last reported 2026-10-12
+- [Se buscan tecnicos en trabajos verticales y montadores de lineas de vida](https://www.anetva.org/oferta-de-empleo/se-buscan-tecnicos-en-trabajos-verticales-y-montadores-de-lineas-de-vida/) — Claude; last reported 2026-10-14
 - [Sima Vertical — Peón Especialista](https://www.anetva.org/oferta-de-empleo/peon-especialista-3/) — Claude / Grok Bot; last reported 2026-09-16
 - [Soldador/a (rope-access welding)](https://to.indeed.com/aanvnc4tnzkt) — Claude; last reported 2026-10-03
 - [Synchrolift Mechanic / Rigger / Diver](https://to.indeed.com/aabtllbzh72l) — Claude; last reported 2026-10-02
@@ -2728,6 +2746,7 @@ For the newest additions, see [latest findings](latest.md). For full source stat
 - [Vacante para técnico de gas en Cataluña](https://gravitat.com/project/vacante-para-tecnico-de-gas-en-cataluna/) — Claude; last reported 2026-08-13
 - [Vercon (via TTR index) — Técnico/a Trabajos Verticales (construcción)](https://ttrinternational.com/ofertas-de-empleo/) — Grok Bot; last reported 2026-09-16
 - [Vertical Works Technician N2 or Higher](https://www.lalineavertical.com/job-offer-la-linea-vertical-vertical-works-technician-n2-or-higher/) — Claude; last reported 2026-08-24
+- [Verticaleros con experiencia en rehabilitación de fachadas.](https://www.anetva.org/oferta-de-empleo/9802/) — Claude; last reported 2026-10-14
 - [Verticales](https://jobtoday.com/es/trabajo/verticales-0mngKk?locale=es) — Claude; last reported 2026-09-19
 - [VERTIKALIA TRABAJOS VERTICALES SL](https://www.infojobs.net/vertikalia-trabajos-verticales-sl/em-i98555251555048866982840016054327111909/ofertas) — Claude; last reported 2026-08-13
 - [YESEROS/AS](https://to.indeed.com/aankdpfhq6nb) — Claude; last reported 2026-08-23

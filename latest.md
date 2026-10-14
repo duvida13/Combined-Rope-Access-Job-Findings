@@ -1,76 +1,93 @@
-# Combined findings — 2026-10-14
+# Combined findings — 2026-10-15
 
-This incremental run processes source publications after the saved 13 October checkpoints through 14 October 2026. A source date is not proof that applications remain open. General/search pages remain in the review list.
+This incremental run processes source publications after the saved 14 October checkpoints through 15 October 2026. A source date is not proof that applications remain open. General/search pages remain in the review list.
 
-**Correction:** Seven closure observations were initially also classified as opportunities. See the [correction record](merges/2026-10-14-01/correction-2026-10-14.md). The counts and sections below are corrected.
-
-- **New non-closed individual or shortened links:** 19
-- **Previously listed individual links rechecked without a status transition:** 4
+- **New non-closed individual or shortened jobs:** 15
+- **Previously listed jobs rechecked without a closure/reopening transition:** 11
 - **New general/search links for review:** 0
 - **Previously listed general/search links rechecked:** 0
-- **Source-reported closures:** 7
-- **Source-reported reopenings:** 1
+- **Source-reported closures/expirations:** 7
+- **Source-reported reopenings:** 0
+- **Confirmed duplicate mirrors collapsed:** 1
 
-## New findings — not in the previous combined list and not reported closed (19)
-
-### Belgium
-
-- [Touwtechnieker (telecom masts)](https://www.stepstone.be/jobs--Touwtechnieker-BOOM-Accent-NV--2250561-inline.html) — Grok Bot; latest source observation 2026-10-14
+## New findings — not in the previous combined list and not reported closed (15)
 
 ### France
 
-- [Chargé d'affaires cordiste (H/F)](https://candidat.francetravail.fr/offres/recherche/detail/214WTCZ) — Grok Bot; latest source observation 2026-10-14
-- [Chargé d'affaires travaux d'accès difficile (H/F)](https://offres.emploi-cordiste.fr/listing/charge-daffaires-travaux-dacces-difficile-h-f/) — Grok Bot; latest source observation 2026-10-14
-- [Chargé d'affaires travaux sur cordes H/F](https://candidat.francetravail.fr/offres/recherche/detail/7231329) — Grok Bot; latest source observation 2026-10-14
-- [Chef d'équipe cordiste urbain H/F](https://to.indeed.com/aaxfc87n46d6) — Claude; latest source observation 2026-10-13
-- [Chef d'équipe travaux en hauteur](https://offres.emploi-cordiste.fr/listing/chef-dequipe-travaux-en-hauteur/) — Grok Bot; latest source observation 2026-10-14
-- [Conducteur de travaux – travaux sur cordes H/F](https://candidat.francetravail.fr/offres/recherche/detail/7508385) — Grok Bot; latest source observation 2026-10-14
-- [Cordiste (H/F)](https://candidat.francetravail.fr/offres/recherche/detail/214WBQZ) — Grok Bot; latest source observation 2026-10-14
-- [CORDISTE INDUSTRIE (H/F)](https://to.indeed.com/aaymt4njtkrv) — Claude; latest source observation 2026-10-13
-- [Ouvrier cordiste (H/F), BTP maçonnerie / purge](https://candidat.francetravail.fr/offres/recherche/detail/215DRJV) — Grok Bot; latest source observation 2026-10-14
-- [Rope Access Technician with IRATA 3](https://career.muehlhan.com/jobs/8516863-rope-access-technician-with-irata-3) — Grok Bot; latest source observation 2026-10-14
-- [Technicien(ne)s cordistes profil industrie - NORD ACCESS](https://to.indeed.com/aar6cgxfswlx) — Claude; latest source observation 2026-10-13
+- [Chargé(e) d'Affaires Travaux en Hauteur H/F](https://groupena.teamtailor.com/jobs/8547407-charge-e-d-affaires-travaux-en-hauteur-h-f) — Grok Bot; current source status: live; latest source observation 2026-10-15
+- [Cordiste (H/F) — Falaise](https://candidat.francetravail.fr/offres/recherche/detail/215FSGX) — Grok Bot; current source status: live; latest source observation 2026-10-15
+- [Technicien(ne)s cordistes profil industrie - NORD ACCESS](https://to.indeed.com/aak6hvtpp6d7) — Claude; current source status: unverified; latest source observation 2026-10-14
 
 ### Germany
 
-- [Dachdecker als Industriekletterer (m/w/d)](https://www.stepstone.de/stellenangebote--Dachdecker-als-Industriekletterer-m-w-d-bei-3KER-RAS-GROUP-Altona-Hamburg-Hamburg-Piepenbrock-Unternehmensgruppe-GmbH-Co-KG--14594126-inline.html) — Grok Bot; latest source observation 2026-10-14
-- [Dachdecker, Industriekletterer (m/w/d)](https://www.stepstone.de/stellenangebote--Dachdecker-Industriekletterer-m-w-d-Berlin-Sapiatz-GmbH--14493016-inline.html) — Grok Bot; latest source observation 2026-10-14
-- [Monteur (m/w/d) Sanierungsprojekte Windkraftanlagen](https://www.stepstone.de/stellenangebote--Monteur-m-w-d-fuer-Sanierungsprojekte-im-Bereich-Windkraftanlagen-Hilden-Supianek-Bauges-mbH--14517977-inline.html) — Grok Bot; latest source observation 2026-10-14
-- [Offshore Wind - Service Technician II (f/m/d)](https://to.indeed.com/aarrykg4qltk) — Claude; latest source observation 2026-10-13
-- [Sachverständige/r für Windenergieanlagen](https://www.stepstone.de/stellenangebote--Sachverstaendige-r-fuer-Windenergieanlagen-Kassel-Hessen-Dipl-Ing-Uwe-Scherbaum--14325180-inline.html) — Grok Bot; latest source observation 2026-10-14
-- [Vorarbeiter als Industriekletterer (m/w/d)](https://www.stepstone.de/stellenangebote--Vorarbeiter-als-Industriekletterer-m-w-d-Troisdorf-Industriekletterer-Bonn-Inh-Toni-Harbig--14117841-inline.html) — Grok Bot; latest source observation 2026-10-14
+- [Ausbildung zum Industriekletterer I Schwindelfreie Handwerker, Elektriker, Schweißer mit PKW](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1001731008-S) — Claude; current source status: unverified; latest source observation 2026-10-14
+- [Höhenarbeiter / Industriekletterer, Dachdecker, Tischler](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003382565-S) — Grok Bot; current source status: live; latest source observation 2026-10-15
+- [Industriekletterer / Allroundhandwerker (they train)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1202281320-S) — Grok Bot; current source status: live; latest source observation 2026-10-15
+- [Industriekletterer / Höhenarbeiter (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1207438755-S) — Grok Bot; current source status: live; latest source observation 2026-10-15
+- [Industriekletterer / Quereinstieg (they train)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1001550102-S) — Grok Bot; current source status: live; latest source observation 2026-10-15
+- [Industriekletterer/-kletterin (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003292785-S) — Grok Bot; current source status: live; latest source observation 2026-10-15
+- [Montagearbeit als Industriekletterer](https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1206378458-S) — Grok Bot; current source status: live; latest source observation 2026-10-15
+- [Monteur (m/w/d) — train path to Industriekletterer](https://www.stepstone.de/stellenangebote--Monteur-m-w-d-Koblenz-Hoehenpass-GmbH--14088916-inline.html) — Grok Bot; current source status: live; latest source observation 2026-10-15
 
-### Italy
+### Latvia
 
-- [Operatore su fune — Edilfuni](https://it.indeed.com/viewjob?jk=cd61f1a6cc64dbad) — ChatGPT; latest source observation 2026-10-14
+- [Alpīnists / industriālais alpīnists (beginners OK)](https://www.ss.lv/msg/lv/work/are-required/climber/blhnfj.html) — Grok Bot; current source status: live; latest source observation 2026-10-15
 
+### Poland
 
-## Previously listed findings rechecked without a status transition (4)
+- [Alpinista przemysłowy / praca na wysokości](https://www.olx.pl/oferta/praca/alpinista-przemyslowy-praca-na-wysokosci-zatrudnie-CID4-ID1cuBQC.html) — Grok Bot; current source status: live; latest source observation 2026-10-15
+
+### Portugal
+
+- [Especialista trabajos verticales obra civil IRATA 3](https://www.anetva.org/oferta-de-empleo/especialista-trabajos-verticales-obra-civil-irata-3/) — ChatGPT; current source status: live; latest source observation 2026-10-15
+
+### Spain
+
+- [Verticaleros con experiencia en rehabilitación de fachadas](https://www.anetva.org/oferta-de-empleo/9802/) — Claude; current source status: unverified; latest source observation 2026-10-14
+
+## Previously listed findings rechecked without a closure/reopening transition (11)
+
+### France
+
+- [Cordiste Risques Naturels: CQP formation puis contrat](https://candidat.francetravail.fr/offres/recherche/detail/214GGPR) — Grok Bot; current source status: live; application deadline 2026-10-22; latest source observation 2026-10-15
 
 ### Germany
 
-- [Industriekletterer (all genders) Rotorblattreparaturen](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1000989527-S) — Claude; current source status: unverified; latest source observation 2026-10-13
-- [Industriekletterer (m/w/d), Vollzeit](https://www.stepstone.de/stellenangebote--Industriekletterer-m-w-d-in-Vollzeit-gesucht-Moenchengladbach-Vogtmann-Montage-Klettertechnik-e-K--14076960-inline.html) — Grok Bot; current source status: unverified; latest source observation 2026-10-14
-- [Industriekletterer Rotorblatt Level 1–3 (Seil & Bühne)](https://www.stepstone.de/stellenangebote--Industriekletterer-Rotorblatt-Level-1-3-Seil-Buehne-Rostock-Ventotec-Solution--11566958-inline.html) — Grok Bot; current source status: unverified; latest source observation 2026-10-14
-- [Industriekletterer/ Höhenarbeiter (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003766387-S) — Claude; current source status: unverified; latest source observation 2026-10-13
+- [Industriekletterer — Griesemann Anlagentechnik](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002776213-S) — Grok Bot; current source status: live; canonical URL replaces a confirmed same-requisition Make-it-in-Germany mirror; latest source observation 2026-10-15
+- [Industriekletterer (m/w/d) in Vollzeit gesucht!](https://www.stepstone.de/stellenangebote--Industriekletterer-m-w-d-in-Vollzeit-gesucht-Moenchengladbach-Vogtmann-Montage-Klettertechnik-e-K--14076960-inline.html) — Claude; current source status: unverified; latest source observation 2026-10-14
+- [Seilzugangstechniker (m/w/d) für Rotorblattreparatur](https://de.linkedin.com/jobs/view/seilzugangstechniker-m-w-d-f%C3%BCr-rotorblattreparatur-at-deutsche-windtechnik-ag-3402474356) — Claude; current source status: unverified; latest source observation 2026-10-14
+- [Vorarbeiter als Industriekletterer (m/w/d)](https://www.stepstone.de/stellenangebote--Vorarbeiter-als-Industriekletterer-m-w-d-Troisdorf-Deutschland-Industriekletterer-Bonn-Inh-Toni-Harbig--13501801-inline.html) — Claude; current source status: unverified; latest source observation 2026-10-14
 
+### Norway
+
+- [Rope Axcess Technician Team Lead, Rig Inspection Services](https://karrierestart.no/ledig-stilling/899217) — Claude; current source status: unverified; latest source observation 2026-10-14
+
+### Spain
+
+- [Autónomos en Trabajos Verticales](https://www.anetva.org/oferta-de-empleo/autonomos-en-trabajos-verticales/) — Claude; current source status: unverified; latest source observation 2026-10-14
+- [Instalador de líneas de vida](https://www.anetva.org/oferta-de-empleo/instalador-de-lineas-de-vida-4/) — ChatGPT; current source status: live; latest source observation 2026-10-15
+- [Operario de Trabajos Verticales](https://www.anetva.org/oferta-de-empleo/operario-de-trabajos-verticales-4/) — Claude; current source status: unverified; latest source observation 2026-10-14
+- [Peón Especialista en Trabajos Verticales](https://www.anetva.org/oferta-de-empleo/peon-especialista-en-trabajos-verticales-2/) — ChatGPT; current source status: live; latest source observation 2026-10-15
+- [Se buscan técnicos en trabajos verticales y montadores de líneas de vida](https://www.anetva.org/oferta-de-empleo/se-buscan-tecnicos-en-trabajos-verticales-y-montadores-de-lineas-de-vida/) — Claude; current source status: unverified; latest source observation 2026-10-14
 
 ## New general/search pages for review (0)
 
-
 ## Previously listed review pages rechecked (0)
-
 
 ## Source-reported closures (7)
 
-- [Uitvoerder Rope Access Drachten](https://bnlaltradservices.recruitee.com/o/uitvoerder-rope-access-drachten) — Grok Bot reported closed on 2026-10-14
-- [Cordiste Plouégat-Moysan (TP)](https://candidat.francetravail.fr/offres/recherche/detail/214RLZH) — Grok Bot reported closed on 2026-10-14
-- [Rocciatore / Addetto lavori in fune (Trasfertista)](https://www.gigroup.it/offerte-lavoro-dettaglio/villar-san-costanzo-cuneo-rocciatore-addetto-a-lavori-in-fune-trasfertista/1367061/) — Grok Bot reported closed on 2026-10-14
-- [Cordiste (H/F) — MOTIV Intérim Évreux](https://candidat.francetravail.fr/offres/recherche/detail/214VZPW) — Grok Bot reported closed on 2026-10-14
-- [Cordiste (H/F) — MOTIV Intérim](https://candidat.francetravail.fr/offres/recherche/detail/214VZMX) — Grok Bot reported closed on 2026-10-14
-- [Cordiste (H/F) — MOTIV Intérim](https://candidat.francetravail.fr/offres/recherche/detail/214VZTY) — Grok Bot reported closed on 2026-10-14
-- [Cordiste (H/F) — MOTIV Intérim](https://candidat.francetravail.fr/offres/recherche/detail/214VZRX) — Grok Bot reported closed on 2026-10-14
+- [Cordiste confirmé Le Havre](https://candidat.francetravail.fr/offres/recherche/detail/214MRVB) — Grok Bot reported closed (HTTP 404) on 2026-10-15
+- [Cordiste Paris](https://candidat.francetravail.fr/offres/recherche/detail/214MRVZ) — Grok Bot reported closed (HTTP 404) on 2026-10-15
+- [Cordiste Brantôme (TP)](https://candidat.francetravail.fr/offres/recherche/detail/214RMJJ) — Grok Bot reported closed (HTTP 404) on 2026-10-15
+- [Technicien cordiste (Eschau)](https://candidat.francetravail.fr/offres/recherche/detail/214HCQV) — Grok Bot reported closed (HTTP 404) on 2026-10-15
+- [Cordiste Ustaritz](https://candidat.francetravail.fr/offres/recherche/detail/214KBFH) — Grok Bot reported closed (HTTP 404) on 2026-10-15
+- [Rope Access Technician with IRATA 3](https://career.muehlhan.com/jobs/8516863-rope-access-technician-with-irata-3) — Grok Bot reported closed (HTTP 410) on 2026-10-15
+- [Industriekletterer Rotorblatt Level 1–3 (Seil & Bühne)](https://www.stepstone.de/stellenangebote--Industriekletterer-Rotorblatt-Level-1-3-Seil-Buehne-Rostock-Ventotec-Solution--11566958-inline.html) — Grok Bot reported expired after `validThrough` 2026-10-14
 
-## Source-reported reopenings (1)
+## Source-reported reopenings (0)
 
-- [Rope Access Technician – blade inspection & repair](https://www.blade-power.com/ro/career) — Grok Bot reported reopened on 2026-10-14
+## Confirmed duplicate mirror collapsed (1)
+
+- `10001-1002776213-S` was already present through a Make-it-in-Germany mirror. Grok Bot supplied the same requisition on the canonical [Bundesagentur für Arbeit URL](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002776213-S), which now represents the combined vacancy record.
+
+Five unresolved different-URL groups remain separate in [potential mirrors](merges/2026-10-15-01/potential-mirrors.md).
