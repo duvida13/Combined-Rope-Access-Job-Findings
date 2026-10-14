@@ -4,7 +4,7 @@ This repository collects **position titles and vacancy links** reported by four 
 
 ## Open the findings
 
-- [Latest manual merge](latest.md) — 22 newly listed individual or shortened links in the 2026-10-14 run.
+- [Latest merge](latest.md) — 19 newly listed, non-closed individual or shortened links in the corrected 2026-10-14 run.
 - [All findings by country](all-findings.md) — the full historical vacancy list in a browsable Markdown format, with position, source agents, and last reported date.
 - [Merge runs](merges/README.md) — one folder per requested merge, with only jobs first reported since the previous run clearly separated from rechecks.
 - [Vacancy links (CSV)](vacancies.csv) — 3,550 distinct individual or shortened job URLs from the published history. Sort by `latest_source_date` before opening. Historical entries are **not automatically current vacancies**.
@@ -26,4 +26,6 @@ URLs were grouped only when their normalized URL matched (protocol, `www`, trail
 
 ## Updating
 
-Updates happen **only when requested**. [The merge procedure](MERGE.md) uses saved source commit IDs and observation records to process only work published after the previous merge. Each requested run gets a new folder in [merges/](merges/README.md), while the cumulative CSV and country page preserve the full history. There is no scheduled workflow or automatic sync in this repository.
+An external scheduled task requests an incremental merge daily at 01:00 Europe/Amsterdam; the repository itself has no GitHub Actions workflow. [The merge procedure](MERGE.md) uses saved source commit IDs and observation records to process only work published after the previous merge. Each run gets a new folder in [merges/](merges/README.md), while the cumulative CSV and country page preserve the full history.
+
+The 14 October run received a [status-classification correction](merges/2026-10-14-01/correction-2026-10-14.md): source-reported closures must be recorded only as closures, never presented or counted as current new/rechecked opportunities.

@@ -2,9 +2,11 @@
 
 Requested 2026-10-14 (Europe/Amsterdam). [Browse this run's findings](findings.md).
 
-New individual/shortened links: **22**. Previously listed individual links rechecked or changed: **9**. New general/search links for review: **0**. Previously listed general/search links rechecked: **0**. Source-reported closures: **7**. Source-reported reopenings: **1**.
+Corrected 2026-10-14: [seven source-reported closures were initially also presented as opportunities](correction-2026-10-14.md). The lists and counts below now use mutually exclusive status-aware classifications.
 
-New source observations inspected: **32** — ChatGPT 2, Claude 6, Grok Bot 24. New individual links carrying each source: ChatGPT 1, Claude 4, Grok Bot 17 (counts can overlap). **0** possible different-URL mirror groups were preserved separately for [human review](potential-mirrors.md).
+New non-closed individual/shortened links: **19**. Previously listed individual links rechecked without a closure/reopening transition: **4**. New general/search links for review: **0**. Previously listed general/search links rechecked: **0**. Source-reported closures: **7**. Source-reported reopenings: **1**.
+
+New source observations inspected: **32** — ChatGPT 2, Claude 6, Grok Bot 24. New non-closed individual links carrying each source: ChatGPT 1, Claude 4, Grok Bot 14 (counts can overlap). Three additional new-to-combined URLs were already closed and are reported only under closures. **0** possible different-URL mirror groups were preserved separately for [human review](potential-mirrors.md).
 
 | Source | Previous checkpoint | Merged through | Published job files inspected |
 |---|---|---|---|

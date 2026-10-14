@@ -126,6 +126,7 @@ These are source claims, not fresh vacancy checks. No source was overwritten. Di
 - ChatGPT: Uitvoerder Rope Access; Netherlands; live ([finding](https://github.com/duvida13/ChatGPT-Daily-Job-Search-Rope-Access-/blob/017d12fc2c08d51ee96ec1a26094de98fbfdd4bf/data/job-index.md))
 - Grok Bot: Uitvoerder Rope Access Drachten; Netherlands; unverified ([finding](https://github.com/duvida13/GROK-BOT/blob/0877caa743b059a7be601e3d7ff6a2920c2d8064/finds/2026-09-30.md))
 - Grok Bot: Uitvoerder Rope Access Drachten; Netherlands; unverified ([finding](https://github.com/duvida13/GROK-BOT/blob/0877caa743b059a7be601e3d7ff6a2920c2d8064/finds/2026-10-01.md))
+- Grok Bot: Uitvoerder Rope Access Drachten; Netherlands; closed (HTTP 404) on 2026-10-14 ([finding](https://github.com/duvida13/GROK-BOT/blob/a6efdf55b1ccaeeaa50445fb7fd0443baf4f8229/finds/2026-10-14.md))
 
 ## [Formation Technicien Cordiste Nucléaire (H/F)](https://candidat.francetravail.fr/offres/recherche/detail/212BCKP) — title
 
