@@ -1,85 +1,72 @@
-# Combined findings — 2026-10-16
+# Combined findings — 2026-10-17
 
-This incremental run processes source publications after the saved 15 October checkpoints through 16 October 2026. A source date is not proof that applications remain open. General/search pages remain in the review list.
+This incremental run processes source publications after the saved 16 October checkpoints through 17 October 2026. A source date is not proof that applications remain open. Unverified findings remain labeled as such.
 
-- **New non-closed individual or shortened jobs:** 15
-- **Previously listed jobs rechecked or source-confirmed as reposts:** 9
+- **New non-closed individual or shortened jobs:** 7
+- **Previously listed jobs rechecked or confirmed as locale mirrors:** 6
 - **New general/search links for review:** 0
 - **Previously listed general/search links rechecked:** 0
-- **Source-reported closures/expirations:** 3
+- **Source-reported closures/expirations:** 2
 - **Source-reported reopenings:** 0
-- **Confirmed repost mirrors collapsed:** 2
+- **Unresolved status conflicts kept out of opportunity sections:** 1
+- **Duplicate findings collapsed:** 3
 
-## New findings — not in the previous combined list and not reported closed (15)
-
-### Belgium
-
-- [Klimmer (industrial infrastructure contractor)](https://www.vdab.be/vindeenjob/vacatures/74320668/klimmer) — Claude; current source status: unverified; latest source observation 2026-10-15
-- [Klimmer (assembly/cable/signalling at height)](https://www.vdab.be/vindeenjob/vacatures/72875301/klimmer) — Claude; current source status: unverified; latest source observation 2026-10-15
-
-### Europe-wide
-
-- [Blade Repair Technicians with IRATA L1/L2](https://career.muehlhan.com/jobs/8536778-blade-repair-technicians-with-irata-l1-l2) — Grok Bot; current source status: live; latest source observation 2026-10-16
+## New findings — not in the previous combined list and not reported closed (7)
 
 ### France
 
-- [Chargé(e) d'Affaires Travaux en Hauteur H/F — Avelin](https://to.indeed.com/aa7r497yqsdv) — Claude; current source status: unverified; latest source observation 2026-10-15
-- [Chargé(e) d'Affaires Travaux en Hauteur H/F — Lillebonne](https://to.indeed.com/aaydcv97qv4c) — Claude; current source status: unverified; latest source observation 2026-10-15
-- [Chef d'équipe couvreur zingueur cordiste H/F](https://offres.emploi-cordiste.fr/listing/chef-dequipe-couvreur-zingueur-cordiste-h-f/) — Grok Bot; current source status: live; latest source observation 2026-10-16
-- [Cordiste (h/f) — Fécamp](https://to.indeed.com/aafdxxpwtkvd) — Claude; current source status: unverified; latest source observation 2026-10-15
-- [Cordiste Couvreur (H/F)](https://candidat.francetravail.fr/offres/recherche/detail/215GXHM) — Grok Bot; current source status: live; latest source observation 2026-10-16
-- [Cordiste Industriel - Pose de Sprinklers (H/F)](https://candidat.francetravail.fr/offres/recherche/detail/215GXGZ) — Grok Bot; current source status: live; latest source observation 2026-10-16
-- [Cordiste nacelliste (H/F)](https://candidat.francetravail.fr/offres/recherche/detail/215GLMM) — Grok Bot; current source status: live; latest source observation 2026-10-16
-- [Ouvrier cordiste (H/F)](https://candidat.francetravail.fr/offres/recherche/detail/215GLHD) — Grok Bot; current source status: live; latest source observation 2026-10-16
+- [Cordiste H/F/X — Lyon](https://to.indeed.com/aa7rlm8twy9b) — Claude; current source status: unverified; latest source observation 2026-10-16
+- [Chef d'équipe cordiste H/F — Chasse-sur-Rhône](https://to.indeed.com/aavqlpbwf7br) — Claude; current source status: unverified; likely requires higher certification or team-lead experience; latest source observation 2026-10-16
 
 ### Germany
 
-- [Freileitungsmonteur / Höhenarbeiter (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1208015052-S) — Grok Bot; current source status: live; latest source observation 2026-10-16
-- [Industriekletterer (m/w/d) — RPG Dachbau](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002830343-S) — Grok Bot; current source status: live; latest source observation 2026-10-16
-- [Seilzugangstechniker Rotorblattservice (FISAT/IRATA L2)](https://www.arbeitsagentur.de/jobsuche/jobdetail/20119-0067951332-S) — Grok Bot; current source status: live; latest source observation 2026-10-16
+- [Servicetechniker (m/w/d) zur Rotorblattinstandsetzung — Illbesheim](https://www.heyjobs.co/en-de/jobs/bcef5b56-e97c-4d16-8939-8932abae3810) — Claude; current source status: unverified; source says rope-access training is provided after hire; latest source observation 2026-10-16
+- [Vorarbeiter (m/w/d) für Korrosionsschutzarbeiten](https://to.indeed.com/aa2qnmj47fpz) — Claude; current source status: unverified; latest source observation 2026-10-16
 
-### Italy
+### Spain
 
-- [Muratore/Operaio Edile con esperienza — Roma](https://to.indeed.com/aajd6q4cw24r) — Claude; current source status: unverified; latest source observation 2026-10-15
-
-## Previously listed findings rechecked or source-confirmed as reposts (9)
-
-### Germany
-
-- [Konstruktionsmechaniker/in / Industriekletterer/in (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/15160-SNXRTQFCO121QT7R-S) — Grok Bot; current source status: live; latest source observation 2026-10-16
-
-### Italy
-
-- [Muratore/Operaio Edile con esperienza — Velletri](https://to.indeed.com/aa9phhwcbqk6) — Claude; current source status: unverified; source explicitly marked this as re-posted from its 2026-08-21 finding, so it remains one logical opportunity while both short links stay in the historical index; latest source observation 2026-10-15
-
-### Netherlands
-
-- [Rope Access Supervisor (IRATA 3)](https://bnlaltradservices.recruitee.com/o/rope-access-supervisor-irata-3-19?lang=en) — Claude; current source status: unverified; source marked this as re-posted; latest source observation 2026-10-15
-- [Rope Access Technician (IRATA 1)](https://bnlaltradservices.recruitee.com/o/rope-access-technician-irata-1-4?lang=en) — Claude; current source status: unverified; latest source observation 2026-10-15
-- [Uitvoerder Rope Access](https://bnlaltradservices.recruitee.com/o/uitvoerder-rope-access-4?lang=en) — Claude; current source status: unverified; source explicitly marked this as re-posted from its 2026-08-27 finding, so it remains one logical opportunity while both employer URLs stay in the historical index; a separate Drachten URL has a conflicting prior status documented in potential mirrors, so this is not classified as live or reopened; latest source observation 2026-10-15
+- [Albañil en trabajos verticales en Barcelona](https://www.anetva.org/oferta-de-empleo/albanil-en-trabajos-verticales-en-barcelona/) — Claude; current source status: unverified; latest source observation 2026-10-16
 
 ### United Kingdom
 
-- [L2 Rope Access Technician](https://huntukvisasponsors.com/job/l2-rope-access-technician-at-amcogiffen-notij3h9a9zq) — Claude; current source status: unverified; latest source observation 2026-10-15
-- [L3 Rope Access Technician](https://huntukvisasponsors.com/job/l3-rope-access-technician-at-amcogiffen-cgcnctrhwu3r) — Claude; current source status: unverified; latest source observation 2026-10-15
-- [Now Hiring: IRATA L1, 2 & 3 Technicians (Structures Only)](https://www.verticalaccess.co.uk/news/now-hiring-irata-l1-2-3-technicians-structures-only) — Claude; current source status: unverified; latest source observation 2026-10-15
-- [Rope Access Technician — Copius Group](https://uk.jooble.org/jdp/-2672323770406086694) — Claude; current source status: unverified; latest source observation 2026-10-15
+- [IRATA Training and Assessment Technical Officer](https://irata.org/jobs/article/irata-training-and-assessment-technical-officer/) — Claude; current source status: unverified; requires IRATA Level 3 and UK right to work; latest source observation 2026-10-16
+- [IRATA Assessor Recruitment (ASTACS)](https://irata.org/jobs/article/irata-assessor-recruitment-astacs/) — Claude; current source status: unverified; assessor role requiring senior rope-access qualification; latest source observation 2026-10-16
+
+## Previously listed findings rechecked or changed (6)
+
+### France
+
+- [Cordiste Urbain Paris H/F](https://candidat.francetravail.fr/offres/recherche/detail/5734760) — Claude; current source status: unverified; latest source observation 2026-10-16
+
+### Germany
+
+- [Ausbildung zum Industriekletterer (Quereinsteiger, FISAT-1 inklusive)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1001731008-S) — Claude; current source status: unverified; the source repeated this exact URL twice, so it is counted once; latest source observation 2026-10-16
+- [Service Technician (m/w/d) Blades Lvl 3 — Würzburg](https://www.heyjobs.co/en-de/jobs/82e74228-92ec-4e9f-9ea1-c2e0d922beea) — Claude; current source status: unverified; the HeyJobs UUID matches the previously listed `/de-de/` URL, so this locale variant is one logical opportunity; latest source observation 2026-10-16
+- [Service Technician (m/w/d) Blades — Vogelsdorf](https://www.heyjobs.co/en-de/jobs/190c36ce-381e-46d4-aa57-6be2a944e152) — Claude; current source status: unverified; the HeyJobs UUID matches the previously listed `/de-de/` URL, so this locale variant is one logical opportunity; latest source observation 2026-10-16
+
+### Spain
+
+- [Técnico en Trabajos Verticales con cualificación ANETVA/IRATA nivel 3](https://www.anetva.org/oferta-de-empleo/tecnico-en-trabajos-verticales-con-cualificacion-anetva-irata-nivel-3/) — Claude; current source status: unverified; latest source observation 2026-10-16
+- [Albañil - trabajos verticales](https://www.anetva.org/oferta-de-empleo/albanil-verticales-2/) — Claude; current source status: unverified; latest source observation 2026-10-16
 
 ## New general/search pages for review (0)
 
 ## Previously listed review pages rechecked (0)
 
-## Source-reported closures (3)
+## Source-reported closures (2)
 
-- [Cordiste — SARL T.G.H](https://candidat.francetravail.fr/offres/recherche/detail/214BZGN) — Grok Bot reported closed (HTTP 404) on 2026-10-16
-- [Cordiste débutant H/F — CRIT Marmande](https://candidat.francetravail.fr/offres/recherche/detail/214FRVT) — Grok Bot reported closed (HTTP 404) on 2026-10-16
-- [Cordiste ×2 (avalanche barriers) — RC Intérim](https://candidat.francetravail.fr/offres/recherche/detail/214XGHP) — Grok Bot reported closed (HTTP 404) on 2026-10-16
+- [Rope Access Technician, Rig Inspection Services — Odfjell Drilling Technology](https://karrierestart.no/ledig-stilling/1152793) — Claude reported verified closed on 2026-10-16; the source's print and OneOil mirror URLs are also updated as closed in the cumulative records
+- [Tilkomstteknikere (Rope Access) — Langset Rope Access](https://karrierestart.no/ledig-stilling/1007893) — Claude reported verified closed on 2026-10-16
 
 ## Source-reported reopenings (0)
 
-## Confirmed repost mirrors collapsed (2)
+## Conflicts/review — not presented as active (1)
 
-- Claude explicitly marked the new [Altrad Uitvoerder Rope Access URL](https://bnlaltradservices.recruitee.com/o/uitvoerder-rope-access-4?lang=en) as re-posted from its 2026-08-27 finding; it does not create a second opportunity, but both URLs remain in the historical indexes.
-- Claude explicitly marked the new [Acrobatica Velletri short link](https://to.indeed.com/aa9phhwcbqk6) as re-posted from its 2026-08-21 finding; it does not create a second opportunity, but both URLs remain in the historical indexes.
+- [Industriekletterer Rotorblatt Level 1–3 — Ventotec Solution](https://www.stepstone.de/stellenangebote--Industriekletterer-Rotorblatt-Level-1-3-Seil-Buehne-Rostock-Ventotec-Solution--11566958-inline.html) — Claude listed the URL as unverified on 2026-10-16 after Grok Bot reported it expired on 2026-10-15. An unverified mention does not establish a reopening, so the prior closure classification remains and the link is kept out of the opportunity sections.
 
-Five unresolved different-URL mirror/status groups remain separate in [potential mirrors](merges/2026-10-16-01/potential-mirrors.md).
+## Confirmed duplicate findings collapsed (3)
+
+- The Hößl Personal training vacancy appeared twice in Claude's new section with the same URL and is counted once.
+- The two new HeyJobs `/en-de/` links for the Würzburg and Vogelsdorf Vestas roles have the same job UUIDs as previously indexed `/de-de/` links. Each pair remains in the URL history but counts as one logical vacancy.
+
+No new uncertain different-URL duplicate was introduced. Five earlier possible mirror groups remain separate in [potential mirrors](merges/2026-10-17-01/potential-mirrors.md).

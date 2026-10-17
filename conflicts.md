@@ -514,3 +514,10 @@ These are source claims, not fresh vacancy checks. No source was overwritten. Di
 - ChatGPT: Industriekletterer in Ausbildung; Austria; live ([finding](https://github.com/duvida13/ChatGPT-Daily-Job-Search-Rope-Access-/blob/main/data/job-index.md))
 - Claude: Industriekletterer in Ausbildung; Austria; unverified ([finding](https://github.com/duvida13/rope-access-job-search/blob/main/digests/2026-08-18.md))
 
+## [Industriekletterer Rotorblatt Level 1–3 — Ventotec Solution](https://www.stepstone.de/stellenangebote--Industriekletterer-Rotorblatt-Level-1-3-Seil-Buehne-Rostock-Ventotec-Solution--11566958-inline.html) — status
+
+- Grok Bot: expired on 2026-10-15 ([finding](https://github.com/duvida13/GROK-BOT/blob/a8f0509bf14cca1926e7cf6fa43028d8fb46bae3/finds/2026-10-15.md))
+- Claude: unverified mention on 2026-10-16 ([finding](https://github.com/duvida13/rope-access-job-search/blob/c6e428649c4a63d188430f31576ad73e089d5e39/digests/2026-10-16.md))
+
+The newer observation did not verify the posting as open and is not an explicit reopening. The combined workflow therefore keeps the prior closure classification and excludes this URL from active/rechecked opportunity sections.
+
