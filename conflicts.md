@@ -518,6 +518,14 @@ These are source claims, not fresh vacancy checks. No source was overwritten. Di
 
 - Grok Bot: expired on 2026-10-15 ([finding](https://github.com/duvida13/GROK-BOT/blob/a8f0509bf14cca1926e7cf6fa43028d8fb46bae3/finds/2026-10-15.md))
 - Claude: unverified mention on 2026-10-16 ([finding](https://github.com/duvida13/rope-access-job-search/blob/c6e428649c4a63d188430f31576ad73e089d5e39/digests/2026-10-16.md))
+- Grok Bot: explicitly reposted and live again on 2026-10-18, with a 15 October posting date and 14 November closing date ([finding](https://github.com/duvida13/GROK-BOT/blob/e89137c15bfb1a7a6f76a848419df2506597307f/finds/2026-10-18.md))
 
-The newer observation did not verify the posting as open and is not an explicit reopening. The combined workflow therefore keeps the prior closure classification and excludes this URL from active/rechecked opportunity sections.
+The 16 October unverified mention did not prove reopening, so that run correctly retained the closure. The later Grok Bot check supplies explicit reopening evidence; the 18 October run records it only under reopenings.
+
+## Cordiste Couvreur — Nantes — platform status split
+
+- [France Travail URL](https://candidat.francetravail.fr/offres/recherche/detail/215GXHM): Grok Bot reported HTTP 404 on 2026-10-18.
+- [HelloWork mirror](https://www.hellowork.com/fr-fr/emplois/76741824.html): Grok Bot reported the same agency vacancy still live on 2026-10-18.
+
+The source explicitly links these as the same job. Both URL-level statuses are retained so the closed France Travail page is never presented as active while the usable HelloWork application route remains visible.
 
