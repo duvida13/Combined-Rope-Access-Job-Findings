@@ -1,82 +1,61 @@
-# Combined findings — 2026-10-24
+# Combined findings — 2026-10-25
 
-This incremental run processes source publications after the saved 23 October checkpoints through 24 October 2026. A source date is not proof that applications remain open. General vacancy-board pages and uncertain mirrors remain labeled for review.
+This incremental run processes source publications after the saved 24 October checkpoints through 25 October 2026. A source date is not proof that applications remain open. General vacancy-board pages and uncertain mirrors remain labeled for review.
 
-- **New non-closed individual or shortened jobs:** 14
+- **New non-closed individual or shortened jobs:** 4
 - **Previously listed jobs rechecked or confirmed as mirrors:** 5
-- **New general/search links for review:** 1
-- **Previously listed general/search links rechecked:** 1
-- **Source-reported closures/expirations:** 10
+- **New general/search links for review:** 0
+- **Previously listed general/search links rechecked:** 2
+- **Source-reported closures/expirations:** 6
 - **Source-reported reopenings:** 0
 - **Duplicate findings collapsed:** 0
 
-## New findings — not in the previous combined list and not reported closed (14)
+## New findings — not in the previous combined list and not reported closed (4)
 
 ### France
 
-- [Chef d'équipe Cordiste Urbain (H/F) — Groupe LIP](https://to.indeed.com/aa4y8nxbmzcn) — Claude; current source status: unverified; Lyon team-lead role requiring Level 2, above Luis's current level; latest source observation 2026-10-23
-- [Cordiste urbain (H/F) — Groupe LIP](https://to.indeed.com/aan7468zyjqh) — Claude; current source status: unverified/re-posted; Lyon urban-rope role with level unstated; latest source observation 2026-10-23
-- [Technicien cordiste CQP1 étancheur résine (H/F) — ACROÉTANCH](https://to.indeed.com/aakjltjlmdwp) — Claude; current source status: unverified; Chaponost waterproofing and resin role described as CQP1-compatible; latest source observation 2026-10-23
-- [Cordiste travaux spéciaux (H/F), several posts — Työ](https://www.hellowork.com/fr-fr/emplois/84725758.html) — Grok Bot; current source status: live; permanent Le Havre industrial-dismantling role where IRATA, CQP or SPRAT is appreciated; latest source observation 2026-10-24
-- [Cordiste (H/F) — Aboutir Emploi](https://www.hellowork.com/fr-fr/emplois/84735681.html) — Grok Bot; current source status: live; La Baule 18-month building-maintenance role where CQP or IRATA is appreciated and experience is not mandatory; latest source observation 2026-10-24
-- [Cordiste CQP1, intérim, Dijon (H/F) — Infiniteam Bordeaux](https://www.hellowork.com/fr-fr/emplois/84731999.html) — Grok Bot; current source status: live; temporary safety-net and roof-frame work accepting CQP1 or equivalent; latest source observation 2026-10-24
-- [Cordiste urbain (H/F) — PNS Intérim](https://www.hellowork.com/fr-fr/emplois/84728501.html) — Grok Bot; current source status: live; Nice short-term urban-rope role requiring CQP or IRATA and roughly three years' experience; latest source observation 2026-10-24
-- [Chef d'équipe maçon cordiste (H/F) — Manpower France](https://www.hellowork.com/fr-fr/emplois/84743383.html) — Grok Bot; current source status: live; permanent Toulouse masonry and façade team-lead stretch role; latest source observation 2026-10-24
-- [Chef d'équipe couvreur zingueur cordiste (H/F) — Groupe Oxygène](https://www.hellowork.com/fr-fr/emplois/81180686.html) — Grok Bot; current source status: live; Toulouse roofing and zinc-work team-lead stretch role; latest source observation 2026-10-24
-- [Cordiste couvreur / zingueur (H/F) — LIP Industrie Technique et Nucléaire](https://www.hellowork.com/fr-fr/emplois/84752163.html) — Grok Bot; current source status: live; Toulon posting with a separate Paris copy, requiring French rope qualifications; latest source observation 2026-10-24
-- [Chef de chantier cordiste risques naturels (H/F) — CAN](https://www.hellowork.com/fr-fr/emplois/80454222.html) — Grok Bot; current source status: live; Meyreuil rockfall-protection site-manager stretch role requiring CQP2/CATC and extensive experience; latest source observation 2026-10-24
+- [Cordiste (H/F) — Actua](https://www.hellowork.com/fr-fr/emplois/83672381.html) — Grok Bot; current source status: live; Lille and Hauts-de-France temporary role accepting CQP, IRATA or equivalent, with experience preferred rather than mandatory; latest source observation 2026-10-25
+- [Cordiste, travaux publics and urban work (H/F) — Toma Intérim](https://www.hellowork.com/fr-fr/emplois/84771790.html) — Grok Bot; current source status: live; Toulouse role covering façades, bridges, viaducts and masonry repairs, requiring CQP and initial rope experience; latest source observation 2026-10-25
+- [Cordiste couvreur (H/F) — Adéquat T.G.H](https://www.hellowork.com/fr-fr/emplois/81606562.html) — Grok Bot; current source status: live; renewable Saint-Nazaire roofing and leak-repair assignment requiring CQP and two years' rope experience; latest source observation 2026-10-25
 
 ### Italy
 
-- [Muratore specializzato nel lavoro su fune — DeA costruzioni in quota](https://www.jobijoba.it/annunci-di-lavoro/13/4cca57d6891eeea4795e63d77ae5dff2) — Grok Bot; current source status: live/re-posted under a new URL; four Tuscany masonry-on-ropes posts; latest source observation 2026-10-24
-
-### Multiple countries / regions
-
-- [Entry-level technicians, ENERCON EU — Muehlhan Wind Service](https://career.muehlhan.com/jobs/8406332-entry-level-technicians-enercon-eu) — Grok Bot; current source status: live; Europe-wide rookie wind-installation role with on-site training; latest source observation 2026-10-24
-
-### Spain
-
-- [Peón especialista / Oficial de trabajos verticales / albañil — Levelon](https://www.anetva.org/oferta-de-empleo/peon-especialista-oficial-de-trabajos-verticales-albanil/) — Grok Bot; current source status: live; two Madrid façade-repair vacancies accepting IRATA Level 1 or ANETVA OF-BASIC, with masonry experience also requested; latest source observation 2026-10-24
+- [Muratori su fune con esperienza — Edilfix](https://www.jobijoba.it/annunci-di-lavoro/13/215ddb6c5d662472d3281978319b0473) — Grok Bot; current source status: live; Padova façade and roof work requiring building, rope and Italian rope-licence experience; latest source observation 2026-10-25
 
 ## Previously listed findings rechecked or confirmed as mirrors (5)
 
-### Germany
+### Multiple countries / regions
 
-- [Ausbildung zum Industriekletterer — Hößl Personal](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1001731008-S) — Claude; current source status: unverified; the source could not confirm that this training vacancy is open, and this does not establish a reopening after Grok Bot's earlier closure report; latest source observation 2026-10-23
-- [Wind Turbine Rope Access Technician — Rotor Blades — SPIE Wind](https://www.spie.de/karriere/stellenangebote/Wind-Turbine-Rope-Access-Technician--Rotor-Blades-m-f-d-2026-1495) — Grok Bot; current source status: live; employer-page recheck; latest source observation 2026-10-24
+- [Entry-level technicians, ENERCON EU — Muehlhan Wind Service](https://career.muehlhan.com/jobs/8406332-entry-level-technicians-enercon-eu) — Grok Bot; current source status: live; English-language Europe-wide rookie wind-installation role with on-site training; latest source observation 2026-10-25
 
 ### Netherlands
 
-- [Rope Access Technician (IRATA 1) — Altrad Services Benelux](https://bnlaltradservices.recruitee.com/o/rope-access-technician-irata-1-4?lang=en) — Claude; current source status: unverified/re-posted; the source could not confirm that applications remain open; latest source observation 2026-10-23
-- [Rope Access Technician — Fender BV](https://fenderbv.com/vacancies/rope-access-technician/) — Grok Bot; current source status: live; English-language employer-page recheck requiring IRATA and VCA; latest source observation 2026-10-24
+- [Rope Access Technician — Fender BV](https://fenderbv.com/vacancies/rope-access-technician/) — Grok Bot; current source status: live; English-language employer-page recheck requiring IRATA and VCA; latest source observation 2026-10-25
 
-### Norway
+### Spain
 
-- [Tilkomsttekniker med elektriker fagbrev, three positions — Hytech Access & Inspection](https://www.finn.no/job/ad/477134741) — Grok Bot; current source status: live; deadline reminder for 31 October; trade certificate, offshore safety, rigging and rope credentials required; latest source observation 2026-10-24
+- [Peón especialista / Oficial de trabajos verticales / albañil — Levelon](https://www.anetva.org/oferta-de-empleo/peon-especialista-oficial-de-trabajos-verticales-albanil/) — Grok Bot; current source status: live; Madrid vacancies accepting IRATA Level 1, with masonry experience also requested; latest source observation 2026-10-25
+- [Técnico/a IRATA L2 — Tecnorenova](https://tecnorenova.com/ofertas-empleo/tecnico-a-irata-l2/) — Grok Bot; current source status: live; permanent wind-project role requiring IRATA Level 2 and one year of rope or height-work experience; latest source observation 2026-10-25
+- [Técnicos IRATA L1/L2 con GWO BST — COMANTUR](https://ttrinternational.com/ofertas-de-empleo/oferta-labora-irata-gwo/) — Grok Bot; current source status: live/aging; an older TTR card still online and best treated as open CV intake rather than a fresh vacancy; latest source observation 2026-10-25
 
-## New general/search pages for review (1)
+## New general/search pages for review (0)
 
-- [Operatore edile su fune — Baiocco Holding](https://it.indeed.com/q-baiocco-holding-l-roma,-lazio-offerte-lavoro.html) — Claude; current source status: unverified; company-filtered Indeed search page rather than a direct vacancy URL; latest source observation 2026-10-23
+## Previously listed review pages rechecked (2)
 
-## Previously listed review pages rechecked (1)
+- [Höhen- und Spezialarbeiten mit Seilzugangstechnik — Geo-Hoehenarbeit](https://www.geo-hoehenarbeit.ch/jobs) — ChatGPT; current source status: live; employer jobs page in Grabs, Switzerland, with current application instructions and willingness to train suitable applicants; latest source observation 2026-10-25
+- [Técnico de verticales (ANETVA/IRATA), Alicante — Tradivel vacancy board](https://tradivel.epreselec.com/Ofertas/Ofertas.aspx) — Grok Bot; current source status: live; the named vacancy remains on this multi-vacancy page; latest source observation 2026-10-25
 
-- [Técnico de verticales (ANETVA/IRATA), Alicante — Tradivel vacancy board](https://tradivel.epreselec.com/Ofertas/Ofertas.aspx) — Grok Bot; current source status: live; the named vacancy remains on this multi-vacancy page; latest source observation 2026-10-24
+## Source-reported closures (6)
 
-## Source-reported closures (10)
-
-- [Rocciatore / addetto lavori in fune — Gi Group](https://www.jobijoba.it/annunci-di-lavoro/13/d4fa06eeff2ef6bf6aab161ce5a8d5aa) — Grok Bot reported the Jobijoba copy closed (HTTP 410) on 2026-10-24
-- [Cordiste (H/F) — Avantage Intérim](https://www.hellowork.com/fr-fr/emplois/84517777.html) — Grok Bot reported no longer available on 2026-10-24
-- [Cordiste urbain (H/F) — Solcis Nice, Solliès-Ville copy](https://www.hellowork.com/fr-fr/emplois/84517627.html) — Grok Bot reported no longer available on 2026-10-24
-- [Cordiste urbain (H/F) — Solcis Nice, Nice copy](https://candidat.francetravail.fr/offres/recherche/detail/214WBBV) — Grok Bot reported no longer available on 2026-10-24
-- [Cordiste (H/F) — Network Intérim Cannes](https://www.hellowork.com/fr-fr/emplois/84497485.html) — Grok Bot reported no longer available on 2026-10-24
-- [Cordiste (H/F) — Toma Intérim](https://www.hellowork.com/fr-fr/emplois/84548115.html) — Grok Bot reported no longer available on 2026-10-24
-- [Technicien cordiste urbain — PROXIMA Intérim](https://candidat.francetravail.fr/offres/recherche/detail/214QRNB) — Grok Bot reported closed (HTTP 404) on 2026-10-24
-- [Cordiste, Sainte-Maxime — PROXIMA Intérim](https://candidat.francetravail.fr/offres/recherche/detail/214RGNF) — Grok Bot reported closed (HTTP 404) on 2026-10-24
-- [Ouvrier cordiste, travaux publics — VCSP / Corse Travaux](https://candidat.francetravail.fr/offres/recherche/detail/214SLSF) — Grok Bot reported closed (HTTP 404) on 2026-10-24
-- [Pedreiros e Pintores de Alturas / Rapel — Solução Futuro](https://www.net-empregos.com/15979044/pedreiros-e-pintores-de-alturas-trabalhos-em-rapel-m-f-barreiro-margem-sul/) — Grok Bot reported the application deadline passed on 2026-10-24
+- [Industriekletterer (m/w), permanent direct hire — Bellini Personal](https://www.jobscout24.ch/de/job/e008e3f0-2b1a-4093-aded-d1edb054c2a4/) — Grok Bot reported the Bellini JobScout24 campaign closed (HTTP 410) on 2026-10-25
+- [Cordiste (H/F) — Intersud Intérim](https://www.hellowork.com/fr-fr/emplois/84523320.html) — Grok Bot reported no longer available on 2026-10-25
+- [Cordiste (H/F) — Workplace](https://www.hellowork.com/fr-fr/emplois/83564026.html) — Grok Bot reported no longer available on 2026-10-25
+- [Operatore su fune / Caposquadra — In Corda SRLS](https://www.jobijoba.it/annunci-di-lavoro/13/775ef9e3efa08fcc37e784bc09d1e809) — Grok Bot reported the Jobijoba copy closed (HTTP 410) on 2026-10-25
+- [Montador de Andaimes / Alpinista](https://www.net-empregos.com/15866047/montador-de-andaimes-alpinista/) — Grok Bot reported the advert no longer active on 2026-10-25
+- [Recrutamento Alpinistas — BestPlusGold](https://www.net-empregos.com/15865464/recrutamento-alpinistas-trabalhos-em-altura-lisboa/) — Grok Bot reported the advert no longer active on 2026-10-25
 
 ## Source-reported reopenings (0)
 
 ## Confirmed duplicate findings collapsed (0)
 
-One new uncertain different-URL group was added for the DeA re-post; eleven possible mirror groups remain in [potential mirrors](merges/2026-10-24-01/potential-mirrors.md). Grok Bot summarized three additional closed duplicate copies without publishing their individual URLs in the dated findings file; under the repository procedure those summaries were not converted into normalized closure observations from private context state.
+One new uncertain different-URL group was added for the Toma Intérim Toulouse campaign; twelve possible mirror groups remain in [potential mirrors](merges/2026-10-25-01/potential-mirrors.md). Grok Bot also summarized one closed Edilfuni duplicate copy without publishing its individual URL in the dated findings file; under the repository procedure it was not converted into a normalized closure observation from private context state.
