@@ -529,3 +529,10 @@ The 16 October unverified mention did not prove reopening, so that run correctly
 
 The source explicitly links these as the same job. Both URL-level statuses are retained so the closed France Travail page is never presented as active while the usable HelloWork application route remains visible.
 
+## [Rope Access Technician — Jobindex](https://www.jobindex.dk/jobannonce/r12448447/rope-access-technician) — country
+
+- Earlier combined observations identify Davai Bridge and Tunnel A/S and classify the role under Norway.
+- Claude's 25 October digest groups the same URL under Denmark but says the city and employer were not visible and marks it unverified ([finding](https://github.com/duvida13/rope-access-job-search/blob/8cd363187dd0b9aded75dfcdacc677d858672a05/digests/2026-10-25.md)).
+
+The cumulative vacancy row remains under Norway pending a confirmable location. The 25 October source wording is retained as a Denmark-labeled observation rather than silently replacing the earlier country claim.
+
