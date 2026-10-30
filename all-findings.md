@@ -15,8 +15,8 @@ For the newest additions, see [latest findings](latest.md). For full source stat
 - [Denmark (70)](#denmark)
 - [Estonia (2)](#estonia)
 - [Finland (3)](#finland)
-- [France (1061)](#france)
-- [Germany (395)](#germany)
+- [France (1062)](#france)
+- [Germany (396)](#germany)
 - [Iceland (1)](#iceland)
 - [Ireland (90)](#ireland)
 - [Italy (259)](#italy)
@@ -29,7 +29,7 @@ For the newest additions, see [latest findings](latest.md). For full source stat
 - [Norway (173)](#norway)
 - [Poland (33)](#poland)
 - [Portugal (133)](#portugal)
-- [Romania (26)](#romania)
+- [Romania (27)](#romania)
 - [Spain (305)](#spain)
 - [Sweden (39)](#sweden)
 - [Switzerland (87)](#switzerland)
@@ -1357,6 +1357,7 @@ For the newest additions, see [latest findings](latest.md). For full source stat
 - [Cordiste maçon](https://www.hellowork.com/fr-fr/emplois/74014790.html) — Grok Bot; last reported 2026-10-29
 - [Couvreur cordiste](https://www.hellowork.com/fr-fr/emplois/81813224.html) — Grok Bot; last reported 2026-10-29
 - [Technicien CND – cordiste](https://www.hellowork.com/fr-fr/emplois/79484502.html) — Grok Bot; last reported 2026-10-29
+- [Technicien cordiste H/F — HAUTLINE](https://to.indeed.com/aa6ts48jtwrq) — Claude; last reported 2026-10-29
 
 ## Germany
 
@@ -1755,6 +1756,7 @@ For the newest additions, see [latest findings](latest.md). For full source stat
 - [Quereinsteiger aus dem Handwerk – Ausbildung zum Höhenarbeiter](https://www.arbeitsagentur.de/jobsuche/jobdetail/11971-1001906558432411-S) — Grok Bot; last reported 2026-10-29
 - [Elektriker als Industriekletterer](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003924514-S) — Grok Bot; last reported 2026-10-29
 - [Schlosser/Metallbauer als Industriekletterer](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003924968-S) — Grok Bot; last reported 2026-10-29
+- [Industriekletterer m/w/d](https://to.indeed.com/aa4b8jx8hyvc) — Claude; last reported 2026-10-29
 
 ## Iceland
 
@@ -2446,7 +2448,7 @@ For the newest additions, see [latest findings](latest.md). For full source stat
 - [Stillasmontør](https://karrierestart.no/ledig-stilling/1269207) — Claude; last reported 2026-10-01
 - [Stillasmontør Onshore/Offshore](https://www.jobleads.com/no/job/stillasmontor-onshore-offshore-fast-ansettelse--bergen--eac475cfebe9a732043a31c8014d53d8c) — Claude; last reported 2026-08-26
 - [Stillasmontører til fast rotasjon offshore](https://karrierestart.no/ledig-stilling/1050990) — Claude; last reported 2026-10-01
-- [Tilkomst tekniker / Rope Access (offshore)](https://karrierestart.no/ledig-stilling/199478) — Claude; last reported 2026-10-11
+- [Tilkomst tekniker / Rope Access (offshore)](https://karrierestart.no/ledig-stilling/199478) — Claude; last reported 2026-10-29
 - [Tilkomsttekniker](https://karrierestart.no/ledig-stilling/1167299) — Claude; last reported 2026-08-09
 - [Tilkomsttekniker](https://karrierestart.no/ledig-stilling/1431149) — Claude; last reported 2026-08-09
 - [Tilkomsttekniker](https://karrierestart.no/ledig-stilling/156312) — Claude; last reported 2026-08-09
@@ -2724,6 +2726,7 @@ For the newest additions, see [latest findings](latest.md). For full source stat
 - [Alpinist utilitar telecomunicații](https://www.publi24.ro/anunturi/locuri-de-munca/it-telecomunicatii/anunt/alpinist-utilitar-si-sef-de-echipa-telecomunicatii/67e8i3f8612d73f1e731688gfei0239f.html) — Grok Bot; last reported 2026-10-23
 - [Tehnician telecomunicații / alpinist utilitar](https://www.publi24.ro/anunturi/locuri-de-munca/it-telecomunicatii/anunt/technician-telecomunicatii-alpinist-utilitar/h32d4g6hh98f7d2hdf3699g0ih3d9356.html) — Grok Bot; last reported 2026-10-23
 - [Alpinist, tehnician telecomunicații](https://www.publi24.ro/anunturi/locuri-de-munca/it-telecomunicatii/anunt/alpinist-tehnician-telecomunicatii/118h7ee718dd709ge304f7g8i9986g4i.html) — Grok Bot; last reported 2026-10-23
+- [Alpinist utilitar – outdoor advertising](https://www.olx.ro/oferta/loc-de-munca/angajam-colaboram-cu-alpinist-utilitar-lucrari-publicitate-outdoor-IDkvs7y.html) — ChatGPT; last reported 2026-10-30
 
 ## Spain
 
