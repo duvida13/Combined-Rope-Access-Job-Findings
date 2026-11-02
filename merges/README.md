@@ -28,3 +28,4 @@ Each requested merge has its own folder. For runs after the 29 September baselin
 - [2026-10-30-01](2026-10-30-01/README.md) — after the 29 October checkpoints through 30 October 2026
 - [2026-10-31-01](2026-10-31-01/README.md) — after the 30 October checkpoints through 31 October 2026
 - [2026-11-01-01](2026-11-01-01/README.md) — after the 31 October checkpoints through 1 November 2026
+- [2026-11-02-01](2026-11-02-01/README.md) — after the 1 November checkpoints through 2 November 2026
