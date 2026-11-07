@@ -34,3 +34,5 @@ Each requested merge has its own folder. For runs after the 29 September baselin
 - [2026-11-05-01](2026-11-05-01/README.md) — after the 4 November checkpoints through 5 November 2026
 
 - [2026-11-06-01](2026-11-06-01/) — 12 new non-closed jobs, 20 rechecks/confirmed mirrors, 8 closures, 0 reopenings.
+
+- [2026-11-07-01](2026-11-07-01/) — 8 new non-closed jobs, 19 rechecks/confirmed mirrors, 2 closures, 7 reopenings.
