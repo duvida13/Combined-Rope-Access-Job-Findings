@@ -38,3 +38,5 @@ Each requested merge has its own folder. For runs after the 29 September baselin
 - [2026-11-07-01](2026-11-07-01/) — 8 new non-closed jobs, 19 rechecks/confirmed mirrors, 2 closures, 7 reopenings.
 
 - [2026-11-09-01](2026-11-09-01/) — 27 new non-closed jobs, 16 rechecks/confirmed mirrors, 8 closures, 1 reopening.
+
+- [2026-11-10-01](2026-11-10-01/) — 11 new non-closed jobs, 6 rechecks, 1 closure, 1 reopening.
