@@ -4,11 +4,11 @@ This repository collects **position titles and vacancy links** reported by four 
 
 ## Open the findings
 
-- [Latest merge](latest.md) — 7 new non-closed jobs in the 2026-11-16 run, plus 20 rechecks/confirmed mirrors, 7 source-reported closures, and 1 reopening.
+- [Latest merge](latest.md) — 3 new non-closed jobs in the 2026-11-17 run, plus 5 rechecks/confirmed mirrors, 17 source-reported closures, and 0 reopenings.
 - [All findings by country](all-findings.md) — the full historical vacancy list in a browsable Markdown format, with position, source agents, and last reported date.
 - [Merge runs](merges/README.md) — one folder per requested merge, with only jobs first reported since the previous run clearly separated from rechecks.
-- [Vacancy links (CSV)](vacancies.csv) — 4,125 distinct individual or shortened job URLs from the published history. Sort by `latest_source_date` before opening. Historical entries are **not automatically current vacancies**.
-- [Links needing review](review-links.csv) — 187 search or general careers pages kept separately because they do not identify one posting reliably.
+- [Vacancy links (CSV)](vacancies.csv) — 4,138 distinct individual or shortened job URLs from the published history. Sort by `latest_source_date` before opening. Historical entries are **not automatically current vacancies**.
+- [Links needing review](review-links.csv) — 188 search or general careers pages kept separately because they do not identify one posting reliably.
 - [Source differences](conflicts.md) — same-link wording, country, or status differences that warrant human review. All source claims are retained.
 
 ## How this snapshot was made

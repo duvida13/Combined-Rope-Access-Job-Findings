@@ -1,110 +1,83 @@
-# Combined findings — 2026-11-16
+# Combined findings — 2026-11-17
 
-This incremental run processes source publications after the saved 15 November checkpoints through 16 November 2026. A source date is not proof that applications remain open. Claude marked its entire batch as not confirmed open; those entries remain explicitly unverified. Different-URL campaign mirrors remain separate unless the available evidence proves that they represent one vacancy.
+This incremental run processes source publications after the saved 16 November checkpoints through 17 November 2026. A source date is not proof that applications remain open. Claude could not confirm any of its six observations as open; those entries remain explicitly unverified. Different-URL campaign mirrors remain separate unless the available evidence proves that they represent one vacancy.
 
-- **New non-closed individual or shortened jobs:** 7
-- **Previously listed jobs rechecked or confirmed as mirrors:** 20
-- **New general/search links for review:** 2
-- **Previously listed general/search links rechecked:** 0
-- **Source-reported closures/expirations:** 7
-- **Source-reported reopenings:** 1
+- **New non-closed individual or shortened jobs:** 3
+- **Previously listed jobs rechecked or confirmed as mirrors:** 5
+- **New general/search links for review:** 1
+- **Previously listed general/search links rechecked:** 1
+- **Source-reported closures/expirations:** 17
+- **Source-reported reopenings:** 0
 - **Duplicate findings collapsed:** 0
 
-## New findings — not in the previous combined list and not reported closed (7)
-
-### Belgium
-
-- [Klimmer (interim)](https://www.vdab.be/vindeenjob/vacatures/74521294/klimmer) — Claude; current source status: unverified; unspecified (VDAB listing); latest source observation 2026-11-15
-- [Rigger](https://www.vdab.be/vindeenjob/vacatures/74399139/rigger) — Claude; current source status: unverified; unspecified (VDAB listing); latest source observation 2026-11-15
+## New findings — not in the previous combined list and not reported closed (3)
 
 ### France
 
-- [COUVREUR CORDISTE (H/F)](https://candidat.francetravail.fr/offres/recherche/detail/191SHVN) — Claude; current source status: unverified; unspecified (France Travail); latest source observation 2026-11-15
-- [CORDISTE MACONNERIE H/F](https://candidat.francetravail.fr/offres/recherche/detail/191ZTRV) — Claude; current source status: unverified; unspecified (France Travail); latest source observation 2026-11-15
-- [CORDISTES H/F](https://candidat.francetravail.fr/offres/recherche/detail/191ZSCJ) — Claude; current source status: unverified; unspecified (France Travail); latest source observation 2026-11-15
-
-### Netherlands
-
-- [Fall Protection Installer](https://www.vacatureplaats.nl/vacature/fall-protection-installer-noorden-alphen-aan-den-rijn-E1455753928) — Claude; current source status: unverified; unspecified; latest source observation 2026-11-15
-- [Advanced NDT Technician](https://onestopndt.com/ndt-jobs/advanced-ndt-technician-11) — Claude; current source status: unverified; Bilfinger; latest source observation 2026-11-15
-
-## Previously listed findings rechecked or confirmed as mirrors (20)
-
-### Belgium
-
-- [Klimmer](https://www.vdab.be/vindeenjob/vacatures/74320668/klimmer) — Claude; current source status: unverified; unspecified (VDAB-partner listing); latest source observation 2026-11-15
-- [Klimmer](https://www.vdab.be/vindeenjob/vacatures/74521296/klimmer) — Claude; current source status: unverified; unspecified (VDAB listing); latest source observation 2026-11-15
-- [Klimmer](https://www.vdab.be/vindeenjob/vacatures/72875301/klimmer) — Claude; current source status: unverified; unspecified (VDAB listing); latest source observation 2026-11-15
-- [IRATA L3 Technieker Offshore Industrie](https://www.vdab.be/vindeenjob/vacatures/73571813/irata-l3-technieker-offshore-industrie) — Claude; current source status: unverified; unspecified (VDAB listing); latest source observation 2026-11-15
-
-### France
-
-- [Cordiste (H/F)](https://candidat.francetravail.fr/offres/recherche/detail/3866657) — Claude; current source status: unverified/re-posted; unspecified (France Travail); latest source observation 2026-11-15
-- [CORDISTE H/F](https://candidat.francetravail.fr/offres/recherche/detail/1506494) — Claude; current source status: unverified; unspecified (France Travail); latest source observation 2026-11-15
-- [CORDISTE BTP INDUSTRIE (H/F) — secteurs Rennes / St Malo](https://candidat.francetravail.fr/offres/recherche/detail/190VLHX) — Claude; current source status: unverified; unspecified (France Travail); latest source observation 2026-11-15
+- [Technicien cordiste H/F](https://to.indeed.com/aaf9997nw82w) — Claude; current source status: unverified; Somai; latest source observation 2026-11-16
 
 ### Germany
 
-- [Industriekletterer / Höhenarbeiter](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003809419-S) — Claude; current source status: unverified; unspecified (Bundesagentur für Arbeit listing); latest source observation 2026-11-15
+- [Industriekletterer / Servicetechniker (m/w/d) FISAT Level 1 oder Level 2](https://jobportal.max-boegl.de/Industriekletterer-Servicetechniker-mwd-FISAT-Level-1-oder-de-j2240.html) — ChatGPT; current source status: live; Max Bögl Bauservice GmbH & Co. KG; latest source observation 2026-11-17
+- [Seilzugangstechniker (m/w/d) Rotorblattservice](https://jobs.deutsche-windtechnik.com/jobs/67951407/Seilzugangstechniker-m-w-d-f%C3%BCr-den-Rotorblattservice-an-Windenergieanlagen/) — Grok Bot; current source status: live (page dated 2026-10-19; valid to 2028); Deutsche Windtechnik; latest source observation 2026-11-17
 
-### Italy
-
-- [Operatore su fune – Lazio and Toscana](https://www.evoluzionedilizia.it/operatore-su-fune/) — Grok Bot; current source status: live; Evoluzione Edilizia; latest source observation 2026-11-16
-- [Lavoratore su fune](https://www.grimmservicelinee.it/p/it/lavora-con-noi/posizioni-aperte/64/) — Grok Bot; current source status: live; Grimm Service Linee; latest source observation 2026-11-16
-
-### Netherlands
-
-- [Rope Access-technicus](https://rejobs.org/nl/duurzame-energie-vacatures/139172-rope-access-technician-aerones) — Claude; current source status: unverified; confirmed mirror; Aerones; latest source observation 2026-11-15
-- [Uitvoerder Rope Access](https://bnlaltradservices.recruitee.com/l/en/o/uitvoerder-rope-access-10) — Claude; current source status: unverified/re-posted; confirmed mirror; Altrad Services B.V.; latest source observation 2026-11-15
-
-### Norway
-
-- [Rope Access Technician, RIS](https://karrierestart.no/ledig-stilling/1662561) — Claude; current source status: unverified/re-posted; Odfjell Energy; latest source observation 2026-11-15
-
-### Spain
-
-- [Técnico en Trabajos Verticales con cualificación ANETVA/IRATA nivel 3](https://www.anetva.org/oferta-de-empleo/tecnico-en-trabajos-verticales-con-cualificacion-anetva-irata-nivel-3/) — Claude; current source status: unverified; unspecified (Anetva job board); latest source observation 2026-11-15
-- [2 Trabajadores Verticales](https://www.anetva.org/oferta-de-empleo/2-trabajadores-verticales/) — Claude; current source status: unverified; unspecified (Anetva job board); latest source observation 2026-11-15
-- [Técnicos en Trabajos Verticales](https://www.anetva.org/oferta-de-empleo/tecnicos-en-trabajos-verticales-42/) — Claude; current source status: unverified; unspecified (Anetva job board); latest source observation 2026-11-15
-- [Técnicos en Trabajos Verticales para Madrid y Valencia](https://www.anetva.org/oferta-de-empleo/tecnicos-en-trabajos-verticales-para-madrid-y-valencia/) — Claude; current source status: unverified; unspecified (Anetva job board); latest source observation 2026-11-15
-- [Albañil en trabajos verticales en Barcelona](https://www.anetva.org/oferta-de-empleo/albanil-en-trabajos-verticales-en-barcelona/) — Claude; current source status: unverified; unspecified (Anetva job board); latest source observation 2026-11-15
-- [Albañil en trabajos verticales en Valencia](https://www.anetva.org/oferta-de-empleo/albanil-en-trabajos-verticales-en-valencia/) — Claude; current source status: unverified; unspecified (Anetva job board); latest source observation 2026-11-15
-
-### United Kingdom
-
-- [IRATA Technicians – building maintenance and inspection](https://www.specialistaccesstechnicians.co.uk/recruitment/) — Grok Bot; current source status: live; confirmed mirror; Specialist Access Technicians (SAT); latest source observation 2026-11-16
-
-## New general/search pages for review (2)
-
-### Italy
-
-- [Ricerca assistenti tecnici (formazione e assunzione)](https://www.ticonsiglio.com/edilizia-acrobatica-cerca-assistenti-tecnici-formazione-assunzione/) — Claude; current source status: unverified; Edilizia Acrobatica; latest source observation 2026-11-15
-- [Delta Funi rope-access roles – specialist and apprentice](https://deltafuni.it/lavora-con-noi) — Grok Bot; current source status: live; two roles on one shared careers page; Delta Funi Srl; latest source observation 2026-11-16
-
-## Previously listed review pages rechecked (0)
-
-## Source-reported closures (7)
+## Previously listed findings rechecked or confirmed as mirrors (5)
 
 ### France
 
-- [Cordiste (H/F)](https://candidat.francetravail.fr/offres/recherche/detail/215JGTB) — Grok Bot; current source status: closed (HTTP 404); TGH; latest source observation 2026-11-16
-- [Chef / Cheffe d'équipe cordiste (H/F)](https://candidat.francetravail.fr/offres/recherche/detail/215JGQL) — Grok Bot; current source status: closed (HTTP 404); TGH; latest source observation 2026-11-16
-- [Ouvrier cordiste – food-industry mechanic profile](https://candidat.francetravail.fr/offres/recherche/detail/215VTZZ) — Grok Bot; current source status: closed (HTTP 404); OCEANE Intérim; latest source observation 2026-11-16
-- [Cordiste maçon](https://candidat.francetravail.fr/offres/recherche/detail/215ZFBP) — Grok Bot; current source status: closed (HTTP 404); TRIMERIS Intérim & Recrutement; latest source observation 2026-11-16
-- [Cordiste / couvreur (H/F)](https://www.hellowork.com/fr-fr/emplois/84478490.html) — Grok Bot; current source status: closed (offer no longer available); Solano Intérim (Avignon); latest source observation 2026-11-16
-- [Cordiste peintre (H/F)](https://www.hellowork.com/fr-fr/emplois/84509496.html) — Grok Bot; current source status: expired-deadline (deadline 2026-11-15 passed); Temporis Intérim; latest source observation 2026-11-16
-- [Cordiste (H/F)](https://www.hellowork.com/fr-fr/emplois/84507241.html) — Grok Bot; current source status: expired-deadline (deadline 2026-11-15 passed); 37 Intérim; latest source observation 2026-11-16
+- [Chef d'équipe Cordiste Urbain (H/F)](https://to.indeed.com/aaqd29mgfcxl) — Claude; current source status: unverified/re-posted; confirmed campaign mirror; Groupe LIP; latest source observation 2026-11-16
+- [Cordiste urbain (H/F)](https://to.indeed.com/aapmcwxfdqsg) — Claude; current source status: unverified/re-posted; confirmed campaign mirror; Groupe LIP; latest source observation 2026-11-16
 
-## Source-reported reopenings (1)
+### Germany
 
-### Netherlands
+- [Rope Access Technician](https://alprojects.eu/job-offers/rope-access-technician/) — Claude; current source status: unverified/likely stale (listed start date 2025-03-01); ALprojects; latest source observation 2026-11-16
+- [Industriekletterer (m/w/d) Rotorblattreparaturen](https://jobs.rts-wind.de/stellenangebote/Industriekletterer-m-w-d-Rotorblattreparaturen-Hannover-RTS-Wind-AG--666260457) — Grok Bot; current source status: live (posted 2026-11-14); RTS Wind AG; latest source observation 2026-11-17
 
-- [Rope Access Technician](https://jobs.bilfinger.com/job/Rotterdam-Rope-Access-Technician-ZH-3082KV/1006540301/) — Grok Bot; current source status: reopened/live (HTTP 200); Bilfinger Height Specialists; latest source observation 2026-11-16
+### Spain
+
+- [Rope Access / Vertical Work Technician](https://ttrinternational.com/en/employment/) — Claude; current source status: unverified; shared employment page; TTR International; latest source observation 2026-11-16
+
+## New general/search pages for review (1)
+
+### Germany
+
+- [Industriekletterer (m/w/d) mit handwerklicher Ausbildung](https://www.genetworld.com/de/karriere/stellenangebote.html) — ChatGPT; current source status: live; shared employer jobs page and confirmed language mirror of the previously listed English careers URL; Ge:Net GmbH; latest source observation 2026-11-17
+
+## Previously listed review pages rechecked (1)
+
+### Lithuania / Europe
+
+- [Rope Access and Wind Turbine Jobs in Europe](https://gridinta.eu/careers/) — Claude; current source status: unverified; general careers page; Gridinta; latest source observation 2026-11-16
+
+## Source-reported closures (17)
+
+### France
+
+- [Cordiste (H/F) – 8-ad campaign](https://www.hellowork.com/fr-fr/emplois/84588060.html) — Grok Bot; current source status: closed (offer no longer available); LIP Industrie Technique et Nucléaire; latest source observation 2026-11-17
+- [Chef d'équipe cordiste urbain (H/F)](https://www.hellowork.com/fr-fr/emplois/84588061.html) — Grok Bot; current source status: closed (offer no longer available); LIP Industrie Technique et Nucléaire; latest source observation 2026-11-17
+- [Cordiste — campaign card 84588081](https://www.hellowork.com/fr-fr/emplois/84588081.html) — Grok Bot; current source status: closed (offer no longer available); LIP Industrie Technique et Nucléaire; latest source observation 2026-11-17
+- [Cordiste — campaign card 84588066](https://www.hellowork.com/fr-fr/emplois/84588066.html) — Grok Bot; current source status: closed (offer no longer available); LIP Industrie Technique et Nucléaire; latest source observation 2026-11-17
+- [Cordiste — campaign card 84588056](https://www.hellowork.com/fr-fr/emplois/84588056.html) — Grok Bot; current source status: closed (offer no longer available); LIP Industrie Technique et Nucléaire; latest source observation 2026-11-17
+- [Cordiste — campaign card 84588043](https://www.hellowork.com/fr-fr/emplois/84588043.html) — Grok Bot; current source status: closed (offer no longer available); LIP Industrie Technique et Nucléaire; latest source observation 2026-11-17
+- [Cordiste — campaign card 84588025](https://www.hellowork.com/fr-fr/emplois/84588025.html) — Grok Bot; current source status: closed (offer no longer available); LIP Industrie Technique et Nucléaire; latest source observation 2026-11-17
+- [Cordiste — campaign card 84588054](https://www.hellowork.com/fr-fr/emplois/84588054.html) — Grok Bot; current source status: closed (offer no longer available); LIP Industrie Technique et Nucléaire; latest source observation 2026-11-17
+- [Cordiste — campaign card 84588036](https://www.hellowork.com/fr-fr/emplois/84588036.html) — Grok Bot; current source status: closed (offer no longer available); LIP Industrie Technique et Nucléaire; latest source observation 2026-11-17
+- [Cordiste TP](https://www.hellowork.com/fr-fr/emplois/84792708.html) — Grok Bot; current source status: closed (offer no longer available); Proxima Intérim; latest source observation 2026-11-17
+- [Monteur-soudeur cordiste](https://www.hellowork.com/fr-fr/emplois/85036776.html) — Grok Bot; current source status: closed (offer no longer available); WellJob Intérim; latest source observation 2026-11-17
+- [Cordiste Urbain, intérim — Toulouse (31) — twin card](https://www.hellowork.com/fr-fr/emplois/85423044.html) — Grok Bot; current source status: closed (offer no longer available); Empleo; latest source observation 2026-11-17
+- [Cordiste (H/F)](https://candidat.francetravail.fr/offres/recherche/detail/215KWZQ) — Grok Bot; current source status: closed (HTTP 404); GreenStep Intérim & Placement; latest source observation 2026-11-17
+- [Ouvrier cordiste – pose de filets](https://candidat.francetravail.fr/offres/recherche/detail/215RHBJ) — Grok Bot; current source status: closed (HTTP 404); OCEANE Intérim; latest source observation 2026-11-17
+- [Ouvrier cordiste industrie / attraction](https://candidat.francetravail.fr/offres/recherche/detail/215RGQR) — Grok Bot; current source status: closed (HTTP 404); OCEANE Intérim; latest source observation 2026-11-17
+- [Cordiste](https://candidat.francetravail.fr/offres/recherche/detail/215RHTZ) — Grok Bot; current source status: closed (HTTP 404); OCEANE Intérim; latest source observation 2026-11-17
+
+### Germany
+
+- [Servicetechniker Windenergie – Rotorblattreparatur](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003263531-S) — Grok Bot; current source status: closed (HTTP 410); Vestas Deutschland GmbH; latest source observation 2026-11-17
+
+## Source-reported reopenings (0)
 
 ## Confirmed duplicate findings collapsed (0)
 
-Grok Bot reported two distinct Delta Funi roles on one shared careers URL. Both source observations were preserved, while the cumulative link collection represents the shared page once in the review index.
+No same-URL duplicate was collapsed. Two new Groupe LIP shortened links were explicitly reported as re-posted campaign mirrors and remain separate; the existing Groupe LIP possible-mirror group was extended. The new Deutsche Windtechnik URL remains separate from earlier campaign URLs and was added to that existing possible-mirror group. Forty-two possible mirror groups remain in [potential mirrors](merges/2026-11-17-01/potential-mirrors.md).
 
-No new uncertain mirror group was added. The existing Altrad Uitvoerder group gained the new `uitvoerder-rope-access-10` URL; forty-two possible mirror groups remain in [potential mirrors](merges/2026-11-16-01/potential-mirrors.md).
-
-Grok Bot named one older Jobijoba closure without publishing its exact URL in the current digest. It was not guessed into normalized observations. Seven older closure records with exact France Travail or HelloWork IDs were resolved and classified only as closures. Bilfinger Rotterdam was reported live again and appears only under reopenings.
+Grok Bot also summarized three older Jobijoba closures without publishing the vacancy IDs in the digest; those URLs were not guessed into normalized observations. Its Muehlhan closure was an out-of-scope United States role and was not added to this Europe-focused collection. The seventeen exact in-scope closure URLs above appear only under closures, never as active findings.
