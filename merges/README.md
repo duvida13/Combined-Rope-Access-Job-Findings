@@ -62,3 +62,5 @@ Each requested merge has its own folder. For runs after the 29 September baselin
 - [2026-11-20-01](2026-11-20-01/) — 8 new non-closed jobs, 25 individual rechecks, 5 new review links, 5 review-link rechecks, 0 exact closures, 0 reopenings.
 
 - [2026-11-21-01](2026-11-21-01/) — 3 new non-closed jobs, 10 individual rechecks, 1 new review link, 3 review-link rechecks, 2 closures, 0 reopenings.
+
+- [2026-11-22-01](2026-11-22-01/) — 2 new non-closed jobs, 11 individual rechecks/confirmed mirrors, 2 review-link rechecks, 1 closure, 0 reopenings.
