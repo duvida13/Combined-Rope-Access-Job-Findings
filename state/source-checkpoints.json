@@ -1,9 +1,9 @@
 {
-  "merged_at": "2026-11-25",
+  "merged_at": "2026-11-26",
   "source_commits": {
-    "duvida13/ChatGPT-Daily-Job-Search-Rope-Access-": "afceacb8f78e9e4d00eac8ab014592aa9b8599b3",
-    "duvida13/rope-access-job-search": "f2831ae3728edb84587f8b72d34b44ee76617f8f",
+    "duvida13/ChatGPT-Daily-Job-Search-Rope-Access-": "1ce9b9eebca49406ed13c3d3e9331c335029f465",
+    "duvida13/rope-access-job-search": "a7779f3aee1c410dfb045bb5590f8059acf232cc",
     "duvida13/GROK-Rope-Access-Job-Search": "e81dee6440b9dc18513f8be15986c6e519151a64",
-    "duvida13/GROK-BOT": "573148966ffcb3c44698eb6aa58e1a3a817de233"
+    "duvida13/GROK-BOT": "b0b8c5cf19dcdd39d6cb5430ba7a731ffe568a7a"
   }
 }

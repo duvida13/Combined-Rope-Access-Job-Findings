@@ -536,3 +536,7 @@ The source explicitly links these as the same job. Both URL-level statuses are r
 
 The cumulative vacancy row remains under Norway pending a confirmable location. The 25 October source wording is retained as a Denmark-labeled observation rather than silently replacing the earlier country claim.
 
+## [Technicien Cordiste H/F, requisition 8695355](https://groupena.teamtailor.com/jobs/8695355-technicien-cordiste-h-f) — location and requirements
+
+- Grok Bot’s 12 November observation was assigned to France in the combined index. [Previous source](https://github.com/duvida13/GROK-BOT/blob/58a440e1b6f2669bdba72afeb8ec1be2bac4a9f8/finds/2026-11-12.md)
+- The 26 November digest identifies the same advert ID in Mouscron, Belgium. It reports IRATA Level 2 or 3 for a January 2027 start. The current index uses Belgium. [Current source](https://github.com/duvida13/GROK-BOT/blob/b0b8c5cf19dcdd39d6cb5430ba7a731ffe568a7a/finds/2026-11-26.md)
