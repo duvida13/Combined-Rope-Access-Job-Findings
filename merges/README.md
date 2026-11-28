@@ -72,3 +72,5 @@ Each requested merge has its own folder. For runs after the 29 September baselin
 - [2026-11-26-01](2026-11-26-01/) — 2 new non-closed individual links, 14 individual rechecks, 3 new review links, 8 review-link rechecks, 4 matched closure or expiry observations, 0 reopenings, and 0 unresolved status conflicts.
 
 - [2026-11-27-01](2026-11-27-01/) — 3 new non-closed individual links, 16 individual rechecks, 1 new review link, 9 review-link rechecks, 5 matched closure or expiry observations, 0 reopenings, and 0 unresolved status conflicts.
+
+- [2026-11-28-01](2026-11-28-01/) — 1 new non-closed individual link, 22 individual rechecks, 1 new review link, 3 review-link rechecks, 0 matched closures, 1 reopening, and 0 unresolved status conflicts.
